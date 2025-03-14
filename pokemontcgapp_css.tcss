@@ -1,0 +1,14 @@
+Screen {
+  align: center middle;
+}
+
+Tabs {
+  dock: top;
+}
+
+#decks-view {
+  layout: grid;
+  grid-size: 3;
+  grid-columns: 1fr 1fr 1fr;
+}
+
