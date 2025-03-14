@@ -1,14 +1,18 @@
 Screen {
-  align: center middle;
+    align: center middle;
 }
 
 Tabs {
-  dock: top;
+    dock: top;
 }
 
 #decks-view {
-  layout: grid;
-  grid-size: 3;
-  grid-columns: 1fr 1fr 1fr;
+    layout: grid;
+    grid-size: 3 2;
+    grid-columns: 1fr;
+    grid-rows: 80vh 20vh;
 }
 
+#decks-column-1, #decks-column-3 {
+    row-span: 2;
+}

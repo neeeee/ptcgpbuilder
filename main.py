@@ -85,26 +85,22 @@ class CardImage(Static):
 
 class DeckView(Static):
     def compose(self) -> ComposeResult:
-        yield Horizontal(
-            Vertical(
+        with Horizontal(id="decks-view"):
+            yield Vertical(
                 Static("Decks"),
                 ListView(id="decks-deck-selector"),
                 classes="column",
-            ),
-            Vertical(
+                id="decks-column-1")
+            yield Vertical(
                 Static("Card List"),
                 ListView(id="decks-cards-list"),
-                Horizontal(
-                    Static("Card Stats"),
-                    Static("", id="decks-card-stats"),
-                ),
-            ),
-            Vertical(
+                Static("Card Stats"),
+                Static("", id="decks-card-stats"),
+            )
+            yield Vertical(
                 Static("Card Image"),
                 CardImage(id="card-image-decks-view"),
-            ),
-            id="decks-view",
-        )
+                id="decks-column-3")
 
 
 class BuilderView(Static):
@@ -195,7 +191,6 @@ class PokemonTCGApp(App):
 
 
     def action_focus_previous_column(self) -> None:
-        """Focus the previous column."""
         focused_widget = self.focused
         if focused_widget:
             parent = focused_widget.parent
@@ -205,7 +200,6 @@ class PokemonTCGApp(App):
                     parent.children[index - 1].focus()
 
     def action_focus_next_column(self) -> None:
-        """Focus the next column."""
         focused_widget = self.focused
         if focused_widget:
             parent = focused_widget.parent
@@ -315,9 +309,9 @@ class PokemonTCGApp(App):
                         f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
                     )
             except Exception as e:
-                self.logger.error(f"Error handling card selection: {e}")
+                self.logger.error(f"In builder-cards-list -> Error handling card selection: {e}")
 
-        if event.list_view.id == "decks-deck-selector":
+        elif event.list_view.id == "decks-deck-selector":
             try:
                 deck_id = getattr(event.item, "deck_id", None)
                 if deck_id is None:
@@ -352,9 +346,9 @@ class PokemonTCGApp(App):
                     setattr(item, "card_id", card[1])
                     decks_cards_list.mount(item)
             except Exception as e:
-                self.logger.error(f"Error handling card selection: {e}")
+                self.logger.error(f"In decks-deck-selector -> Error handling card selection: {e}")
 
-        if event.list_view.id == "decks-cards-list":
+        elif event.list_view.id == "decks-cards-list":
             try:
                 card_id = getattr(event.item, "card_id", None)
                 # self.logger.info(f"Card id {card_id}")
@@ -375,13 +369,13 @@ class PokemonTCGApp(App):
                 if card:
                     self.current_card = PokemonCard(*card)
                     card_image = self.query_one("#card-image-decks-view", CardImage)
+                    stats = self.query_one("#decks-card-stats", Static)
                     card_image.update_image(card[5])
 
-                    stats = self.query_one("#decks-card-stats", Static)
-                    # self.logger.info(f"Stats exists? {stats}")
                     stats.update(
                         f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
                     )
+                    # self.logger.info(f"Stats exists? {stats}")
 
             except Exception as e:
                 self.logger.error(f"In 'decks-cards-list' -> Error handling card selection: {e}")
