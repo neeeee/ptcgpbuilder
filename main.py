@@ -85,22 +85,26 @@ class CardImage(Static):
 
 class DeckView(Static):
     def compose(self) -> ComposeResult:
-        with Horizontal(id="decks-view"):
-            yield Vertical(
+        yield Horizontal(
+            Vertical(
                 Static("Decks"),
                 ListView(id="decks-deck-selector"),
                 classes="column",
-                id="decks-column-1")
-            yield Vertical(
+            ),
+            Vertical(
                 Static("Card List"),
                 ListView(id="decks-cards-list"),
-                Static("Card Stats"),
-                Static("", id="decks-card-stats"),
-            )
-            yield Vertical(
+                Horizontal(
+                    Static("Card Stats"),
+                    Static("", id="decks-card-stats"),
+                ),
+            ),
+            Vertical(
                 Static("Card Image"),
                 CardImage(id="card-image-decks-view"),
-                id="decks-column-3")
+            ),
+            id="decks-view",
+        )
 
 
 class BuilderView(Static):
@@ -309,7 +313,7 @@ class PokemonTCGApp(App):
                         f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
                     )
             except Exception as e:
-                self.logger.error(f"In builder-cards-list -> Error handling card selection: {e}")
+                self.logger.error(f"Error handling card selection: {e}")
 
         elif event.list_view.id == "decks-deck-selector":
             try:
@@ -346,7 +350,7 @@ class PokemonTCGApp(App):
                     setattr(item, "card_id", card[1])
                     decks_cards_list.mount(item)
             except Exception as e:
-                self.logger.error(f"In decks-deck-selector -> Error handling card selection: {e}")
+                self.logger.error(f"Error handling card selection: {e}")
 
         elif event.list_view.id == "decks-cards-list":
             try:
@@ -369,13 +373,13 @@ class PokemonTCGApp(App):
                 if card:
                     self.current_card = PokemonCard(*card)
                     card_image = self.query_one("#card-image-decks-view", CardImage)
-                    stats = self.query_one("#decks-card-stats", Static)
                     card_image.update_image(card[5])
 
+                    stats = self.query_one("#decks-card-stats", Static)
+                    # self.logger.info(f"Stats exists? {stats}")
                     stats.update(
                         f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
                     )
-                    # self.logger.info(f"Stats exists? {stats}")
 
             except Exception as e:
                 self.logger.error(f"In 'decks-cards-list' -> Error handling card selection: {e}")
