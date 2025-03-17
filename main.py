@@ -1,5 +1,6 @@
+from textual import on
 from textual.app import App, ComposeResult
-from textual.containers import Horizontal, Vertical
+from textual.containers import Horizontal, Vertical, Container
 from textual.widgets import (
     Header,
     Footer,
@@ -10,6 +11,7 @@ from textual.widgets import (
     ListItem,
 )
 from textual.binding import Binding
+from textual.screen import ModalScreen
 from rich_pixels import Pixels
 from PIL import Image
 import sqlite3
@@ -32,6 +34,25 @@ class Deck:
         self.id = id
         self.name = name
         self.cards = cards or {}
+
+class DeckBuilderPopup(ModalScreen):
+    def __init__(self):
+        super().__init__()
+        self.db_conn = sqlite3.connect("pokemon_tcg.db")
+
+    BINDINGS = [("escape", "app.pop_screen", "Pop screen")]
+
+    def compose(self) -> ComposeResult:
+        with Container(id="deck-builder-popup"):
+            with Vertical():
+                with ListView():
+                    yield ListItem(Static("Add to Deck"), name="deck_modal_add")
+                    yield ListItem(Static("Remove Card from Deck"), name="deck_modal_remove")
+                    yield ListItem(Static("Mark Card"), name="deck_modal_mark")
+                    yield ListItem(Static("Search Decks with Card"), name="deck_modal_search_decks")
+                    yield ListItem(Static("Remove Card from all Decks"), name="deck_modal_remove_from_decks")
+
+
 
 
 class CardImage(Static):
@@ -85,26 +106,22 @@ class CardImage(Static):
 
 class DeckView(Static):
     def compose(self) -> ComposeResult:
-        yield Horizontal(
-            Vertical(
+        with Horizontal(id="decks-view"):
+            yield Vertical(
                 Static("Decks"),
                 ListView(id="decks-deck-selector"),
                 classes="column",
-            ),
-            Vertical(
+                id="decks-column-1")
+            yield Vertical(
                 Static("Card List"),
                 ListView(id="decks-cards-list"),
-                Horizontal(
-                    Static("Card Stats"),
-                    Static("", id="decks-card-stats"),
-                ),
-            ),
-            Vertical(
+                Static("Card Stats"),
+                Static("", id="decks-card-stats"),
+            )
+            yield Vertical(
                 Static("Card Image"),
                 CardImage(id="card-image-decks-view"),
-            ),
-            id="decks-view",
-        )
+                id="decks-column-3")
 
 
 class BuilderView(Static):
@@ -129,10 +146,11 @@ class BuilderView(Static):
 class PokemonTCGApp(App):
     CSS_PATH = "pokemontcgapp_css.tcss"
 
+    SCREENS = {"deck-builder-popup": DeckBuilderPopup}
+
     BINDINGS = [
         Binding("q", "quit", "Quit"),
-        Binding("o", "show_options", "Options"),
-        Binding("a", "add_to_deck", "Add to Deck"),
+        Binding("o", "push_screen('deck-builder-popup')", "Options"),
     ]
 
     def __init__(self):
@@ -164,36 +182,6 @@ class PokemonTCGApp(App):
                 yield BuilderView()
         yield Footer()
 
-    def on_key(self, event) -> None:
-        if event.key == "escape":
-            # Focus the tab bar
-            self.query_one(TabbedContent).focus()
-        else:
-            # Check if the tab bar is focused
-            tabbed_content = self.query_one(TabbedContent)
-            if tabbed_content.has_focus:
-                if event.key == "b":
-                    # Select the previous tab
-                    tabbed_content.active = "builder"
-                elif event.key == "d":
-                    # Select the next tab
-                    tabbed_content.active = "decks"
-            else:
-                # Handle navigation within the content
-                if event.key == "h":
-                    # Focus the previous column
-                    self.action_focus_previous_column()
-                elif event.key == "l":
-                    # Focus the next column
-                    self.action_focus_next_column()
-                elif event.key == "j":
-                    # Focus the next row
-                    self.action_focus_next()
-                elif event.key == "k":
-                    # Focus the previous row
-                    self.action_focus_previous()
-
-
     def action_focus_previous_column(self) -> None:
         focused_widget = self.focused
         if focused_widget:
@@ -211,6 +199,35 @@ class PokemonTCGApp(App):
                 index = parent.children.index(focused_widget)
                 if index < len(parent.children) - 1:
                     parent.children[index + 1].focus()
+
+    def add_to_deck(self, deck_id: int, card_id: int):
+        query = f"SELECT count FROM deck_cards WHERE deck_id = {deck_id} AND card_id = {card_id};"
+        cursor = self.db_conn.cursor()
+
+        result = cursor.execute(query).fetchone()
+
+        if result > 0 and result < 2:
+            query = f"UPDATE deck_cards SET count = count + 1 WHERE deck_id = {deck_id} AND card_id = {card_id};"
+            result = cursor.execute(query)
+
+        query = f"INSERT INTO deck_cards (deck_id, card_id, count) VALUES ({deck_id}, {card_id}, 1);"
+        cursor.execute(query)
+
+    def remove_from_deck(self, deck_id: int, card_id: int):
+        query = f"""BEGIN TRANSACTION;
+                UPDATE deck_cards
+                SET count = CASE
+                    WHEN count > 1 THEN count - 1
+                    ELSE 0
+                END
+                WHERE deck_id = {deck_id} AND card_id = {card_id};
+
+                DELETE FROM deck_cards
+                WHERE count = 0;
+                COMMIT;
+                """
+        cursor = self.db_conn.cursor()
+        cursor.execute(query)
 
     def populate_cards_list(self):
         try:
@@ -279,110 +296,127 @@ class PokemonTCGApp(App):
             self.logger.error(f"Error in on_mount: {e}")
             raise
 
+    
+    def on_unmount(self) -> None:
+        if self.db_conn:
+            self.db_conn.close()
+
     def on_tabs_tab_activated(self, event: TabbedContent.TabActivated) -> None:
         self.logger.info(f"Tab activated: {event.tab.label}")
         if event.tab.label == "Builder":
             self.populate_cards_list()
         if event.tab.label == "Decks":
             self.populate_decks_list()
+    @on(ListView.Highlighted, '#builder-cards-list')
+    def builder_cards_list_highlighted(self, event: ListView.Highlighted) -> None:
+        try:
+            card_id = getattr(event.item, "card_id", None)
+            if card_id is None:
+                return
 
-    def on_list_view_highlighted(self, event: ListView.Highlighted) -> None:
-        if event.list_view.id == "builder-cards-list":
-            try:
-                card_id = getattr(event.item, "card_id", None)
-                if card_id is None:
-                    return
+            cursor = self.db_conn.cursor()
+            query = """SELECT
+                        id, name, hp, attacks, abilities, image_path
+                    FROM
+                        cards
+                    WHERE
+                        id = ?;
+                    """
+            card = cursor.execute(query, (card_id,)).fetchone()
 
-                cursor = self.db_conn.cursor()
-                query = """SELECT
-                            id, name, hp, attacks, abilities, image_path
-                        FROM
-                            cards
-                        WHERE
-                            id = ?;
-                        """
-                card = cursor.execute(query, (card_id,)).fetchone()
+            if card:
+                self.current_card = PokemonCard(*card)
+                card_image = self.query_one("#card-image-builder-view", CardImage)
+                card_image.update_image(card[5])  # image_path
 
-                if card:
-                    self.current_card = PokemonCard(*card)
-                    card_image = self.query_one("#card-image-builder-view", CardImage)
-                    card_image.update_image(card[5])  # image_path
+                stats = self.query_one("#builder-card-stats", Static)
+                stats.update(
+                    f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
+                )
+        except Exception as e:
+            self.logger.error(f"In builder-cards-list -> Error handling card selection: {e}")
+    @on(ListView.Highlighted, '#decks-deck-selector')
+    def decks_deck_selector_highlighted(self, event: ListView.Highlighted) -> None:
+        try:
+            deck_id = getattr(event.item, "deck_id", None)
+            if deck_id is None:
+                return
 
-                    stats = self.query_one("#builder-card-stats", Static)
-                    stats.update(
-                        f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
-                    )
-            except Exception as e:
-                self.logger.error(f"Error handling card selection: {e}")
+            cursor = self.db_conn.cursor()
+            query = """SELECT
+                        d.name AS deck_name,
+                        c.id AS card_id,
+                        c.name AS card_name,
+                        dc.count
+                    FROM
+                        deck_cards dc
+                    JOIN
+                        decks d ON dc.deck_id = d.id
+                    JOIN
+                        cards c ON dc.card_id = c.id
+                    WHERE
+                        dc.deck_id = ?;
+                    """
 
-        elif event.list_view.id == "decks-deck-selector":
-            try:
-                deck_id = getattr(event.item, "deck_id", None)
-                if deck_id is None:
-                    return
+            cards = cursor.execute(query, (deck_id,)).fetchall()
 
-                cursor = self.db_conn.cursor()
-                query = """SELECT
-                            d.name AS deck_name,
-                            c.id AS card_id,
-                            c.name AS card_name,
-                            dc.count
-                        FROM
-                            deck_cards dc
-                        JOIN
-                            decks d ON dc.deck_id = d.id
-                        JOIN
-                            cards c ON dc.card_id = c.id
-                        WHERE
-                            dc.deck_id = ?;
-                        """
+            decks_cards_list = self.query_one("#decks-cards-list")
 
-                cards = cursor.execute(query, (deck_id,)).fetchall()
+            for card in cards:
+                unique_id = f"decks-card-list-{str(card[0]).replace(" ", "_")}-{time_ns()}"
+                item = ListItem(
+                    Static(card[2]),
+                    id=unique_id,
+                )
+                setattr(item, "card_id", card[1])
+                decks_cards_list.mount(item)
+        except Exception as e:
+            self.logger.error(f"In decks-deck-selector -> Error handling card selection: {e}")
 
-                decks_cards_list = self.query_one("#decks-cards-list")
+    @on(ListView.Highlighted, '#decks-cards-list')
+    def decks_cards_list_highlighted(self, event: ListView.Highlighted) -> None:
+        try:
+            card_id = getattr(event.item, "card_id", None)
+            # self.logger.info(f"Card id {card_id}")
+            if card_id is None:
+                return
 
-                for card in cards:
-                    unique_id = f"decks-card-list-{str(card[0]).replace(" ", "_")}-{time_ns()}"
-                    item = ListItem(
-                        Static(card[2]),
-                        id=unique_id,
-                    )
-                    setattr(item, "card_id", card[1])
-                    decks_cards_list.mount(item)
-            except Exception as e:
-                self.logger.error(f"Error handling card selection: {e}")
+            cursor = self.db_conn.cursor()
+            query = """SELECT
+                        id, name, hp, attacks, abilities, image_path
+                    FROM
+                        cards
+                    WHERE
+                        id = ?;
+                    """
+            card = cursor.execute(query, (card_id,)).fetchone()
+            # self.logger.info(f"Card id {card[0]} image_path {card[5]}")
 
-        elif event.list_view.id == "decks-cards-list":
-            try:
-                card_id = getattr(event.item, "card_id", None)
-                # self.logger.info(f"Card id {card_id}")
-                if card_id is None:
-                    return
+            if card:
+                self.current_card = PokemonCard(*card)
+                card_image = self.query_one("#card-image-decks-view", CardImage)
+                stats = self.query_one("#decks-card-stats", Static)
+                card_image.update_image(card[5])
 
-                cursor = self.db_conn.cursor()
-                query = """SELECT
-                            id, name, hp, attacks, abilities, image_path
-                        FROM
-                            cards
-                        WHERE
-                            id = ?;
-                        """
-                card = cursor.execute(query, (card_id,)).fetchone()
-                # self.logger.info(f"Card id {card[0]} image_path {card[5]}")
+                stats.update(
+                    f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
+                )
+                # self.logger.info(f"Stats exists? {stats}")
 
-                if card:
-                    self.current_card = PokemonCard(*card)
-                    card_image = self.query_one("#card-image-decks-view", CardImage)
-                    card_image.update_image(card[5])
+        except Exception as e:
+            self.logger.error(f"In 'decks-cards-list' -> Error handling card selection: {e}")
 
-                    stats = self.query_one("#decks-card-stats", Static)
-                    # self.logger.info(f"Stats exists? {stats}")
-                    stats.update(
-                        f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
-                    )
+    @on(ListView.Selected, '#builder-cards-list')
+    def builder_card_selected(self, event: ListView.Selected):
+        card_id = getattr(event.item, "card_id", None)
 
-            except Exception as e:
-                self.logger.error(f"In 'decks-cards-list' -> Error handling card selection: {e}")
+        if card_id is None:
+            return
+        try:
+            self.add_to_deck(1, card_id)
+
+        except Exception as e:
+            self.logger.error(f"In 'on_card_selected' -> Error adding to deck: {e}")
 
 
 def main():
