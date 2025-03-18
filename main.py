@@ -295,7 +295,6 @@ class PokemonTCGApp(App):
         except Exception as e:
             self.logger.error(f"Error in on_mount: {e}")
             raise
-
     
     def on_unmount(self) -> None:
         if self.db_conn:
@@ -307,6 +306,7 @@ class PokemonTCGApp(App):
             self.populate_cards_list()
         if event.tab.label == "Decks":
             self.populate_decks_list()
+
     @on(ListView.Highlighted, '#builder-cards-list')
     def builder_cards_list_highlighted(self, event: ListView.Highlighted) -> None:
         try:
