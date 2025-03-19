@@ -26,7 +26,12 @@ import logging
 from time import time_ns
 
 class PokemonCard:
-    def __init__(self, id = None, name = None, hp = None, attacks = None, abilities = None, image_path = None):
+    def __init__(self, id = None,
+                 name = None,
+                 hp = None,
+                 attacks = None,
+                 abilities = None,
+                 image_path = None):
         self.id = id
         self.name = name
         self.hp = hp
@@ -87,7 +92,7 @@ class AddToDeckModal(ModalScreen):
             with Container(id="existing-decks-container"):
                 yield Static("Select a deck:")
                 with ScrollableContainer(id="decks-scroll"):
-                    yield ListView(*self._get_deck_items(), id="decks-list")
+                    yield ListView(*self._get_decks_from_db(), id="decks-list")
             
             # Container for new deck (initially hidden)
             with Container(id="new-deck-container", classes="hidden"):
@@ -98,25 +103,26 @@ class AddToDeckModal(ModalScreen):
             with Container(id="modal-buttons"):
                 yield Button("Cancel", variant="error", id="cancel-btn")
 
-    def _get_deck_items(self) -> list[ListItem]:
+    def _get_decks_from_db(self) -> list[ListItem]:
         """Get all decks from the database"""
         decks = self.cursor.execute("SELECT id, name FROM decks ORDER BY name").fetchall()
 
         if not decks:
-            return [ListItem(Label("No decks available. Create a new one."))]
+            return [ListItem(Label("No decks available. Create a new one."))] 
 
         return [ListItem(Label(f"{deck[1]}"), 
-                        id=f"deck-{deck[0]}") 
+                id=f"deck-{deck[0]}") 
                 for deck in decks]
 
 
     @on(RadioSet.Changed)
     def on_radio_changed(self, event: RadioSet.Changed) -> None:
         """Handle radio button selection"""
-        self.deck_choice = str(event.pressed).split("-")[0]  # "existing" or "new"
+        selected_value = event.index
+        # self.deck_choice = str(event.pressed).split("-")[0]  # "existing" or "new"
         
         # Show/hide appropriate containers
-        if self.deck_choice == "existing":
+        if selected_value == 0:
             self.query_one("#existing-decks-container").remove_class("hidden")
             self.query_one("#new-deck-container").add_class("hidden")
         else:
@@ -130,35 +136,37 @@ class AddToDeckModal(ModalScreen):
             return  # This is the "No decks available" item
             
         deck_id = int(event.item.id.split("-")[1])
-        deck_name = str(event.item.children[0])
+        deck_name = event.item.children[0]
         self.post_message(self.DeckSelected(deck_id, deck_name))
         self.dismiss()
     
     @on(Button.Pressed, "#create-deck-btn")
     def on_create_deck(self) -> None:
         """Handle create deck button press"""
-        deck_name = self.query_one("#new-deck-name")
+        deck_name_input = self.query_one("#new-deck-name", Input)
+        deck_name = deck_name_input.value
+        
         if not deck_name:
-            self.query_one("#new-deck-name").focus()
+            deck_name_input.focus()
             return
         
         try:
             # Insert the new deck
             self.cursor.execute(
                 "INSERT INTO decks (name) VALUES (?)",
-                (deck_name,)
+                (deck_name,)  # Use the string value, not the Input widget
             )
             self.db_conn.commit()
             
             # Get the ID of the newly created deck
             deck_id = self.cursor.lastrowid
             
-            self.post_message(self.NewDeckCreated(deck_id, str(deck_name)))
+            self.post_message(self.NewDeckCreated(deck_id, deck_name))
             self.dismiss()
         except sqlite3.Error as e:
             # Handle error (in a real app, you'd want better error handling)
-            self.app.notify(f"Error creating deck: {str(e)}", severity="error")
-    
+            self.app.notify(f"Error creating deck: {str(e)}", severity="error")    
+
     @on(Button.Pressed, "#cancel-btn")
     def on_cancel(self) -> None:
         """Handle cancel button press"""
@@ -270,6 +278,7 @@ class PokemonTCGApp(App):
     def __init__(self):
         super().__init__()
         self.db_conn = sqlite3.connect("pokemon_tcg.db")
+        self.db_conn.row_factory = sqlite3.Row
         self.cursor = self.db_conn.cursor()
         self.current_card = None
         self.current_card_id = None
@@ -291,7 +300,7 @@ class PokemonTCGApp(App):
         self.logger.addHandler(self.handler)
 
     def compose(self) -> ComposeResult:
-        yield Header()
+        yield Header(show_clock=True)
         with TabbedContent():
             with TabPane("Decks", id="decks"):
                 yield DeckView()
@@ -328,11 +337,13 @@ class PokemonTCGApp(App):
             return
             
         # Show a modal with the "Add to Deck" option
-        self.push_screen(AddToDeckModal(self.current_card.id, self.current_card.name, self.db_conn))   
+        self.push_screen(AddToDeckModal(self.current_card_id, self.current_card_name, self.db_conn))   
 
     def add_card_to_deck(self, card_id: int, deck_id: int, deck_name: str) -> None:
         """Add a card to a deck"""
         try:
+            self.logger.log(f"Adding card {card_id} to deck {deck_id} ({deck_name})")
+
             # Add the card to the selected deck (or increase count if already present)
             self.cursor.execute("""
                 INSERT INTO deck_cards (deck_id, card_id, count)
@@ -345,15 +356,17 @@ class PokemonTCGApp(App):
             
             # Update status message
             self.query_one("#status-message", Label).update(
-                f"Added {self.current_card.name} to deck: {deck_name}"
+                f"Added {self.current_card_name} to deck: {deck_name}"
             )
             
             # Show notification
-            self.notify(f"Added {self.current_card.name} to {deck_name}", severity="information")
+            self.notify(f"Added {self.current_card_name} to {deck_name}", severity="information")
             
         except sqlite3.Error as e:
             # Handle database errors
-            self.query_one("#status-message", Label).update(f"Error: {str(e)}")
+            error_msg = f"Error: {str(e)}"
+            print(error_msg)  # Debug output
+            self.query_one("#status-message", Label).update(error_msg)
             self.notify(f"Database error: {str(e)}", severity="error")
             self.db_conn.rollback()
 
@@ -488,6 +501,8 @@ class PokemonTCGApp(App):
     @on(ListView.Highlighted, '#decks-deck-selector')
     def decks_deck_selector_highlighted(self, event: ListView.Highlighted) -> None:
         try:
+            decks_cards_list = self.query_one("#decks-cards-list")
+            decks_cards_list.remove_children()
             deck_id = getattr(event.item, "deck_id", None)
 
             if deck_id is None:
@@ -511,7 +526,6 @@ class PokemonTCGApp(App):
 
             cards = cursor.execute(query, (deck_id,)).fetchall()
 
-            decks_cards_list = self.query_one("#decks-cards-list")
 
             for card in cards:
                 unique_id = f"decks-card-list-{str(card[0]).replace(" ", "_")}-{time_ns()}"
@@ -563,7 +577,7 @@ class PokemonTCGApp(App):
         if not event.item.id:
             return
 
-        self.current_card_id = int(event.item.id)
+        self.current_card_id = event.item.id
         self.current_card_name = event.item.name
         self.query_one("#status-message", Label).update(
             f"Selected: {self.current_card_name} - Press 'o' for actions"
