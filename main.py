@@ -26,7 +26,7 @@ import logging
 from time import time_ns
 
 class PokemonCard:
-    def __init__(self, id, name, hp, attacks, abilities, image_path):
+    def __init__(self, id = None, name = None, hp = None, attacks = None, abilities = None, image_path = None):
         self.id = id
         self.name = name
         self.hp = hp
@@ -105,8 +105,8 @@ class AddToDeckModal(ModalScreen):
         if not decks:
             return [ListItem(Label("No decks available. Create a new one."))]
 
-        return [ListItem(Label(f"{deck['name']}"), 
-                        id=f"deck-{deck['id']}") 
+        return [ListItem(Label(f"{deck[1]}"), 
+                        id=f"deck-{deck[0]}") 
                 for deck in decks]
 
 
@@ -272,6 +272,8 @@ class PokemonTCGApp(App):
         self.db_conn = sqlite3.connect("pokemon_tcg.db")
         self.cursor = self.db_conn.cursor()
         self.current_card = None
+        self.current_card_id = None
+        self.current_card_name = None
         self.current_deck = None
         self.sort_mode = "name"
 
@@ -295,6 +297,10 @@ class PokemonTCGApp(App):
                 yield DeckView()
             with TabPane("Builder", id="builder"):
                 yield BuilderView()
+        yield Container(
+            Label("Select a card and press 'o' for actions", id="status-message"),
+            id="status-bar"
+        )
         yield Footer()
 
     def action_focus_previous_column(self) -> None:
@@ -339,11 +345,11 @@ class PokemonTCGApp(App):
             
             # Update status message
             self.query_one("#status-message", Label).update(
-                f"Added {self.current_card} to deck: {deck_name}"
+                f"Added {self.current_card.name} to deck: {deck_name}"
             )
             
             # Show notification
-            self.notify(f"Added {self.current_card} to {deck_name}", severity="information")
+            self.notify(f"Added {self.current_card.name} to {deck_name}", severity="information")
             
         except sqlite3.Error as e:
             # Handle database errors
@@ -552,27 +558,26 @@ class PokemonTCGApp(App):
         except Exception as e:
             self.logger.error(f"In 'decks-cards-list' -> Error handling card selection: {e}")
 
-    # @on(ListView.Selected, '#builder-cards-list')
-    # def builder_card_selected(self, event: ListView.Selected):
-    #     card_id = getattr(event.item, "card_id", None)
-    #
-    #     if card_id is None:
-    #         return
-    #     try:
-    #         self.add_to_deck(1, card_id)
-    #
-    #     except Exception as e:
-    #         self.logger.error(f"In 'on_card_selected' -> Error adding to deck: {e}")
-    #
+    @on(ListView.Selected, '#builder-cards-list')
+    def builder_card_selected(self, event: ListView.Selected):
+        if not event.item.id:
+            return
+
+        self.current_card_id = int(event.item.id)
+        self.current_card_name = event.item.name
+        self.query_one("#status-message", Label).update(
+            f"Selected: {self.current_card_name} - Press 'o' for actions"
+        )
+
     @on(AddToDeckModal.DeckSelected)
     def on_deck_selected_from_modal(self, event: AddToDeckModal.DeckSelected) -> None:
         """Handle deck selection from the modal"""
-        self.add_card_to_deck(self.current_card, event.deck_id, event.deck_name)
+        self.add_card_to_deck(self.current_card_id, event.deck_id, event.deck_name)
 
     @on(AddToDeckModal.NewDeckCreated)
     def on_new_deck_created(self, event: AddToDeckModal.NewDeckCreated) -> None:
         """Handle new deck creation from the modal"""
-        self.add_card_to_deck(self.current_card, event.deck_id, event.deck_name)
+        self.add_card_to_deck(self.current_card_id, event.deck_id, event.deck_name)
 
 
 def main():
