@@ -1,6 +1,6 @@
 from textual import on
 from textual.app import App, ComposeResult
-from textual.containers import Horizontal, Vertical, Container
+from textual.containers import Horizontal, Vertical, Container, ScrollableContainer
 from textual.widgets import (
     Header,
     Footer,
@@ -9,7 +9,13 @@ from textual.widgets import (
     Static,
     ListView,
     ListItem,
+    Button,
+    RadioButton,
+    RadioSet,
+    Input,
+    Label,
 )
+from textual.message import Message
 from textual.binding import Binding
 from textual.screen import ModalScreen
 from rich_pixels import Pixels
@@ -35,24 +41,134 @@ class Deck:
         self.name = name
         self.cards = cards or {}
 
-class DeckBuilderPopup(ModalScreen):
-    def __init__(self):
+class AddToDeckModal(ModalScreen):
+    class DeckSelected(Message):
+        """Message sent when a deck is selected."""
+        def __init__(self, deck_id: int, deck_name: str) -> None:
+            super().__init__()
+            self.deck_id = deck_id
+            self.deck_name = deck_name
+    
+    class NewDeckCreated(Message):
+        """Message sent when a new deck is created."""
+        def __init__(self, deck_id: int, deck_name: str) -> None:
+            super().__init__()
+            self.deck_id = deck_id
+            self.deck_name = deck_name
+    
+    class Cancelled(Message):
+        """Message sent when the operation is cancelled."""
+        pass
+    
+    BINDINGS = [
+        Binding("escape", "cancel", "Cancel"),
+        Binding("o", "open_actions", "Actions", show=True),
+    ]
+    
+    def __init__(self, card_id: int, card_name: str, db_conn: sqlite3.Connection):
         super().__init__()
-        self.db_conn = sqlite3.connect("pokemon_tcg.db")
-
-    BINDINGS = [("escape", "app.pop_screen", "Pop screen")]
-
+        self.card_id = card_id
+        self.card_name = card_name
+        self.db_conn = db_conn
+        self.cursor = db_conn.cursor()
+        self.deck_choice = "existing"  # Default to existing decks
+    
     def compose(self) -> ComposeResult:
-        with Container(id="deck-builder-popup"):
-            with Vertical():
-                with ListView():
-                    yield ListItem(Static("Add to Deck"), name="deck_modal_add")
-                    yield ListItem(Static("Remove Card from Deck"), name="deck_modal_remove")
-                    yield ListItem(Static("Mark Card"), name="deck_modal_mark")
-                    yield ListItem(Static("Search Decks with Card"), name="deck_modal_search_decks")
-                    yield ListItem(Static("Remove Card from all Decks"), name="deck_modal_remove_from_decks")
+        with Container(id="modal-container"):
+            yield Static(f"Add '{self.card_name}' to Deck", id="modal-title")
+            
+            with Container(id="deck-choice-container"):
+                yield RadioSet(
+                    RadioButton("Add to existing deck", id="existing-deck"),
+                    RadioButton("Create new deck", id="new-deck"),
+                )
+            
+            # Container for existing decks (initially visible)
+            with Container(id="existing-decks-container"):
+                yield Static("Select a deck:")
+                with ScrollableContainer(id="decks-scroll"):
+                    yield ListView(*self._get_deck_items(), id="decks-list")
+            
+            # Container for new deck (initially hidden)
+            with Container(id="new-deck-container", classes="hidden"):
+                yield Static("Enter new deck name:")
+                yield Input(placeholder="Deck name", id="new-deck-name")
+                yield Button("Create Deck", variant="primary", id="create-deck-btn")
+            
+            with Container(id="modal-buttons"):
+                yield Button("Cancel", variant="error", id="cancel-btn")
+
+    def _get_deck_items(self) -> list[ListItem]:
+        """Get all decks from the database"""
+        decks = self.cursor.execute("SELECT id, name FROM decks ORDER BY name").fetchall()
+
+        if not decks:
+            return [ListItem(Label("No decks available. Create a new one."))]
+
+        return [ListItem(Label(f"{deck['name']}"), 
+                        id=f"deck-{deck['id']}") 
+                for deck in decks]
 
 
+    @on(RadioSet.Changed)
+    def on_radio_changed(self, event: RadioSet.Changed) -> None:
+        """Handle radio button selection"""
+        self.deck_choice = str(event.pressed).split("-")[0]  # "existing" or "new"
+        
+        # Show/hide appropriate containers
+        if self.deck_choice == "existing":
+            self.query_one("#existing-decks-container").remove_class("hidden")
+            self.query_one("#new-deck-container").add_class("hidden")
+        else:
+            self.query_one("#existing-decks-container").add_class("hidden")
+            self.query_one("#new-deck-container").remove_class("hidden")
+    
+    @on(ListView.Selected)
+    def on_deck_selected(self, event: ListView.Selected) -> None:
+        """Handle deck selection from the list"""
+        if not event.item.id:
+            return  # This is the "No decks available" item
+            
+        deck_id = int(event.item.id.split("-")[1])
+        deck_name = str(event.item.children[0])
+        self.post_message(self.DeckSelected(deck_id, deck_name))
+        self.dismiss()
+    
+    @on(Button.Pressed, "#create-deck-btn")
+    def on_create_deck(self) -> None:
+        """Handle create deck button press"""
+        deck_name = self.query_one("#new-deck-name")
+        if not deck_name:
+            self.query_one("#new-deck-name").focus()
+            return
+        
+        try:
+            # Insert the new deck
+            self.cursor.execute(
+                "INSERT INTO decks (name) VALUES (?)",
+                (deck_name,)
+            )
+            self.db_conn.commit()
+            
+            # Get the ID of the newly created deck
+            deck_id = self.cursor.lastrowid
+            
+            self.post_message(self.NewDeckCreated(deck_id, str(deck_name)))
+            self.dismiss()
+        except sqlite3.Error as e:
+            # Handle error (in a real app, you'd want better error handling)
+            self.app.notify(f"Error creating deck: {str(e)}", severity="error")
+    
+    @on(Button.Pressed, "#cancel-btn")
+    def on_cancel(self) -> None:
+        """Handle cancel button press"""
+        self.post_message(self.Cancelled())
+        self.dismiss()
+    
+    def action_cancel(self) -> None:
+        """Handle escape key press"""
+        self.post_message(self.Cancelled())
+        self.dismiss()
 
 
 class CardImage(Static):
@@ -146,16 +262,15 @@ class BuilderView(Static):
 class PokemonTCGApp(App):
     CSS_PATH = "pokemontcgapp_css.tcss"
 
-    SCREENS = {"deck-builder-popup": DeckBuilderPopup}
-
     BINDINGS = [
         Binding("q", "quit", "Quit"),
-        Binding("o", "push_screen('deck-builder-popup')", "Options"),
+        Binding("o", "open_actions", "Actions"),
     ]
 
     def __init__(self):
         super().__init__()
         self.db_conn = sqlite3.connect("pokemon_tcg.db")
+        self.cursor = self.db_conn.cursor()
         self.current_card = None
         self.current_deck = None
         self.sort_mode = "name"
@@ -200,18 +315,41 @@ class PokemonTCGApp(App):
                 if index < len(parent.children) - 1:
                     parent.children[index + 1].focus()
 
-    def add_to_deck(self, deck_id: int, card_id: int):
-        query = f"SELECT count FROM deck_cards WHERE deck_id = {deck_id} AND card_id = {card_id};"
-        cursor = self.db_conn.cursor()
+    def action_open_actions(self) -> None:
+        """Open the actions menu when 'o' is pressed"""
+        if not self.current_card:
+            self.notify("No card selected", severity="warning")
+            return
+            
+        # Show a modal with the "Add to Deck" option
+        self.push_screen(AddToDeckModal(self.current_card.id, self.current_card.name, self.db_conn))   
 
-        result = cursor.execute(query).fetchone()
-
-        if result > 0 and result < 2:
-            query = f"UPDATE deck_cards SET count = count + 1 WHERE deck_id = {deck_id} AND card_id = {card_id};"
-            result = cursor.execute(query)
-
-        query = f"INSERT INTO deck_cards (deck_id, card_id, count) VALUES ({deck_id}, {card_id}, 1);"
-        cursor.execute(query)
+    def add_card_to_deck(self, card_id: int, deck_id: int, deck_name: str) -> None:
+        """Add a card to a deck"""
+        try:
+            # Add the card to the selected deck (or increase count if already present)
+            self.cursor.execute("""
+                INSERT INTO deck_cards (deck_id, card_id, count)
+                VALUES (?, ?, 1)
+                ON CONFLICT (deck_id, card_id) DO UPDATE SET count = count + 1
+            """, (deck_id, card_id))
+            
+            # Commit the changes
+            self.db_conn.commit()
+            
+            # Update status message
+            self.query_one("#status-message", Label).update(
+                f"Added {self.current_card} to deck: {deck_name}"
+            )
+            
+            # Show notification
+            self.notify(f"Added {self.current_card} to {deck_name}", severity="information")
+            
+        except sqlite3.Error as e:
+            # Handle database errors
+            self.query_one("#status-message", Label).update(f"Error: {str(e)}")
+            self.notify(f"Database error: {str(e)}", severity="error")
+            self.db_conn.rollback()
 
     def remove_from_deck(self, deck_id: int, card_id: int):
         query = f"""BEGIN TRANSACTION;
@@ -256,6 +394,7 @@ class PokemonTCGApp(App):
                 self.logger.info(f"Added card to list: {card[1]}")
 
             self.logger.info(f"Populated cards list with {len(cards)} cards")
+
         except Exception as e:
             self.logger.error(f"Error populating cards list: {e}")
             raise
@@ -264,9 +403,12 @@ class PokemonTCGApp(App):
         try:
             decks_list = self.query_one("#decks-deck-selector")
             deck_cards = self.query_one("#decks-cards-list")
+
             decks_list.remove_children()
             deck_cards.remove_children()
+
             cursor = self.db_conn.cursor()
+
             decks_query = "SELECT decks.id, decks.name FROM decks;"
             decks = cursor.execute(decks_query).fetchall()
 
@@ -333,12 +475,15 @@ class PokemonTCGApp(App):
                 stats.update(
                     f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
                 )
+
         except Exception as e:
             self.logger.error(f"In builder-cards-list -> Error handling card selection: {e}")
+
     @on(ListView.Highlighted, '#decks-deck-selector')
     def decks_deck_selector_highlighted(self, event: ListView.Highlighted) -> None:
         try:
             deck_id = getattr(event.item, "deck_id", None)
+
             if deck_id is None:
                 return
 
@@ -370,6 +515,7 @@ class PokemonTCGApp(App):
                 )
                 setattr(item, "card_id", card[1])
                 decks_cards_list.mount(item)
+
         except Exception as e:
             self.logger.error(f"In decks-deck-selector -> Error handling card selection: {e}")
 
@@ -406,17 +552,27 @@ class PokemonTCGApp(App):
         except Exception as e:
             self.logger.error(f"In 'decks-cards-list' -> Error handling card selection: {e}")
 
-    @on(ListView.Selected, '#builder-cards-list')
-    def builder_card_selected(self, event: ListView.Selected):
-        card_id = getattr(event.item, "card_id", None)
+    # @on(ListView.Selected, '#builder-cards-list')
+    # def builder_card_selected(self, event: ListView.Selected):
+    #     card_id = getattr(event.item, "card_id", None)
+    #
+    #     if card_id is None:
+    #         return
+    #     try:
+    #         self.add_to_deck(1, card_id)
+    #
+    #     except Exception as e:
+    #         self.logger.error(f"In 'on_card_selected' -> Error adding to deck: {e}")
+    #
+    @on(AddToDeckModal.DeckSelected)
+    def on_deck_selected_from_modal(self, event: AddToDeckModal.DeckSelected) -> None:
+        """Handle deck selection from the modal"""
+        self.add_card_to_deck(self.current_card, event.deck_id, event.deck_name)
 
-        if card_id is None:
-            return
-        try:
-            self.add_to_deck(1, card_id)
-
-        except Exception as e:
-            self.logger.error(f"In 'on_card_selected' -> Error adding to deck: {e}")
+    @on(AddToDeckModal.NewDeckCreated)
+    def on_new_deck_created(self, event: AddToDeckModal.NewDeckCreated) -> None:
+        """Handle new deck creation from the modal"""
+        self.add_card_to_deck(self.current_card, event.deck_id, event.deck_name)
 
 
 def main():

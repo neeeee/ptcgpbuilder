@@ -16,3 +16,68 @@ Tabs {
 #decks-column-1, #decks-column-3 {
     row-span: 2;
 }
+
+#deck-builder-popup {
+  align: center middle;
+  width: 50%;
+  height: 50%;
+  border: thick $background 80%;
+  background: $surface;
+}
+
+ListView {
+    width: 100%;
+    height: 1fr;
+    border: solid green;
+}
+
+#card-list {
+    height: 1fr;
+}
+
+#status-bar {
+    height: 1;
+    dock: bottom;
+}
+
+/* Modal styling */
+#modal-container {
+    width: 60%;
+    height: auto;
+    padding: 1 2;
+    background: $surface;
+    border: thick $primary;
+    color: $text;
+}
+
+#modal-title {
+    text-align: center;
+    text-style: bold;
+    width: 100%;
+    margin-bottom: 1;
+}
+
+#decks-scroll {
+    height: 10;
+    width: 100%;
+    border: solid $primary;
+}
+
+#modal-buttons {
+    margin-top: 1;
+    width: 100%;
+    align-horizontal: right;
+}
+
+.hidden {
+    display: none;
+}
+
+#new-deck-name {
+    margin-bottom: 1;
+}
+
+#deck-choice-container {
+    margin-bottom: 1;
+}
+
