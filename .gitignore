@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.db
+# *.db
 # C extensions
 *.so
 pyrightconfig.json
