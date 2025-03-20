@@ -25,6 +25,19 @@ import os
 import logging
 from time import time_ns
 
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+# Create a file handler and set the logging level to INFO
+handler = logging.FileHandler("pokemon_tcg.log")
+handler.setLevel(logging.INFO)
+
+# Create a formatter and attach it to the handler
+formatter = logging.Formatter(
+    "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
+handler.setFormatter(formatter)
+logger.addHandler(handler)
+
 class PokemonCard:
     def __init__(self, id = None,
                  name = None,
@@ -110,6 +123,11 @@ class AddToDeckModal(ModalScreen):
         if not decks:
             return [ListItem(Label("No decks available. Create a new one."))] 
 
+        logger.info(f"""
+                {[ListItem(Label(f"{deck[1]}"), 
+                id=f"deck-{deck[0]}") 
+                for deck in decks]}
+        """)
         return [ListItem(Label(f"{deck[1]}"), 
                 id=f"deck-{deck[0]}") 
                 for deck in decks]
@@ -136,7 +154,9 @@ class AddToDeckModal(ModalScreen):
             return  # This is the "No decks available" item
             
         deck_id = int(event.item.id.split("-")[1])
-        deck_name = event.item.children[0]
+        label: Label = event.item.query_one(Label)
+        deck_name = str(label.renderable)
+        logger.info(f"In on_deck_selected -> deck_name is {deck_name}")
         self.post_message(self.DeckSelected(deck_id, deck_name))
         self.dismiss()
     
@@ -184,8 +204,8 @@ class CardImage(Static):
         super().__init__(*args, **kwargs)
         self.image_path = image_path
 
-        self.logger = logging.getLogger(__name__)
-        self.logger.setLevel(logging.INFO)
+        logger = logging.getLogger(__name__)
+        logger.setLevel(logging.INFO)
 
         self.handler = logging.FileHandler("pokemon_tcg.log")
         self.handler.setLevel(logging.INFO)
@@ -195,13 +215,13 @@ class CardImage(Static):
         )
 
         self.handler.setFormatter(formatter)
-        self.logger.addHandler(self.handler)
+        logger.addHandler(self.handler)
 
     def on_mount(self) -> None:
         try:
             self.update_image(self.image_path)
         except Exception as e:
-            self.logger.error(f"Error mounting CardImage: {e}")
+            logger.error(f"Error mounting CardImage: {e}")
             self.update("Error loading image")
 
     def update_image(self, image_path: str | None) -> None:
@@ -224,7 +244,7 @@ class CardImage(Static):
             else:
                 self.update("No image available")
         except Exception as e:
-            self.logger.error(f"Error updating image: {e}")
+            logger.error(f"Error updating image: {e}")
             self.update("Error updating image")
 
 
@@ -284,10 +304,12 @@ class PokemonTCGApp(App):
         self.current_card_id = None
         self.current_card_name = None
         self.current_deck = None
+        self.current_deck_id = None
+        self.current_deck_name = None
         self.sort_mode = "name"
 
-        self.logger = logging.getLogger(__name__)
-        self.logger.setLevel(logging.INFO)
+        logger = logging.getLogger(__name__)
+        logger.setLevel(logging.INFO)
         # Create a file handler and set the logging level to INFO
         self.handler = logging.FileHandler("pokemon_tcg.log")
         self.handler.setLevel(logging.INFO)
@@ -297,7 +319,7 @@ class PokemonTCGApp(App):
             "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
         )
         self.handler.setFormatter(formatter)
-        self.logger.addHandler(self.handler)
+        logger.addHandler(self.handler)
 
     def compose(self) -> ComposeResult:
         yield Header(show_clock=True)
@@ -342,7 +364,7 @@ class PokemonTCGApp(App):
     def add_card_to_deck(self, card_id: int, deck_id: int, deck_name: str) -> None:
         """Add a card to a deck"""
         try:
-            self.logger.log(f"Adding card {card_id} to deck {deck_id} ({deck_name})")
+            logger.info(f"Adding card {card_id} to deck {deck_id} ({deck_name})")
 
             # Add the card to the selected deck (or increase count if already present)
             self.cursor.execute("""
@@ -410,12 +432,12 @@ class PokemonTCGApp(App):
                 setattr(item, "card_id", card[0])  # Store the card ID
                 cards_list.mount(item)  # Use mount to add the item
 
-                self.logger.info(f"Added card to list: {card[1]}")
+                logger.info(f"Added card to list: {card[1]}")
 
-            self.logger.info(f"Populated cards list with {len(cards)} cards")
+            logger.info(f"Populated cards list with {len(cards)} cards")
 
         except Exception as e:
-            self.logger.error(f"Error populating cards list: {e}")
+            logger.error(f"Error populating cards list: {e}")
             raise
 
     def populate_decks_list(self):
@@ -440,21 +462,21 @@ class PokemonTCGApp(App):
                 setattr(item, "deck_id", deck[0])
                 decks_list.mount(item)
 
-                self.logger.info(f"Added deck to list: {deck[1]}")
-            self.logger.info(f"Populated decks list with {len(decks)} decks")
+                logger.info(f"Added deck to list: {deck[1]}")
+            logger.info(f"Populated decks list with {len(decks)} decks")
 
         except Exception as e:
-            self.logger.error(f"Error populating decks list: {e}")
-            self.logger.error(f"Error populating decks cards list: {e}")
+            logger.error(f"Error populating decks list: {e}")
+            logger.error(f"Error populating decks cards list: {e}")
 
     def on_mount(self) -> None:
         try:
-            self.logger.info("Application mounting")
+            logger.info("Application mounting")
             self.populate_cards_list()
             self.populate_decks_list()
 
         except Exception as e:
-            self.logger.error(f"Error in on_mount: {e}")
+            logger.error(f"Error in on_mount: {e}")
             raise
     
     def on_unmount(self) -> None:
@@ -462,7 +484,7 @@ class PokemonTCGApp(App):
             self.db_conn.close()
 
     def on_tabs_tab_activated(self, event: TabbedContent.TabActivated) -> None:
-        self.logger.info(f"Tab activated: {event.tab.label}")
+        logger.info(f"Tab activated: {event.tab.label}")
         if event.tab.label == "Builder":
             self.populate_cards_list()
         if event.tab.label == "Decks":
@@ -487,6 +509,8 @@ class PokemonTCGApp(App):
 
             if card:
                 self.current_card = PokemonCard(*card)
+                self.current_card_id = card[0]
+                self.current_card_name = card[1]
                 card_image = self.query_one("#card-image-builder-view", CardImage)
                 card_image.update_image(card[5])  # image_path
 
@@ -496,7 +520,7 @@ class PokemonTCGApp(App):
                 )
 
         except Exception as e:
-            self.logger.error(f"In builder-cards-list -> Error handling card selection: {e}")
+            logger.error(f"In builder-cards-list -> Error handling card selection: {e}")
 
     @on(ListView.Highlighted, '#decks-deck-selector')
     def decks_deck_selector_highlighted(self, event: ListView.Highlighted) -> None:
@@ -526,7 +550,6 @@ class PokemonTCGApp(App):
 
             cards = cursor.execute(query, (deck_id,)).fetchall()
 
-
             for card in cards:
                 unique_id = f"decks-card-list-{str(card[0]).replace(" ", "_")}-{time_ns()}"
                 item = ListItem(
@@ -537,13 +560,13 @@ class PokemonTCGApp(App):
                 decks_cards_list.mount(item)
 
         except Exception as e:
-            self.logger.error(f"In decks-deck-selector -> Error handling card selection: {e}")
+            logger.error(f"In decks-deck-selector -> Error handling card selection: {e}")
 
     @on(ListView.Highlighted, '#decks-cards-list')
     def decks_cards_list_highlighted(self, event: ListView.Highlighted) -> None:
         try:
             card_id = getattr(event.item, "card_id", None)
-            # self.logger.info(f"Card id {card_id}")
+            logger.info(f"Card id {self.current_card_id}")
             if card_id is None:
                 return
 
@@ -556,29 +579,34 @@ class PokemonTCGApp(App):
                         id = ?;
                     """
             card = cursor.execute(query, (card_id,)).fetchone()
-            # self.logger.info(f"Card id {card[0]} image_path {card[5]}")
+            logger.info(f"Card id {card[0]} image_path {card[5]}")
 
             if card:
                 self.current_card = PokemonCard(*card)
                 card_image = self.query_one("#card-image-decks-view", CardImage)
                 stats = self.query_one("#decks-card-stats", Static)
+                self.current_card_id = int(card[0])
+                self.current_card_name = card[1]
+                logger.info(f"In decks_cards_list_highlighted -> current_card_id is {self.current_card_id}")
                 card_image.update_image(card[5])
 
                 stats.update(
                     f"""Name: {card[1]}\nHP: {card[2]}\nAttacks: {card[3]}\nAbilities: {card[4]}\n"""
                 )
-                # self.logger.info(f"Stats exists? {stats}")
+                # logger.info(f"Stats exists? {stats}")
 
         except Exception as e:
-            self.logger.error(f"In 'decks-cards-list' -> Error handling card selection: {e}")
+            logger.error(f"In 'decks-cards-list' -> Error handling card selection: {e}")
 
     @on(ListView.Selected, '#builder-cards-list')
     def builder_card_selected(self, event: ListView.Selected):
         if not event.item.id:
             return
+        label: Label = event.item.query_one(Label)
+        self.current_card_name = str(label.renderable) 
 
-        self.current_card_id = event.item.id
-        self.current_card_name = event.item.name
+        logger.info(f"In builder_card_selected -> current_card_id is {self.current_card_id}")
+        logger.info(f"In builder_card_selected -> current_card_name is {self.current_card_name}")
         self.query_one("#status-message", Label).update(
             f"Selected: {self.current_card_name} - Press 'o' for actions"
         )
@@ -586,11 +614,13 @@ class PokemonTCGApp(App):
     @on(AddToDeckModal.DeckSelected)
     def on_deck_selected_from_modal(self, event: AddToDeckModal.DeckSelected) -> None:
         """Handle deck selection from the modal"""
+        logger.info(f"in on_deck_selected_from_modal -> current_card_id is {self.current_card_id}\ncurrent_card_name is {self.current_card_name}\nevent.deck_name is {event.deck_name}")
         self.add_card_to_deck(self.current_card_id, event.deck_id, event.deck_name)
 
     @on(AddToDeckModal.NewDeckCreated)
     def on_new_deck_created(self, event: AddToDeckModal.NewDeckCreated) -> None:
         """Handle new deck creation from the modal"""
+        logger.info(f"in on_new_deck_created -> current_card_id is {self.current_card_id}\ncurrent_card_name is {self.current_card_name}\nevent.deck_name is {event.deck_name}")
         self.add_card_to_deck(self.current_card_id, event.deck_id, event.deck_name)
 
 
