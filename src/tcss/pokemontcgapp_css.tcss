@@ -36,11 +36,10 @@ ListView {
 }
 
 #status-bar {
-    height: 1;
+    height: 2;
     dock: bottom;
 }
 
-/* Modal styling */
 #modal-container {
     width: 60%;
     height: auto;
