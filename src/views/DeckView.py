@@ -19,7 +19,7 @@ class DeckView(Static):
                 ListView(id="decks-cards-list"),
                 Static("Card Stats"),
                 Static("", id="decks-card-stats"),
-            )
+                id="decks-column-2")
             yield Vertical(
                 Static("Card Image"),
                 CardImage(id="card-image-decks-view"),

@@ -179,3 +179,4 @@ cython_debug/
 
 # random files
 .DS_Store
+src/scratch
