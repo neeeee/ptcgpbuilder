@@ -1,0 +1,5314 @@
+[
+  {
+    "set_name": "Triumphantlight",
+    "name": "Heracross",
+    "hp": 100,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Single-Horn Throw",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip 2 coins. If both of them are heads, this attack does 70 more damage",
+        "damage": "50+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 1/75",
+    "image_url": "/tcgpocket/th/triumphantlight/1.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Heracross.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Heracross",
+    "hp": 100,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Single-Horn Throw",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip 2 coins. If both of them are heads, this attack does 70 more damage",
+        "damage": "50+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 1/75",
+    "image_url": "/tcgpocket/th/triumphantlight/1.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Heracross.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Burmy",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "grass",
+          "psychic",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 2/75",
+    "image_url": "/tcgpocket/th/triumphantlight/2.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Burmy.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Burmy",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "grass",
+          "psychic",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 2/75",
+    "image_url": "/tcgpocket/th/triumphantlight/2.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Burmy.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Mothim",
+    "hp": 90,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Gust",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Triumphantlight 3/75",
+    "image_url": "/tcgpocket/th/triumphantlight/3.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Mothim.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Mothim",
+    "hp": 90,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Gust",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Triumphantlight 3/75",
+    "image_url": "/tcgpocket/th/triumphantlight/3.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Mothim.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Combee",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Bug Bite",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 4/75",
+    "image_url": "/tcgpocket/th/triumphantlight/4.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Combee.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Combee",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Bug Bite",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 4/75",
+    "image_url": "/tcgpocket/th/triumphantlight/4.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Combee.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Vespiquen",
+    "hp": 100,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Reckless Charge",
+        "energy_cost": [
+          "grass",
+          "grass",
+          "grass"
+        ],
+        "description": "This Pokémon also does 30 damage to itself",
+        "damage": "120"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 5/75",
+    "image_url": "/tcgpocket/th/triumphantlight/5.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Vespiquen.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Vespiquen",
+    "hp": 100,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Reckless Charge",
+        "energy_cost": [
+          "grass",
+          "grass",
+          "grass"
+        ],
+        "description": "This Pokémon also does 30 damage to itself",
+        "damage": "120"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 5/75",
+    "image_url": "/tcgpocket/th/triumphantlight/5.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Vespiquen.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Cherubi",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Leafage",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 6/75",
+    "image_url": "/tcgpocket/th/triumphantlight/6.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Cherubi.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Cherubi",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Leafage",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 6/75",
+    "image_url": "/tcgpocket/th/triumphantlight/6.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Cherubi.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Cherrim",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Worry Seed",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Your opponent's Active Pokémon is now Confused",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 7/75",
+    "image_url": "/tcgpocket/th/triumphantlight/7.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Cherrim.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Cherrim",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Worry Seed",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Your opponent's Active Pokémon is now Confused",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 7/75",
+    "image_url": "/tcgpocket/th/triumphantlight/7.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Cherrim.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Cherrim",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Leech Seed",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Heal 20 damage from this Pokémon",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 8/75",
+    "image_url": "/tcgpocket/th/triumphantlight/8.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Cherrim.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Cherrim",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Leech Seed",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Heal 20 damage from this Pokémon",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 8/75",
+    "image_url": "/tcgpocket/th/triumphantlight/8.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Cherrim.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Carnivine",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Power Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Vine Whip",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 9/75",
+    "image_url": "/tcgpocket/th/triumphantlight/9.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Carnivine.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Carnivine",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Power Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Vine Whip",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 9/75",
+    "image_url": "/tcgpocket/th/triumphantlight/9.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Carnivine.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Leafeon",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Forest Breath",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 10/75",
+    "image_url": "/tcgpocket/th/triumphantlight/10.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Leafeon",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Forest Breath",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 10/75",
+    "image_url": "/tcgpocket/th/triumphantlight/10.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Houndour",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Flare",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 11/75",
+    "image_url": "/tcgpocket/th/triumphantlight/11.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Houndour.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Houndour",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Flare",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 11/75",
+    "image_url": "/tcgpocket/th/triumphantlight/11.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Houndour.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Houndoom",
+    "hp": 100,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Corner",
+        "energy_cost": [
+          "fire",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, the Defending Pokémon can't retreat",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 12/75",
+    "image_url": "/tcgpocket/th/triumphantlight/12.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Houndoom.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Houndoom",
+    "hp": 100,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Corner",
+        "energy_cost": [
+          "fire",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, the Defending Pokémon can't retreat",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 12/75",
+    "image_url": "/tcgpocket/th/triumphantlight/12.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Houndoom.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Heatran",
+    "hp": 110,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Speed Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ragin' Mad Strik",
+        "energy_cost": [
+          "fire",
+          "fire"
+        ],
+        "description": "If this Pokémon has damage on it, this attack does 40 more damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 13/75",
+    "image_url": "/tcgpocket/th/triumphantlight/13.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Heatran.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Heatran",
+    "hp": 110,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Speed Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ragin' Mad Strik",
+        "energy_cost": [
+          "fire",
+          "fire"
+        ],
+        "description": "If this Pokémon has damage on it, this attack does 40 more damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 13/75",
+    "image_url": "/tcgpocket/th/triumphantlight/13.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Heatran.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Marill",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 14/75",
+    "image_url": "/tcgpocket/th/triumphantlight/14.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Marill.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Marill",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 14/75",
+    "image_url": "/tcgpocket/th/triumphantlight/14.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Marill.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Azumarill",
+    "hp": 100,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Waterfall",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 15/75",
+    "image_url": "/tcgpocket/th/triumphantlight/15.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Azumarill.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Azumarill",
+    "hp": 100,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Waterfall",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 15/75",
+    "image_url": "/tcgpocket/th/triumphantlight/15.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Azumarill.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Barboach",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Mud-Slap",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 16/75",
+    "image_url": "/tcgpocket/th/triumphantlight/16.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Barboach.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Barboach",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Mud-Slap",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 16/75",
+    "image_url": "/tcgpocket/th/triumphantlight/16.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Barboach.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Whiscash",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Thrash",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon also does 20 damage to itself",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 17/75",
+    "image_url": "/tcgpocket/th/triumphantlight/17.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Whiscash.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Whiscash",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Thrash",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon also does 20 damage to itself",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 17/75",
+    "image_url": "/tcgpocket/th/triumphantlight/17.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Whiscash.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Snorunt",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Icicle",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 18/75",
+    "image_url": "/tcgpocket/th/triumphantlight/18.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Snorunt.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Snorunt",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Icicle",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 18/75",
+    "image_url": "/tcgpocket/th/triumphantlight/18.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Snorunt.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Froslass",
+    "hp": 90,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Blizzard",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "This attack also does 10 damage to each of your Benched Pokémon",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 19/75",
+    "image_url": "/tcgpocket/th/triumphantlight/19.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Froslass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Froslass",
+    "hp": 90,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Blizzard",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "This attack also does 10 damage to each of your Benched Pokémon",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 19/75",
+    "image_url": "/tcgpocket/th/triumphantlight/19.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Froslass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Snover",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Corkscrew Punch",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 20/75",
+    "image_url": "/tcgpocket/th/triumphantlight/20.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Snover.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Snover",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Corkscrew Punch",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 20/75",
+    "image_url": "/tcgpocket/th/triumphantlight/20.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Snover.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Abomasnow",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Vigor Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Mega Punch",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 21/75",
+    "image_url": "/tcgpocket/th/triumphantlight/21.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Abomasnow.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Abomasnow",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Vigor Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Mega Punch",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 21/75",
+    "image_url": "/tcgpocket/th/triumphantlight/21.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Abomasnow.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Glaceon",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Snowy Terrain",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Freezing Wind",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 22/75",
+    "image_url": "/tcgpocket/th/triumphantlight/22.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Glaceon",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Snowy Terrain",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Freezing Wind",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 22/75",
+    "image_url": "/tcgpocket/th/triumphantlight/22.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Palkia",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Zone Smash",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "Flip a coin. If heads, this attack does 60 more damage.",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 23/75",
+    "image_url": "/tcgpocket/th/triumphantlight/23.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Palkia.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Palkia",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Zone Smash",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "Flip a coin. If heads, this attack does 60 more damage.",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 23/75",
+    "image_url": "/tcgpocket/th/triumphantlight/23.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Palkia.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Phione",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Pulse",
+        "energy_cost": [
+          "water",
+          "water"
+        ],
+        "description": "Your opponent's Active Pokémon is now Asleep",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 24/75",
+    "image_url": "/tcgpocket/th/triumphantlight/24.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Phione.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Phione",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Pulse",
+        "energy_cost": [
+          "water",
+          "water"
+        ],
+        "description": "Your opponent's Active Pokémon is now Asleep",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 24/75",
+    "image_url": "/tcgpocket/th/triumphantlight/24.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Phione.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Pikachu",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Spark",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 25/75",
+    "image_url": "/tcgpocket/th/triumphantlight/25.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Pikachu.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Pikachu",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Spark",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 25/75",
+    "image_url": "/tcgpocket/th/triumphantlight/25.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Pikachu.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Raichu",
+    "hp": 90,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Resilience Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Spark",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 26/75",
+    "image_url": "/tcgpocket/th/triumphantlight/26.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Raichu.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Raichu",
+    "hp": 90,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Resilience Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Spark",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 26/75",
+    "image_url": "/tcgpocket/th/triumphantlight/26.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Raichu.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Electrike",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Zap Kick",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 27/75",
+    "image_url": "/tcgpocket/th/triumphantlight/27.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Electrike.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Electrike",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Zap Kick",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 27/75",
+    "image_url": "/tcgpocket/th/triumphantlight/27.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Electrike.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Manectric",
+    "hp": 90,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Flash",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 28/75",
+    "image_url": "/tcgpocket/th/triumphantlight/28.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Manectric.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Manectric",
+    "hp": 90,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Flash",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 28/75",
+    "image_url": "/tcgpocket/th/triumphantlight/28.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Manectric.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Clefairy",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Smack",
+        "energy_cost": [
+          "psychic",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 29/75",
+    "image_url": "/tcgpocket/th/triumphantlight/29.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Clefairy.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Clefairy",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Smack",
+        "energy_cost": [
+          "psychic",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 29/75",
+    "image_url": "/tcgpocket/th/triumphantlight/29.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Clefairy.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Clefable",
+    "hp": 100,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Moonblast",
+        "energy_cost": [
+          "psychic",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, attacks used by the Defending Pokémon do -30 damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 30/75",
+    "image_url": "/tcgpocket/th/triumphantlight/30.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Clefable.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Clefable",
+    "hp": 100,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Moonblast",
+        "energy_cost": [
+          "psychic",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, attacks used by the Defending Pokémon do -30 damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 30/75",
+    "image_url": "/tcgpocket/th/triumphantlight/30.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Clefable.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Gastly",
+    "hp": 50,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Astonish",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 31/75",
+    "image_url": "/tcgpocket/th/triumphantlight/31.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Gastly.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Gastly",
+    "hp": 50,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Astonish",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 31/75",
+    "image_url": "/tcgpocket/th/triumphantlight/31.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Gastly.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Haunter",
+    "hp": 80,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Mumble",
+        "energy_cost": [
+          "psychic",
+          "psychic"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 32/75",
+    "image_url": "/tcgpocket/th/triumphantlight/32.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Haunter.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Haunter",
+    "hp": 80,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Mumble",
+        "energy_cost": [
+          "psychic",
+          "psychic"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 32/75",
+    "image_url": "/tcgpocket/th/triumphantlight/32.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Haunter.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Gengar",
+    "hp": 140,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Hypnoblast",
+        "energy_cost": [
+          "psychic",
+          "psychic"
+        ],
+        "description": "Your opponent's Active Pokémon is now Asleep",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 33/75",
+    "image_url": "/tcgpocket/th/triumphantlight/33.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Gengar.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Gengar",
+    "hp": 140,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Hypnoblast",
+        "energy_cost": [
+          "psychic",
+          "psychic"
+        ],
+        "description": "Your opponent's Active Pokémon is now Asleep",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 33/75",
+    "image_url": "/tcgpocket/th/triumphantlight/33.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Gengar.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Unown",
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "CHECK",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Hidden Power",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 34/75",
+    "image_url": "/tcgpocket/th/triumphantlight/34.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Unown.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Unown",
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "CHECK",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Hidden Power",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 34/75",
+    "image_url": "/tcgpocket/th/triumphantlight/34.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Unown.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Rotom",
+    "hp": 70,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Speed Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Dash Attack",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "This attack does 20 damage to 1 of your opponent's Benched Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 35/75",
+    "image_url": "/tcgpocket/th/triumphantlight/35.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Rotom.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Rotom",
+    "hp": 70,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Speed Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Dash Attack",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "This attack does 20 damage to 1 of your opponent's Benched Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 35/75",
+    "image_url": "/tcgpocket/th/triumphantlight/35.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Rotom.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Sudowoodo",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Fighting Headbutt",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage",
+        "damage": "20+"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 36/75",
+    "image_url": "/tcgpocket/th/triumphantlight/36.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Sudowoodo.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Sudowoodo",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Fighting Headbutt",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage",
+        "damage": "20+"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 36/75",
+    "image_url": "/tcgpocket/th/triumphantlight/36.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Sudowoodo.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Phanpy",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Rollout",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "20",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 37/75",
+    "image_url": "/tcgpocket/th/triumphantlight/37.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Phanpy.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Phanpy",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Rollout",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "20",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 37/75",
+    "image_url": "/tcgpocket/th/triumphantlight/37.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Phanpy.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Donphan",
+    "hp": 120,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Rolling Spin",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "During your next turn, this Pokémon's Rolling Spin attack does +60 damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 38/75",
+    "image_url": "/tcgpocket/th/triumphantlight/38.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Donphan.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Donphan",
+    "hp": 120,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Rolling Spin",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "During your next turn, this Pokémon's Rolling Spin attack does +60 damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 38/75",
+    "image_url": "/tcgpocket/th/triumphantlight/38.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Donphan.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Larvitar",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Corkscrew Punch",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 39/75",
+    "image_url": "/tcgpocket/th/triumphantlight/39.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Larvitar.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Larvitar",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Corkscrew Punch",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 39/75",
+    "image_url": "/tcgpocket/th/triumphantlight/39.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Larvitar.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Pupitar",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Speed Attack",
+        "energy_cost": [
+          "fighting",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 40/75",
+    "image_url": "/tcgpocket/th/triumphantlight/40.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Pupitar.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Pupitar",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Speed Attack",
+        "energy_cost": [
+          "fighting",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 40/75",
+    "image_url": "/tcgpocket/th/triumphantlight/40.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Pupitar.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Tyranitar",
+    "hp": 160,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Power Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Land Crush",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 41/75",
+    "image_url": "/tcgpocket/th/triumphantlight/41.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Tyranitar.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Tyranitar",
+    "hp": 160,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Power Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Land Crush",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 41/75",
+    "image_url": "/tcgpocket/th/triumphantlight/41.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Tyranitar.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Nosepass",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 42/75",
+    "image_url": "/tcgpocket/th/triumphantlight/42.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Nosepass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Nosepass",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 42/75",
+    "image_url": "/tcgpocket/th/triumphantlight/42.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Nosepass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Meditite",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Kick",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 43/75",
+    "image_url": "/tcgpocket/th/triumphantlight/43.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Meditite.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Meditite",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Kick",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 43/75",
+    "image_url": "/tcgpocket/th/triumphantlight/43.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Meditite.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Medicham",
+    "hp": 100,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Kick Shot",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "Flip a coin. If tails, this attack does nothing",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 44/75",
+    "image_url": "/tcgpocket/th/triumphantlight/44.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Medicham.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Medicham",
+    "hp": 100,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Kick Shot",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "Flip a coin. If tails, this attack does nothing",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 44/75",
+    "image_url": "/tcgpocket/th/triumphantlight/44.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Medicham.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Gible",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 45/75",
+    "image_url": "/tcgpocket/th/triumphantlight/45.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Gible.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Gible",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 45/75",
+    "image_url": "/tcgpocket/th/triumphantlight/45.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Gible.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Gabite",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Sharp Scythe",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 46/75",
+    "image_url": "/tcgpocket/th/triumphantlight/46.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Gabite.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Gabite",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Sharp Scythe",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 46/75",
+    "image_url": "/tcgpocket/th/triumphantlight/46.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Gabite.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Garchomp",
+    "hp": 170,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Linear Attack",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "This attack does 50 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Dragon Claw",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 47/75",
+    "image_url": "/tcgpocket/th/triumphantlight/47.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Garchomp",
+    "hp": 170,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Linear Attack",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "This attack does 50 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Dragon Claw",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 47/75",
+    "image_url": "/tcgpocket/th/triumphantlight/47.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Zubat",
+    "hp": 50,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 48/75",
+    "image_url": "/tcgpocket/th/triumphantlight/48.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Zubat.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Zubat",
+    "hp": 50,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 48/75",
+    "image_url": "/tcgpocket/th/triumphantlight/48.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Zubat.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Golbat",
+    "hp": 80,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 49/75",
+    "image_url": "/tcgpocket/th/triumphantlight/49.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Golbat.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Golbat",
+    "hp": 80,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 49/75",
+    "image_url": "/tcgpocket/th/triumphantlight/49.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Golbat.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Crobat",
+    "hp": 110,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Cunning Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Darkness Fang",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Triumphantlight 50/75",
+    "image_url": "/tcgpocket/th/triumphantlight/50.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Crobat.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Crobat",
+    "hp": 110,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Cunning Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Darkness Fang",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Triumphantlight 50/75",
+    "image_url": "/tcgpocket/th/triumphantlight/50.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Crobat.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Croagunk",
+    "hp": 60,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Beat",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 51/75",
+    "image_url": "/tcgpocket/th/triumphantlight/51.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Croagunk.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Croagunk",
+    "hp": 60,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Beat",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 51/75",
+    "image_url": "/tcgpocket/th/triumphantlight/51.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Croagunk.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Toxicroak",
+    "hp": 100,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Toxic",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Your opponent's Active Pokémon is now Posioned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 52/75",
+    "image_url": "/tcgpocket/th/triumphantlight/52.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Toxicroak.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Toxicroak",
+    "hp": 100,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Toxic",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Your opponent's Active Pokémon is now Posioned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 52/75",
+    "image_url": "/tcgpocket/th/triumphantlight/52.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Toxicroak.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Magnemite",
+    "hp": 60,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 53/75",
+    "image_url": "/tcgpocket/th/triumphantlight/53.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Magnemite.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Magnemite",
+    "hp": 60,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 53/75",
+    "image_url": "/tcgpocket/th/triumphantlight/53.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Magnemite.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Magneton",
+    "hp": 90,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Rolling Attack",
+        "energy_cost": [
+          "metal",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 54/75",
+    "image_url": "/tcgpocket/th/triumphantlight/54.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Magneton.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Magneton",
+    "hp": 90,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Rolling Attack",
+        "energy_cost": [
+          "metal",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 54/75",
+    "image_url": "/tcgpocket/th/triumphantlight/54.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Magneton.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Magnezone",
+    "hp": 140,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Resilience Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Power Beam",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 55/75",
+    "image_url": "/tcgpocket/th/triumphantlight/55.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Magnezone.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Magnezone",
+    "hp": 140,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Resilience Link",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Power Beam",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 55/75",
+    "image_url": "/tcgpocket/th/triumphantlight/55.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Magnezone.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Mawile",
+    "hp": 70,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Iron Beam Breaker",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is a Metal Pokémon, this attack does 30 more damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 56/75",
+    "image_url": "/tcgpocket/th/triumphantlight/56.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Mawile.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Mawile",
+    "hp": 70,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Iron Beam Breaker",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is a Metal Pokémon, this attack does 30 more damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 56/75",
+    "image_url": "/tcgpocket/th/triumphantlight/56.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Mawile.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Probopass",
+    "hp": 160,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Defensive Unit",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, this Pokémon takes -20 damage from attacks",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 57/75",
+    "image_url": "/tcgpocket/th/triumphantlight/57.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Probopass",
+    "hp": 160,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Defensive Unit",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, this Pokémon takes -20 damage from attacks",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 57/75",
+    "image_url": "/tcgpocket/th/triumphantlight/57.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Bronzor",
+    "hp": 60,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 58/75",
+    "image_url": "/tcgpocket/th/triumphantlight/58.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Bronzor.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Bronzor",
+    "hp": 60,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 58/75",
+    "image_url": "/tcgpocket/th/triumphantlight/58.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Bronzor.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Bronzong",
+    "hp": 120,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Psychic",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon",
+        "damage": "50+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 59/75",
+    "image_url": "/tcgpocket/th/triumphantlight/59.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Bronzong.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Bronzong",
+    "hp": 120,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Psychic",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon",
+        "damage": "50+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 59/75",
+    "image_url": "/tcgpocket/th/triumphantlight/59.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Bronzong.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Dialga",
+    "hp": 120,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Time Mash",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If tails, tduring your next turn this Pokémon can't attack",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 60/75",
+    "image_url": "/tcgpocket/th/triumphantlight/60.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Dialga.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Dialga",
+    "hp": 120,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Time Mash",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If tails, tduring your next turn this Pokémon can't attack",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 60/75",
+    "image_url": "/tcgpocket/th/triumphantlight/60.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Dialga.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Giratina",
+    "hp": 120,
+    "type": "dragon",
+    "moves": [
+      {
+        "name": "Crisis Dive",
+        "energy_cost": [
+          "grass",
+          "psychic",
+          "colorless"
+        ],
+        "description": "Discard 2 random Energy from this Pokémon",
+        "damage": "120"
+      }
+    ],
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 61/75",
+    "image_url": "/tcgpocket/th/triumphantlight/61.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Giratina.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Giratina",
+    "hp": 120,
+    "type": "dragon",
+    "moves": [
+      {
+        "name": "Crisis Dive",
+        "energy_cost": [
+          "grass",
+          "psychic",
+          "colorless"
+        ],
+        "description": "Discard 2 random Energy from this Pokémon",
+        "damage": "120"
+      }
+    ],
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 61/75",
+    "image_url": "/tcgpocket/th/triumphantlight/61.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Giratina.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Eevee",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Tail Whap",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 62/75",
+    "image_url": "/tcgpocket/th/triumphantlight/62.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Eevee.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Eevee",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Tail Whap",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 62/75",
+    "image_url": "/tcgpocket/th/triumphantlight/62.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Eevee.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Snorlax",
+    "hp": 140,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Collaps",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This Pokémon is now Asleep",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 63/75",
+    "image_url": "/tcgpocket/th/triumphantlight/63.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Snorlax.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Snorlax",
+    "hp": 140,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Collaps",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This Pokémon is now Asleep",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 63/75",
+    "image_url": "/tcgpocket/th/triumphantlight/63.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Snorlax.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Hoothoot",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Peck",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 64/75",
+    "image_url": "/tcgpocket/th/triumphantlight/64.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Hoothoot.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Hoothoot",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Peck",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 64/75",
+    "image_url": "/tcgpocket/th/triumphantlight/64.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Hoothoot.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Noctowl",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Silent Wing",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "Your opponent reveals their hand",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 65/75",
+    "image_url": "/tcgpocket/th/triumphantlight/65.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Noctowl.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Noctowl",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Silent Wing",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "Your opponent reveals their hand",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 65/75",
+    "image_url": "/tcgpocket/th/triumphantlight/65.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Noctowl.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Starly",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Glide",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 66/75",
+    "image_url": "/tcgpocket/th/triumphantlight/66.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Starly.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Starly",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Glide",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 66/75",
+    "image_url": "/tcgpocket/th/triumphantlight/66.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Starly.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Staravia",
+    "hp": 80,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Wing Attack",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 67/75",
+    "image_url": "/tcgpocket/th/triumphantlight/67.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Staravia.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Staravia",
+    "hp": 80,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Wing Attack",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 67/75",
+    "image_url": "/tcgpocket/th/triumphantlight/67.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Staravia.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Staraptor",
+    "hp": 150,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Brave Bird",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 20 damage to itself",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 68/75",
+    "image_url": "/tcgpocket/th/triumphantlight/68.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Staraptor.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Staraptor",
+    "hp": 150,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Brave Bird",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 20 damage to itself",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 68/75",
+    "image_url": "/tcgpocket/th/triumphantlight/68.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Staraptor.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Shaymin",
+    "hp": 70,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Sky Support",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Flap",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 69/75",
+    "image_url": "/tcgpocket/th/triumphantlight/69.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Shaymin.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Shaymin",
+    "hp": 70,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Sky Support",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Flap",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 69/75",
+    "image_url": "/tcgpocket/th/triumphantlight/69.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Shaymin.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Power Blast",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Discard a random energy from this Pokémon",
+        "damage": "1000"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 70/75",
+    "image_url": "/tcgpocket/th/triumphantlight/70.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Power Blast",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Discard a random energy from this Pokémon",
+        "damage": "1000"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 70/75",
+    "image_url": "/tcgpocket/th/triumphantlight/70.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fabled Luster",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ultimate Force",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your Benched Pokémon",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 71/75",
+    "image_url": "/tcgpocket/th/triumphantlight/71.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fabled Luster",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ultimate Force",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your Benched Pokémon",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 71/75",
+    "image_url": "/tcgpocket/th/triumphantlight/71.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Houndoom",
+    "hp": 100,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Corner",
+        "energy_cost": [
+          "fire",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, the Defending Pokémon can't retreat",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 76/75",
+    "image_url": "/tcgpocket/th/triumphantlight/76.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Houndoom.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Houndoom",
+    "hp": 100,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Corner",
+        "energy_cost": [
+          "fire",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, the Defending Pokémon can't retreat",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 76/75",
+    "image_url": "/tcgpocket/th/triumphantlight/76.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Houndoom.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Marill",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 77/75",
+    "image_url": "/tcgpocket/th/triumphantlight/77.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Marill.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Marill",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 77/75",
+    "image_url": "/tcgpocket/th/triumphantlight/77.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Marill.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Unown",
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "CHECK",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Hidden Power",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 78/75",
+    "image_url": "/tcgpocket/th/triumphantlight/78.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Unown.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Unown",
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "CHECK",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Hidden Power",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 78/75",
+    "image_url": "/tcgpocket/th/triumphantlight/78.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Unown.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Sudowoodo",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Fighting Headbutt",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage",
+        "damage": "20+"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 79/75",
+    "image_url": "/tcgpocket/th/triumphantlight/79.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Sudowoodo.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Sudowoodo",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Fighting Headbutt",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage",
+        "damage": "20+"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 79/75",
+    "image_url": "/tcgpocket/th/triumphantlight/79.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Sudowoodo.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Magnemite",
+    "hp": 60,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 80/75",
+    "image_url": "/tcgpocket/th/triumphantlight/80.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Magnemite.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Magnemite",
+    "hp": 60,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 80/75",
+    "image_url": "/tcgpocket/th/triumphantlight/80.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Magnemite.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Shaymin",
+    "hp": 70,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Sky Support",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Flap",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 81/75",
+    "image_url": "/tcgpocket/th/triumphantlight/81.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Shaymin.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Shaymin",
+    "hp": 70,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Sky Support",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Flap",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 81/75",
+    "image_url": "/tcgpocket/th/triumphantlight/81.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Shaymin.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Leafeon",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Forest Breath",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 82/75",
+    "image_url": "/tcgpocket/th/triumphantlight/82.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Leafeon",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Forest Breath",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 82/75",
+    "image_url": "/tcgpocket/th/triumphantlight/82.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Glaceon",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Snowy Terrain",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Freezing Wind",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 83/75",
+    "image_url": "/tcgpocket/th/triumphantlight/83.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Glaceon",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Snowy Terrain",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Freezing Wind",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 83/75",
+    "image_url": "/tcgpocket/th/triumphantlight/83.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Garchomp",
+    "hp": 170,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Linear Attack",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "This attack does 50 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Dragon Claw",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 84/75",
+    "image_url": "/tcgpocket/th/triumphantlight/84.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Garchomp",
+    "hp": 170,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Linear Attack",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "This attack does 50 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Dragon Claw",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 84/75",
+    "image_url": "/tcgpocket/th/triumphantlight/84.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Probopass",
+    "hp": 160,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Defensive Unit",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, this Pokémon takes -20 damage from attacks",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 85/75",
+    "image_url": "/tcgpocket/th/triumphantlight/85.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Probopass",
+    "hp": 160,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Defensive Unit",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, this Pokémon takes -20 damage from attacks",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 85/75",
+    "image_url": "/tcgpocket/th/triumphantlight/85.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fabled Luster",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ultimate Force",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your Benched Pokémon",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 86/75",
+    "image_url": "/tcgpocket/th/triumphantlight/86.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fabled Luster",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ultimate Force",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your Benched Pokémon",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 86/75",
+    "image_url": "/tcgpocket/th/triumphantlight/86.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Leafeon",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Forest Breath",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 91/75",
+    "image_url": "/tcgpocket/th/triumphantlight/91.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Leafeon",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Forest Breath",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 91/75",
+    "image_url": "/tcgpocket/th/triumphantlight/91.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Glaceon",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Snowy Terrain",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Freezing Wind",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 92/75",
+    "image_url": "/tcgpocket/th/triumphantlight/92.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Glaceon",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Snowy Terrain",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Freezing Wind",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "metal"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 92/75",
+    "image_url": "/tcgpocket/th/triumphantlight/92.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Garchomp",
+    "hp": 170,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Linear Attack",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "This attack does 50 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Dragon Claw",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 93/75",
+    "image_url": "/tcgpocket/th/triumphantlight/93.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Garchomp",
+    "hp": 170,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Linear Attack",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "This attack does 50 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Dragon Claw",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 93/75",
+    "image_url": "/tcgpocket/th/triumphantlight/93.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Probopass",
+    "hp": 160,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Defensive Unit",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, this Pokémon takes -20 damage from attacks",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 94/75",
+    "image_url": "/tcgpocket/th/triumphantlight/94.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Probopass",
+    "hp": 160,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Defensive Unit",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, this Pokémon takes -20 damage from attacks",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 94/75",
+    "image_url": "/tcgpocket/th/triumphantlight/94.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fabled Luster",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ultimate Force",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your Benched Pokémon",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 95/75",
+    "image_url": "/tcgpocket/th/triumphantlight/95.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fabled Luster",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ultimate Force",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your Benched Pokémon",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 95/75",
+    "image_url": "/tcgpocket/th/triumphantlight/95.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fabled Luster",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ultimate Force",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your Benched Pokémon",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 96/75",
+    "image_url": "/tcgpocket/th/triumphantlight/96.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  },
+  {
+    "set_name": "Triumphantlight",
+    "name": "Arceus",
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fabled Luster",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Ultimate Force",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your Benched Pokémon",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Triumphantlight 96/75",
+    "image_url": "/tcgpocket/th/triumphantlight/96.jpg",
+    "available_booster_packs": "Triumphantlight",
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+  }
+]

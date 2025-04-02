@@ -24,7 +24,7 @@
     "set_number": "Shiningrevelry 1/72",
     "image_url": "/tcgpocket/th/shiningrevelry/1.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -51,7 +51,7 @@
     "set_number": "Shiningrevelry 1/72",
     "image_url": "/tcgpocket/th/shiningrevelry/1.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -79,7 +79,7 @@
     "set_number": "Shiningrevelry 2/72",
     "image_url": "/tcgpocket/th/shiningrevelry/2.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -107,7 +107,7 @@
     "set_number": "Shiningrevelry 2/72",
     "image_url": "/tcgpocket/th/shiningrevelry/2.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -135,7 +135,7 @@
     "set_number": "Shiningrevelry 3/72",
     "image_url": "/tcgpocket/th/shiningrevelry/3.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -163,7 +163,7 @@
     "set_number": "Shiningrevelry 3/72",
     "image_url": "/tcgpocket/th/shiningrevelry/3.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -193,7 +193,7 @@
     "set_number": "Shiningrevelry 4/72",
     "image_url": "/tcgpocket/th/shiningrevelry/4.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pinsir.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pinsir.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -223,7 +223,7 @@
     "set_number": "Shiningrevelry 4/72",
     "image_url": "/tcgpocket/th/shiningrevelry/4.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pinsir.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pinsir.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -250,7 +250,7 @@
     "set_number": "Shiningrevelry 5/72",
     "image_url": "/tcgpocket/th/shiningrevelry/5.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Sprigatito.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Sprigatito.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -277,7 +277,7 @@
     "set_number": "Shiningrevelry 5/72",
     "image_url": "/tcgpocket/th/shiningrevelry/5.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Sprigatito.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Sprigatito.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -305,7 +305,7 @@
     "set_number": "Shiningrevelry 6/72",
     "image_url": "/tcgpocket/th/shiningrevelry/6.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Floragato.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Floragato.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -333,7 +333,7 @@
     "set_number": "Shiningrevelry 6/72",
     "image_url": "/tcgpocket/th/shiningrevelry/6.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Floragato.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Floragato.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -361,7 +361,7 @@
     "set_number": "Shiningrevelry 7/72",
     "image_url": "/tcgpocket/th/shiningrevelry/7.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -389,7 +389,7 @@
     "set_number": "Shiningrevelry 7/72",
     "image_url": "/tcgpocket/th/shiningrevelry/7.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -416,7 +416,7 @@
     "set_number": "Shiningrevelry 8/72",
     "image_url": "/tcgpocket/th/shiningrevelry/8.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -443,7 +443,7 @@
     "set_number": "Shiningrevelry 8/72",
     "image_url": "/tcgpocket/th/shiningrevelry/8.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -472,7 +472,7 @@
     "set_number": "Shiningrevelry 9/72",
     "image_url": "/tcgpocket/th/shiningrevelry/9.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -501,7 +501,7 @@
     "set_number": "Shiningrevelry 9/72",
     "image_url": "/tcgpocket/th/shiningrevelry/9.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -542,7 +542,7 @@
     "set_number": "Shiningrevelry 10/72",
     "image_url": "/tcgpocket/th/shiningrevelry/10.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -583,7 +583,7 @@
     "set_number": "Shiningrevelry 10/72",
     "image_url": "/tcgpocket/th/shiningrevelry/10.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -610,7 +610,7 @@
     "set_number": "Shiningrevelry 11/72",
     "image_url": "/tcgpocket/th/shiningrevelry/11.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Magmar.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Magmar.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -637,7 +637,7 @@
     "set_number": "Shiningrevelry 11/72",
     "image_url": "/tcgpocket/th/shiningrevelry/11.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Magmar.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Magmar.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -668,7 +668,7 @@
     "set_number": "Shiningrevelry 12/72",
     "image_url": "/tcgpocket/th/shiningrevelry/12.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Magmortar.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Magmortar.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -699,7 +699,7 @@
     "set_number": "Shiningrevelry 12/72",
     "image_url": "/tcgpocket/th/shiningrevelry/12.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Magmortar.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Magmortar.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -729,7 +729,7 @@
     "set_number": "Shiningrevelry 13/72",
     "image_url": "/tcgpocket/th/shiningrevelry/13.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tauros.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tauros.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -759,7 +759,7 @@
     "set_number": "Shiningrevelry 13/72",
     "image_url": "/tcgpocket/th/shiningrevelry/13.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tauros.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tauros.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -786,7 +786,7 @@
     "set_number": "Shiningrevelry 14/72",
     "image_url": "/tcgpocket/th/shiningrevelry/14.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacool.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacool.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -813,7 +813,7 @@
     "set_number": "Shiningrevelry 14/72",
     "image_url": "/tcgpocket/th/shiningrevelry/14.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacool.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacool.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -840,7 +840,7 @@
     "set_number": "Shiningrevelry 15/72",
     "image_url": "/tcgpocket/th/shiningrevelry/15.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacruel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacruel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -867,7 +867,7 @@
     "set_number": "Shiningrevelry 15/72",
     "image_url": "/tcgpocket/th/shiningrevelry/15.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacruel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacruel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -894,7 +894,7 @@
     "set_number": "Shiningrevelry 16/72",
     "image_url": "/tcgpocket/th/shiningrevelry/16.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -921,7 +921,7 @@
     "set_number": "Shiningrevelry 16/72",
     "image_url": "/tcgpocket/th/shiningrevelry/16.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -948,7 +948,7 @@
     "set_number": "Shiningrevelry 17/72",
     "image_url": "/tcgpocket/th/shiningrevelry/17.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Floatzel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Floatzel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -975,7 +975,7 @@
     "set_number": "Shiningrevelry 17/72",
     "image_url": "/tcgpocket/th/shiningrevelry/17.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Floatzel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Floatzel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1002,7 +1002,7 @@
     "set_number": "Shiningrevelry 18/72",
     "image_url": "/tcgpocket/th/shiningrevelry/18.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1029,7 +1029,7 @@
     "set_number": "Shiningrevelry 18/72",
     "image_url": "/tcgpocket/th/shiningrevelry/18.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1058,7 +1058,7 @@
     "set_number": "Shiningrevelry 19/72",
     "image_url": "/tcgpocket/th/shiningrevelry/19.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1087,7 +1087,7 @@
     "set_number": "Shiningrevelry 19/72",
     "image_url": "/tcgpocket/th/shiningrevelry/19.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1119,7 +1119,7 @@
     "set_number": "Shiningrevelry 20/72",
     "image_url": "/tcgpocket/th/shiningrevelry/20.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1151,7 +1151,7 @@
     "set_number": "Shiningrevelry 20/72",
     "image_url": "/tcgpocket/th/shiningrevelry/20.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1184,7 +1184,7 @@
     "set_number": "Shiningrevelry 21/72",
     "image_url": "/tcgpocket/th/shiningrevelry/21.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1217,7 +1217,7 @@
     "set_number": "Shiningrevelry 21/72",
     "image_url": "/tcgpocket/th/shiningrevelry/21.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1246,7 +1246,7 @@
     "set_number": "Shiningrevelry 22/72",
     "image_url": "/tcgpocket/th/shiningrevelry/22.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1275,7 +1275,7 @@
     "set_number": "Shiningrevelry 22/72",
     "image_url": "/tcgpocket/th/shiningrevelry/22.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1302,7 +1302,7 @@
     "set_number": "Shiningrevelry 23/72",
     "image_url": "/tcgpocket/th/shiningrevelry/23.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Voltorb.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Voltorb.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1329,7 +1329,7 @@
     "set_number": "Shiningrevelry 23/72",
     "image_url": "/tcgpocket/th/shiningrevelry/23.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Voltorb.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Voltorb.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1357,7 +1357,7 @@
     "set_number": "Shiningrevelry 24/72",
     "image_url": "/tcgpocket/th/shiningrevelry/24.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Electrode.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Electrode.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1385,7 +1385,7 @@
     "set_number": "Shiningrevelry 24/72",
     "image_url": "/tcgpocket/th/shiningrevelry/24.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Electrode.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Electrode.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1412,7 +1412,7 @@
     "set_number": "Shiningrevelry 25/72",
     "image_url": "/tcgpocket/th/shiningrevelry/25.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1439,7 +1439,7 @@
     "set_number": "Shiningrevelry 25/72",
     "image_url": "/tcgpocket/th/shiningrevelry/25.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1466,7 +1466,7 @@
     "set_number": "Shiningrevelry 26/72",
     "image_url": "/tcgpocket/th/shiningrevelry/26.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmi.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmi.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1493,7 +1493,7 @@
     "set_number": "Shiningrevelry 26/72",
     "image_url": "/tcgpocket/th/shiningrevelry/26.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmi.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmi.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1521,7 +1521,7 @@
     "set_number": "Shiningrevelry 27/72",
     "image_url": "/tcgpocket/th/shiningrevelry/27.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1549,7 +1549,7 @@
     "set_number": "Shiningrevelry 27/72",
     "image_url": "/tcgpocket/th/shiningrevelry/27.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1581,7 +1581,7 @@
     "set_number": "Shiningrevelry 28/72",
     "image_url": "/tcgpocket/th/shiningrevelry/28.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmot.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmot.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1613,7 +1613,7 @@
     "set_number": "Shiningrevelry 28/72",
     "image_url": "/tcgpocket/th/shiningrevelry/28.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmot.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmot.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1640,7 +1640,7 @@
     "set_number": "Shiningrevelry 29/72",
     "image_url": "/tcgpocket/th/shiningrevelry/29.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Abra.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Abra.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1667,7 +1667,7 @@
     "set_number": "Shiningrevelry 29/72",
     "image_url": "/tcgpocket/th/shiningrevelry/29.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Abra.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Abra.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1694,7 +1694,7 @@
     "set_number": "Shiningrevelry 30/72",
     "image_url": "/tcgpocket/th/shiningrevelry/30.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kadabra.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kadabra.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1721,7 +1721,7 @@
     "set_number": "Shiningrevelry 30/72",
     "image_url": "/tcgpocket/th/shiningrevelry/30.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kadabra.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kadabra.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1749,7 +1749,7 @@
     "set_number": "Shiningrevelry 31/72",
     "image_url": "/tcgpocket/th/shiningrevelry/31.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Alakazam.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Alakazam.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1777,7 +1777,7 @@
     "set_number": "Shiningrevelry 31/72",
     "image_url": "/tcgpocket/th/shiningrevelry/31.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Alakazam.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Alakazam.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1805,7 +1805,7 @@
     "set_number": "Shiningrevelry 32/72",
     "image_url": "/tcgpocket/th/shiningrevelry/32.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Mr._Mime.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Mr._Mime.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1833,7 +1833,7 @@
     "set_number": "Shiningrevelry 32/72",
     "image_url": "/tcgpocket/th/shiningrevelry/32.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Mr._Mime.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Mr._Mime.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1860,7 +1860,7 @@
     "set_number": "Shiningrevelry 33/72",
     "image_url": "/tcgpocket/th/shiningrevelry/33.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Drifloon.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Drifloon.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1887,7 +1887,7 @@
     "set_number": "Shiningrevelry 33/72",
     "image_url": "/tcgpocket/th/shiningrevelry/33.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Drifloon.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Drifloon.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1912,7 +1912,7 @@
     "set_number": "Shiningrevelry 34/72",
     "image_url": "/tcgpocket/th/shiningrevelry/34.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Drifblim.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Drifblim.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1937,7 +1937,7 @@
     "set_number": "Shiningrevelry 34/72",
     "image_url": "/tcgpocket/th/shiningrevelry/34.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Drifblim.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Drifblim.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -1974,7 +1974,7 @@
     "set_number": "Shiningrevelry 35/72",
     "image_url": "/tcgpocket/th/shiningrevelry/35.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2011,7 +2011,7 @@
     "set_number": "Shiningrevelry 35/72",
     "image_url": "/tcgpocket/th/shiningrevelry/35.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2038,7 +2038,7 @@
     "set_number": "Shiningrevelry 36/72",
     "image_url": "/tcgpocket/th/shiningrevelry/36.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gimmighoul.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gimmighoul.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2065,7 +2065,7 @@
     "set_number": "Shiningrevelry 36/72",
     "image_url": "/tcgpocket/th/shiningrevelry/36.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gimmighoul.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gimmighoul.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2092,7 +2092,7 @@
     "set_number": "Shiningrevelry 37/72",
     "image_url": "/tcgpocket/th/shiningrevelry/37.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machop.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machop.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2119,7 +2119,7 @@
     "set_number": "Shiningrevelry 37/72",
     "image_url": "/tcgpocket/th/shiningrevelry/37.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machop.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machop.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2148,7 +2148,7 @@
     "set_number": "Shiningrevelry 38/72",
     "image_url": "/tcgpocket/th/shiningrevelry/38.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machoke.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machoke.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2177,7 +2177,7 @@
     "set_number": "Shiningrevelry 38/72",
     "image_url": "/tcgpocket/th/shiningrevelry/38.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machoke.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machoke.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2206,7 +2206,7 @@
     "set_number": "Shiningrevelry 39/72",
     "image_url": "/tcgpocket/th/shiningrevelry/39.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machamp.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machamp.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2235,7 +2235,7 @@
     "set_number": "Shiningrevelry 39/72",
     "image_url": "/tcgpocket/th/shiningrevelry/39.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machamp.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machamp.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2262,7 +2262,7 @@
     "set_number": "Shiningrevelry 40/72",
     "image_url": "/tcgpocket/th/shiningrevelry/40.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonlee.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonlee.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2289,7 +2289,7 @@
     "set_number": "Shiningrevelry 40/72",
     "image_url": "/tcgpocket/th/shiningrevelry/40.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonlee.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonlee.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2318,7 +2318,7 @@
     "set_number": "Shiningrevelry 41/72",
     "image_url": "/tcgpocket/th/shiningrevelry/41.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonchan.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonchan.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2347,7 +2347,7 @@
     "set_number": "Shiningrevelry 41/72",
     "image_url": "/tcgpocket/th/shiningrevelry/41.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonchan.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonchan.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2375,7 +2375,7 @@
     "set_number": "Shiningrevelry 42/72",
     "image_url": "/tcgpocket/th/shiningrevelry/42.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2403,7 +2403,7 @@
     "set_number": "Shiningrevelry 42/72",
     "image_url": "/tcgpocket/th/shiningrevelry/42.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2433,7 +2433,7 @@
     "set_number": "Shiningrevelry 43/72",
     "image_url": "/tcgpocket/th/shiningrevelry/43.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2463,7 +2463,7 @@
     "set_number": "Shiningrevelry 43/72",
     "image_url": "/tcgpocket/th/shiningrevelry/43.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2491,7 +2491,7 @@
     "set_number": "Shiningrevelry 44/72",
     "image_url": "/tcgpocket/th/shiningrevelry/44.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Flamigo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Flamigo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2519,7 +2519,7 @@
     "set_number": "Shiningrevelry 44/72",
     "image_url": "/tcgpocket/th/shiningrevelry/44.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Flamigo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Flamigo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2547,7 +2547,7 @@
     "set_number": "Shiningrevelry 45/72",
     "image_url": "/tcgpocket/th/shiningrevelry/45.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Ekans.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Ekans.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2575,7 +2575,7 @@
     "set_number": "Shiningrevelry 45/72",
     "image_url": "/tcgpocket/th/shiningrevelry/45.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Ekans.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Ekans.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2605,7 +2605,7 @@
     "set_number": "Shiningrevelry 46/72",
     "image_url": "/tcgpocket/th/shiningrevelry/46.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Arbok.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Arbok.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2635,7 +2635,7 @@
     "set_number": "Shiningrevelry 46/72",
     "image_url": "/tcgpocket/th/shiningrevelry/46.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Arbok.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Arbok.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2662,7 +2662,7 @@
     "set_number": "Shiningrevelry 47/72",
     "image_url": "/tcgpocket/th/shiningrevelry/47.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wooper.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wooper.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2689,7 +2689,7 @@
     "set_number": "Shiningrevelry 47/72",
     "image_url": "/tcgpocket/th/shiningrevelry/47.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wooper.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wooper.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2720,7 +2720,7 @@
     "set_number": "Shiningrevelry 48/72",
     "image_url": "/tcgpocket/th/shiningrevelry/48.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2751,7 +2751,7 @@
     "set_number": "Shiningrevelry 48/72",
     "image_url": "/tcgpocket/th/shiningrevelry/48.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2778,7 +2778,7 @@
     "set_number": "Shiningrevelry 49/72",
     "image_url": "/tcgpocket/th/shiningrevelry/49.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Spiritomb.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Spiritomb.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2805,7 +2805,7 @@
     "set_number": "Shiningrevelry 49/72",
     "image_url": "/tcgpocket/th/shiningrevelry/49.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Spiritomb.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Spiritomb.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2832,7 +2832,7 @@
     "set_number": "Shiningrevelry 50/72",
     "image_url": "/tcgpocket/th/shiningrevelry/50.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Shroodle.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Shroodle.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2859,7 +2859,7 @@
     "set_number": "Shiningrevelry 50/72",
     "image_url": "/tcgpocket/th/shiningrevelry/50.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Shroodle.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Shroodle.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2893,7 +2893,7 @@
     "set_number": "Shiningrevelry 51/72",
     "image_url": "/tcgpocket/th/shiningrevelry/51.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2927,7 +2927,7 @@
     "set_number": "Shiningrevelry 51/72",
     "image_url": "/tcgpocket/th/shiningrevelry/51.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2954,7 +2954,7 @@
     "set_number": "Shiningrevelry 52/72",
     "image_url": "/tcgpocket/th/shiningrevelry/52.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatink.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatink.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -2981,7 +2981,7 @@
     "set_number": "Shiningrevelry 52/72",
     "image_url": "/tcgpocket/th/shiningrevelry/52.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatink.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatink.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3010,7 +3010,7 @@
     "set_number": "Shiningrevelry 53/72",
     "image_url": "/tcgpocket/th/shiningrevelry/53.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatuff.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatuff.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3039,7 +3039,7 @@
     "set_number": "Shiningrevelry 53/72",
     "image_url": "/tcgpocket/th/shiningrevelry/53.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatuff.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatuff.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3069,7 +3069,7 @@
     "set_number": "Shiningrevelry 54/72",
     "image_url": "/tcgpocket/th/shiningrevelry/54.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3099,7 +3099,7 @@
     "set_number": "Shiningrevelry 54/72",
     "image_url": "/tcgpocket/th/shiningrevelry/54.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3126,7 +3126,7 @@
     "set_number": "Shiningrevelry 55/72",
     "image_url": "/tcgpocket/th/shiningrevelry/55.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3153,7 +3153,7 @@
     "set_number": "Shiningrevelry 55/72",
     "image_url": "/tcgpocket/th/shiningrevelry/55.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3183,7 +3183,7 @@
     "set_number": "Shiningrevelry 56/72",
     "image_url": "/tcgpocket/th/shiningrevelry/56.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3213,7 +3213,7 @@
     "set_number": "Shiningrevelry 56/72",
     "image_url": "/tcgpocket/th/shiningrevelry/56.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3243,7 +3243,7 @@
     "set_number": "Shiningrevelry 57/72",
     "image_url": "/tcgpocket/th/shiningrevelry/57.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3273,7 +3273,7 @@
     "set_number": "Shiningrevelry 57/72",
     "image_url": "/tcgpocket/th/shiningrevelry/57.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3300,7 +3300,7 @@
     "set_number": "Shiningrevelry 58/72",
     "image_url": "/tcgpocket/th/shiningrevelry/58.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Rattata.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Rattata.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3327,7 +3327,7 @@
     "set_number": "Shiningrevelry 58/72",
     "image_url": "/tcgpocket/th/shiningrevelry/58.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Rattata.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Rattata.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3355,7 +3355,7 @@
     "set_number": "Shiningrevelry 59/72",
     "image_url": "/tcgpocket/th/shiningrevelry/59.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Raticate.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Raticate.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3383,7 +3383,7 @@
     "set_number": "Shiningrevelry 59/72",
     "image_url": "/tcgpocket/th/shiningrevelry/59.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Raticate.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Raticate.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3410,7 +3410,7 @@
     "set_number": "Shiningrevelry 60/72",
     "image_url": "/tcgpocket/th/shiningrevelry/60.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Jigglypuff.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Jigglypuff.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3437,7 +3437,7 @@
     "set_number": "Shiningrevelry 60/72",
     "image_url": "/tcgpocket/th/shiningrevelry/60.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Jigglypuff.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Jigglypuff.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3472,7 +3472,7 @@
     "set_number": "Shiningrevelry 61/72",
     "image_url": "/tcgpocket/th/shiningrevelry/61.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3507,7 +3507,7 @@
     "set_number": "Shiningrevelry 61/72",
     "image_url": "/tcgpocket/th/shiningrevelry/61.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3536,7 +3536,7 @@
     "set_number": "Shiningrevelry 62/72",
     "image_url": "/tcgpocket/th/shiningrevelry/62.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lickitung.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lickitung.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3565,7 +3565,7 @@
     "set_number": "Shiningrevelry 62/72",
     "image_url": "/tcgpocket/th/shiningrevelry/62.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lickitung.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lickitung.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3596,7 +3596,7 @@
     "set_number": "Shiningrevelry 63/72",
     "image_url": "/tcgpocket/th/shiningrevelry/63.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lickilicky.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lickilicky.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3627,7 +3627,7 @@
     "set_number": "Shiningrevelry 63/72",
     "image_url": "/tcgpocket/th/shiningrevelry/63.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lickilicky.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lickilicky.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3656,7 +3656,7 @@
     "set_number": "Shiningrevelry 64/72",
     "image_url": "/tcgpocket/th/shiningrevelry/64.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bidoof.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bidoof.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3685,7 +3685,7 @@
     "set_number": "Shiningrevelry 64/72",
     "image_url": "/tcgpocket/th/shiningrevelry/64.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bidoof.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bidoof.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3717,7 +3717,7 @@
     "set_number": "Shiningrevelry 65/72",
     "image_url": "/tcgpocket/th/shiningrevelry/65.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3749,7 +3749,7 @@
     "set_number": "Shiningrevelry 65/72",
     "image_url": "/tcgpocket/th/shiningrevelry/65.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3776,7 +3776,7 @@
     "set_number": "Shiningrevelry 66/72",
     "image_url": "/tcgpocket/th/shiningrevelry/66.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buneary.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buneary.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3803,7 +3803,7 @@
     "set_number": "Shiningrevelry 66/72",
     "image_url": "/tcgpocket/th/shiningrevelry/66.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buneary.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buneary.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3830,7 +3830,7 @@
     "set_number": "Shiningrevelry 67/72",
     "image_url": "/tcgpocket/th/shiningrevelry/67.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lopunny.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lopunny.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3857,7 +3857,7 @@
     "set_number": "Shiningrevelry 67/72",
     "image_url": "/tcgpocket/th/shiningrevelry/67.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lopunny.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lopunny.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3884,7 +3884,7 @@
     "set_number": "Shiningrevelry 68/72",
     "image_url": "/tcgpocket/th/shiningrevelry/68.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Cyclizar.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Cyclizar.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3911,7 +3911,7 @@
     "set_number": "Shiningrevelry 68/72",
     "image_url": "/tcgpocket/th/shiningrevelry/68.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Cyclizar.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Cyclizar.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3939,7 +3939,7 @@
     "set_number": "Shiningrevelry 73/72",
     "image_url": "/tcgpocket/th/shiningrevelry/73.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3967,7 +3967,7 @@
     "set_number": "Shiningrevelry 73/72",
     "image_url": "/tcgpocket/th/shiningrevelry/73.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -3994,7 +3994,7 @@
     "set_number": "Shiningrevelry 74/72",
     "image_url": "/tcgpocket/th/shiningrevelry/74.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4021,7 +4021,7 @@
     "set_number": "Shiningrevelry 74/72",
     "image_url": "/tcgpocket/th/shiningrevelry/74.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4054,7 +4054,7 @@
     "set_number": "Shiningrevelry 75/72",
     "image_url": "/tcgpocket/th/shiningrevelry/75.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4087,7 +4087,7 @@
     "set_number": "Shiningrevelry 75/72",
     "image_url": "/tcgpocket/th/shiningrevelry/75.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4121,7 +4121,7 @@
     "set_number": "Shiningrevelry 76/72",
     "image_url": "/tcgpocket/th/shiningrevelry/76.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4155,7 +4155,7 @@
     "set_number": "Shiningrevelry 76/72",
     "image_url": "/tcgpocket/th/shiningrevelry/76.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4185,7 +4185,7 @@
     "set_number": "Shiningrevelry 77/72",
     "image_url": "/tcgpocket/th/shiningrevelry/77.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4215,7 +4215,7 @@
     "set_number": "Shiningrevelry 77/72",
     "image_url": "/tcgpocket/th/shiningrevelry/77.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4250,7 +4250,7 @@
     "set_number": "Shiningrevelry 78/72",
     "image_url": "/tcgpocket/th/shiningrevelry/78.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4285,7 +4285,7 @@
     "set_number": "Shiningrevelry 78/72",
     "image_url": "/tcgpocket/th/shiningrevelry/78.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4313,7 +4313,7 @@
     "set_number": "Shiningrevelry 79/72",
     "image_url": "/tcgpocket/th/shiningrevelry/79.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4341,7 +4341,7 @@
     "set_number": "Shiningrevelry 79/72",
     "image_url": "/tcgpocket/th/shiningrevelry/79.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4382,7 +4382,7 @@
     "set_number": "Shiningrevelry 80/72",
     "image_url": "/tcgpocket/th/shiningrevelry/80.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4423,7 +4423,7 @@
     "set_number": "Shiningrevelry 80/72",
     "image_url": "/tcgpocket/th/shiningrevelry/80.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4452,7 +4452,7 @@
     "set_number": "Shiningrevelry 81/72",
     "image_url": "/tcgpocket/th/shiningrevelry/81.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4481,7 +4481,7 @@
     "set_number": "Shiningrevelry 81/72",
     "image_url": "/tcgpocket/th/shiningrevelry/81.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4510,7 +4510,7 @@
     "set_number": "Shiningrevelry 82/72",
     "image_url": "/tcgpocket/th/shiningrevelry/82.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4539,7 +4539,7 @@
     "set_number": "Shiningrevelry 82/72",
     "image_url": "/tcgpocket/th/shiningrevelry/82.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4576,7 +4576,7 @@
     "set_number": "Shiningrevelry 83/72",
     "image_url": "/tcgpocket/th/shiningrevelry/83.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4613,7 +4613,7 @@
     "set_number": "Shiningrevelry 83/72",
     "image_url": "/tcgpocket/th/shiningrevelry/83.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4643,7 +4643,7 @@
     "set_number": "Shiningrevelry 84/72",
     "image_url": "/tcgpocket/th/shiningrevelry/84.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4673,7 +4673,7 @@
     "set_number": "Shiningrevelry 84/72",
     "image_url": "/tcgpocket/th/shiningrevelry/84.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4704,7 +4704,7 @@
     "set_number": "Shiningrevelry 85/72",
     "image_url": "/tcgpocket/th/shiningrevelry/85.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4735,7 +4735,7 @@
     "set_number": "Shiningrevelry 85/72",
     "image_url": "/tcgpocket/th/shiningrevelry/85.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4765,7 +4765,7 @@
     "set_number": "Shiningrevelry 86/72",
     "image_url": "/tcgpocket/th/shiningrevelry/86.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4795,7 +4795,7 @@
     "set_number": "Shiningrevelry 86/72",
     "image_url": "/tcgpocket/th/shiningrevelry/86.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4827,7 +4827,7 @@
     "set_number": "Shiningrevelry 87/72",
     "image_url": "/tcgpocket/th/shiningrevelry/87.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4859,7 +4859,7 @@
     "set_number": "Shiningrevelry 87/72",
     "image_url": "/tcgpocket/th/shiningrevelry/87.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4888,7 +4888,7 @@
     "set_number": "Shiningrevelry 92/72",
     "image_url": "/tcgpocket/th/shiningrevelry/92.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4917,7 +4917,7 @@
     "set_number": "Shiningrevelry 92/72",
     "image_url": "/tcgpocket/th/shiningrevelry/92.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4948,7 +4948,7 @@
     "set_number": "Shiningrevelry 93/72",
     "image_url": "/tcgpocket/th/shiningrevelry/93.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -4979,7 +4979,7 @@
     "set_number": "Shiningrevelry 93/72",
     "image_url": "/tcgpocket/th/shiningrevelry/93.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5009,7 +5009,7 @@
     "set_number": "Shiningrevelry 94/72",
     "image_url": "/tcgpocket/th/shiningrevelry/94.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5039,7 +5039,7 @@
     "set_number": "Shiningrevelry 94/72",
     "image_url": "/tcgpocket/th/shiningrevelry/94.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5071,7 +5071,7 @@
     "set_number": "Shiningrevelry 95/72",
     "image_url": "/tcgpocket/th/shiningrevelry/95.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5103,7 +5103,7 @@
     "set_number": "Shiningrevelry 95/72",
     "image_url": "/tcgpocket/th/shiningrevelry/95.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5140,7 +5140,7 @@
     "set_number": "Shiningrevelry 96/72",
     "image_url": "/tcgpocket/th/shiningrevelry/96.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5177,7 +5177,7 @@
     "set_number": "Shiningrevelry 96/72",
     "image_url": "/tcgpocket/th/shiningrevelry/96.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5204,7 +5204,7 @@
     "set_number": "Shiningrevelry 97/72",
     "image_url": "/tcgpocket/th/shiningrevelry/97.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5231,7 +5231,7 @@
     "set_number": "Shiningrevelry 97/72",
     "image_url": "/tcgpocket/th/shiningrevelry/97.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5259,7 +5259,7 @@
     "set_number": "Shiningrevelry 98/72",
     "image_url": "/tcgpocket/th/shiningrevelry/98.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5287,7 +5287,7 @@
     "set_number": "Shiningrevelry 98/72",
     "image_url": "/tcgpocket/th/shiningrevelry/98.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5314,7 +5314,7 @@
     "set_number": "Shiningrevelry 99/72",
     "image_url": "/tcgpocket/th/shiningrevelry/99.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5341,7 +5341,7 @@
     "set_number": "Shiningrevelry 99/72",
     "image_url": "/tcgpocket/th/shiningrevelry/99.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5370,7 +5370,7 @@
     "set_number": "Shiningrevelry 100/72",
     "image_url": "/tcgpocket/th/shiningrevelry/100.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5399,7 +5399,7 @@
     "set_number": "Shiningrevelry 100/72",
     "image_url": "/tcgpocket/th/shiningrevelry/100.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5426,7 +5426,7 @@
     "set_number": "Shiningrevelry 101/72",
     "image_url": "/tcgpocket/th/shiningrevelry/101.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5453,7 +5453,7 @@
     "set_number": "Shiningrevelry 101/72",
     "image_url": "/tcgpocket/th/shiningrevelry/101.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5485,7 +5485,7 @@
     "set_number": "Shiningrevelry 102/72",
     "image_url": "/tcgpocket/th/shiningrevelry/102.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5517,7 +5517,7 @@
     "set_number": "Shiningrevelry 102/72",
     "image_url": "/tcgpocket/th/shiningrevelry/102.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5544,7 +5544,7 @@
     "set_number": "Shiningrevelry 103/72",
     "image_url": "/tcgpocket/th/shiningrevelry/103.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5571,7 +5571,7 @@
     "set_number": "Shiningrevelry 103/72",
     "image_url": "/tcgpocket/th/shiningrevelry/103.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5599,7 +5599,7 @@
     "set_number": "Shiningrevelry 104/72",
     "image_url": "/tcgpocket/th/shiningrevelry/104.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5627,7 +5627,7 @@
     "set_number": "Shiningrevelry 104/72",
     "image_url": "/tcgpocket/th/shiningrevelry/104.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5654,7 +5654,7 @@
     "set_number": "Shiningrevelry 105/72",
     "image_url": "/tcgpocket/th/shiningrevelry/105.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5681,7 +5681,7 @@
     "set_number": "Shiningrevelry 105/72",
     "image_url": "/tcgpocket/th/shiningrevelry/105.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5711,7 +5711,7 @@
     "set_number": "Shiningrevelry 106/72",
     "image_url": "/tcgpocket/th/shiningrevelry/106.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5741,7 +5741,7 @@
     "set_number": "Shiningrevelry 106/72",
     "image_url": "/tcgpocket/th/shiningrevelry/106.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5769,7 +5769,7 @@
     "set_number": "Shiningrevelry 107/72",
     "image_url": "/tcgpocket/th/shiningrevelry/107.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5797,7 +5797,7 @@
     "set_number": "Shiningrevelry 107/72",
     "image_url": "/tcgpocket/th/shiningrevelry/107.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5838,7 +5838,7 @@
     "set_number": "Shiningrevelry 108/72",
     "image_url": "/tcgpocket/th/shiningrevelry/108.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5879,7 +5879,7 @@
     "set_number": "Shiningrevelry 108/72",
     "image_url": "/tcgpocket/th/shiningrevelry/108.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5908,7 +5908,7 @@
     "set_number": "Shiningrevelry 109/72",
     "image_url": "/tcgpocket/th/shiningrevelry/109.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5937,7 +5937,7 @@
     "set_number": "Shiningrevelry 109/72",
     "image_url": "/tcgpocket/th/shiningrevelry/109.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5967,7 +5967,7 @@
     "set_number": "Shiningrevelry 110/72",
     "image_url": "/tcgpocket/th/shiningrevelry/110.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
   },
   {
     "set_name": "Shiningrevelry",
@@ -5997,6 +5997,6 @@
     "set_number": "Shiningrevelry 110/72",
     "image_url": "/tcgpocket/th/shiningrevelry/110.jpg",
     "available_booster_packs": "Shiningrevelry",
-    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
   }
 ]

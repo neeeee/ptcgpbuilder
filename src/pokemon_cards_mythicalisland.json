@@ -1,0 +1,4508 @@
+[
+  {
+    "set_name": "Mythicalisland",
+    "name": "Exeggcute",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Growth Spurt",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Take a  Energy from your Energy Zone and attach it to this Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 1/68",
+    "image_url": "/tcgpocket/th/mythicalisland/1.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggcute.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Exeggcute",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Growth Spurt",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Take a  Energy from your Energy Zone and attach it to this Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 1/68",
+    "image_url": "/tcgpocket/th/mythicalisland/1.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggcute.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Exeggutor",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Psychic",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 2/68",
+    "image_url": "/tcgpocket/th/mythicalisland/2.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggutor.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Exeggutor",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Psychic",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 2/68",
+    "image_url": "/tcgpocket/th/mythicalisland/2.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggutor.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Celebi",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Powerful Bloom",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "Flip a coin for each Energy  attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 3/68",
+    "image_url": "/tcgpocket/th/mythicalisland/3.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Celebi",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Powerful Bloom",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "Flip a coin for each Energy  attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 3/68",
+    "image_url": "/tcgpocket/th/mythicalisland/3.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Snivy",
+    "hp": 70,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Vine Whip",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 4/68",
+    "image_url": "/tcgpocket/th/mythicalisland/4.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Snivy.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Snivy",
+    "hp": 70,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Vine Whip",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 4/68",
+    "image_url": "/tcgpocket/th/mythicalisland/4.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Snivy.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Servine",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Vine Whip",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 5/68",
+    "image_url": "/tcgpocket/th/mythicalisland/5.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Servine.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Servine",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Vine Whip",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 5/68",
+    "image_url": "/tcgpocket/th/mythicalisland/5.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Servine.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Serperior",
+    "hp": 110,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Jungle Totem",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 6/68",
+    "image_url": "/tcgpocket/th/mythicalisland/6.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Serperior.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Serperior",
+    "hp": 110,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Jungle Totem",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 6/68",
+    "image_url": "/tcgpocket/th/mythicalisland/6.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Serperior.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Morelull",
+    "hp": 60,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 7/68",
+    "image_url": "/tcgpocket/th/mythicalisland/7.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Morelull.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Morelull",
+    "hp": 60,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 7/68",
+    "image_url": "/tcgpocket/th/mythicalisland/7.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Morelull.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Shiinotic",
+    "hp": 90,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Flickering Spores",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Your opponent's Active Pokémon is now Asleep",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 8/68",
+    "image_url": "/tcgpocket/th/mythicalisland/8.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Shiinotic.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Shiinotic",
+    "hp": 90,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Flickering Spores",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Your opponent's Active Pokémon is now Asleep",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 8/68",
+    "image_url": "/tcgpocket/th/mythicalisland/8.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Shiinotic.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Dhelmise",
+    "hp": 100,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Energy Whip",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "If this Pokémon has at least 3 extra  Energy attached, this attack does 70 more damage.",
+        "damage": "20+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 9/68",
+    "image_url": "/tcgpocket/th/mythicalisland/9.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dhelmise.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Dhelmise",
+    "hp": 100,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Energy Whip",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "If this Pokémon has at least 3 extra  Energy attached, this attack does 70 more damage.",
+        "damage": "20+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 9/68",
+    "image_url": "/tcgpocket/th/mythicalisland/9.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dhelmise.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Ponyta",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Stomp",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Flip a coin. If heads, this attack does 30 more damage",
+        "damage": "10+"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 10/68",
+    "image_url": "/tcgpocket/th/mythicalisland/10.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Ponyta.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Ponyta",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Stomp",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Flip a coin. If heads, this attack does 30 more damage",
+        "damage": "10+"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 10/68",
+    "image_url": "/tcgpocket/th/mythicalisland/10.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Ponyta.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Rapidash",
+    "hp": 100,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Rising Lunge",
+        "energy_cost": [
+          "fire",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 60 more damage",
+        "damage": "40+"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 11/68",
+    "image_url": "/tcgpocket/th/mythicalisland/11.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Rapidash.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Rapidash",
+    "hp": 100,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Rising Lunge",
+        "energy_cost": [
+          "fire",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 60 more damage",
+        "damage": "40+"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 11/68",
+    "image_url": "/tcgpocket/th/mythicalisland/11.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Rapidash.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Magmar",
+    "hp": 80,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Fire Blast",
+        "energy_cost": [
+          "fire",
+          "fire"
+        ],
+        "description": "Discard 2  Energy from this Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 12/68",
+    "image_url": "/tcgpocket/th/mythicalisland/12.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Magmar.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Magmar",
+    "hp": 80,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Fire Blast",
+        "energy_cost": [
+          "fire",
+          "fire"
+        ],
+        "description": "Discard 2  Energy from this Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 12/68",
+    "image_url": "/tcgpocket/th/mythicalisland/12.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Magmar.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Larvesta",
+    "hp": 80,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 13/68",
+    "image_url": "/tcgpocket/th/mythicalisland/13.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Larvesta.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Larvesta",
+    "hp": 80,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 13/68",
+    "image_url": "/tcgpocket/th/mythicalisland/13.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Larvesta.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Volcarona",
+    "hp": 120,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Volcanic Ash",
+        "energy_cost": [
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Discard 2  Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 14/68",
+    "image_url": "/tcgpocket/th/mythicalisland/14.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Volcarona.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Volcarona",
+    "hp": 120,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Volcanic Ash",
+        "energy_cost": [
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Discard 2  Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 14/68",
+    "image_url": "/tcgpocket/th/mythicalisland/14.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Volcarona.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Salandit",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 15/68",
+    "image_url": "/tcgpocket/th/mythicalisland/15.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salandit.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Salandit",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 15/68",
+    "image_url": "/tcgpocket/th/mythicalisland/15.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salandit.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Salazzle",
+    "hp": 80,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Poison Claws",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Your opponent's Active Pokémon is now Poisoned",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 16/68",
+    "image_url": "/tcgpocket/th/mythicalisland/16.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salazzle.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Salazzle",
+    "hp": 80,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Poison Claws",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Your opponent's Active Pokémon is now Poisoned",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 16/68",
+    "image_url": "/tcgpocket/th/mythicalisland/16.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salazzle.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Magikarp",
+    "hp": 30,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Leap Out",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Switch this Pokémon with 1 of your Benched Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 17/68",
+    "image_url": "/tcgpocket/th/mythicalisland/17.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Magikarp.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Magikarp",
+    "hp": 30,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Leap Out",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Switch this Pokémon with 1 of your Benched Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 17/68",
+    "image_url": "/tcgpocket/th/mythicalisland/17.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Magikarp.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Gyarados",
+    "hp": 180,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Rampaging Whirlpool",
+        "energy_cost": [
+          "water",
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)",
+        "damage": "140"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 18/68",
+    "image_url": "/tcgpocket/th/mythicalisland/18.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyarados.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Gyarados",
+    "hp": 180,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Rampaging Whirlpool",
+        "energy_cost": [
+          "water",
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)",
+        "damage": "140"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 18/68",
+    "image_url": "/tcgpocket/th/mythicalisland/18.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyarados.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Vaporeon",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Wash Out",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Wave Splash",
+        "energy_cost": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 19/68",
+    "image_url": "/tcgpocket/th/mythicalisland/19.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Vaporeon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Vaporeon",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Wash Out",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Wave Splash",
+        "energy_cost": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 19/68",
+    "image_url": "/tcgpocket/th/mythicalisland/19.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Vaporeon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Finneon",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 20/68",
+    "image_url": "/tcgpocket/th/mythicalisland/20.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Finneon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Finneon",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 20/68",
+    "image_url": "/tcgpocket/th/mythicalisland/20.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Finneon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Lumineon",
+    "hp": 80,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Aqua Liner",
+        "energy_cost": [
+          "water",
+          "water"
+        ],
+        "description": "This attack does 50 damage to 1 of your opponent's Benched Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Mythicalisland 21/68",
+    "image_url": "/tcgpocket/th/mythicalisland/21.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Lumineon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Lumineon",
+    "hp": 80,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Aqua Liner",
+        "energy_cost": [
+          "water",
+          "water"
+        ],
+        "description": "This attack does 50 damage to 1 of your opponent's Benched Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Mythicalisland 21/68",
+    "image_url": "/tcgpocket/th/mythicalisland/21.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Lumineon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Chewtle",
+    "hp": 80,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 22/68",
+    "image_url": "/tcgpocket/th/mythicalisland/22.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Chewtle.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Chewtle",
+    "hp": 80,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "water",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 22/68",
+    "image_url": "/tcgpocket/th/mythicalisland/22.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Chewtle.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Drednaw",
+    "hp": 130,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Crunch",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 23/68",
+    "image_url": "/tcgpocket/th/mythicalisland/23.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Drednaw.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Drednaw",
+    "hp": 130,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Crunch",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 23/68",
+    "image_url": "/tcgpocket/th/mythicalisland/23.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Drednaw.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Cramorant",
+    "hp": 80,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Dive",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 24/68",
+    "image_url": "/tcgpocket/th/mythicalisland/24.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Cramorant.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Cramorant",
+    "hp": 80,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Dive",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 24/68",
+    "image_url": "/tcgpocket/th/mythicalisland/24.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Cramorant.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pikachu",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Circle Circuit",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "This attack does 10 damage for each of your Benched  Pokémon",
+        "damage": "10x"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 25/68",
+    "image_url": "/tcgpocket/th/mythicalisland/25.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pikachu.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pikachu",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Circle Circuit",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "This attack does 10 damage for each of your Benched  Pokémon",
+        "damage": "10x"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 25/68",
+    "image_url": "/tcgpocket/th/mythicalisland/25.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pikachu.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Raichu",
+    "hp": 120,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Gigashock",
+        "energy_cost": [
+          "electric",
+          "electric",
+          "electric"
+        ],
+        "description": "This attack also does 20 damage to each of your opponent's Benched Pokémon",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 26/68",
+    "image_url": "/tcgpocket/th/mythicalisland/26.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Raichu.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Raichu",
+    "hp": 120,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Gigashock",
+        "energy_cost": [
+          "electric",
+          "electric",
+          "electric"
+        ],
+        "description": "This attack also does 20 damage to each of your opponent's Benched Pokémon",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 26/68",
+    "image_url": "/tcgpocket/th/mythicalisland/26.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Raichu.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Electabuzz",
+    "hp": 70,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunder Spear",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "This attack does 40 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 27/68",
+    "image_url": "/tcgpocket/th/mythicalisland/27.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Electabuzz.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Electabuzz",
+    "hp": 70,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunder Spear",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "This attack does 40 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 27/68",
+    "image_url": "/tcgpocket/th/mythicalisland/27.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Electabuzz.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Joltik",
+    "hp": 40,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Bug Bite",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 28/68",
+    "image_url": "/tcgpocket/th/mythicalisland/28.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Joltik.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Joltik",
+    "hp": 40,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Bug Bite",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 28/68",
+    "image_url": "/tcgpocket/th/mythicalisland/28.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Joltik.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Galvantula",
+    "hp": 80,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Electroweb",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "During your opponent's next turn, the Defending Pokémon can't retreat",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 29/68",
+    "image_url": "/tcgpocket/th/mythicalisland/29.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Galvantula.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Galvantula",
+    "hp": 80,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Electroweb",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "During your opponent's next turn, the Defending Pokémon can't retreat",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 29/68",
+    "image_url": "/tcgpocket/th/mythicalisland/29.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Galvantula.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Dedenne",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunder Shock",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 30/68",
+    "image_url": "/tcgpocket/th/mythicalisland/30.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dedenne.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Dedenne",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunder Shock",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 30/68",
+    "image_url": "/tcgpocket/th/mythicalisland/30.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dedenne.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psy Report",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "Your opponent reveals their hand.",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 31/68",
+    "image_url": "/tcgpocket/th/mythicalisland/31.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psy Report",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "Your opponent reveals their hand.",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 31/68",
+    "image_url": "/tcgpocket/th/mythicalisland/31.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      },
+      {
+        "name": "Genome Hacking",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 32/68",
+    "image_url": "/tcgpocket/th/mythicalisland/32.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      },
+      {
+        "name": "Genome Hacking",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 32/68",
+    "image_url": "/tcgpocket/th/mythicalisland/32.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Sigilyph",
+    "hp": 80,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Spike Draw",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "Draw a card",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 33/68",
+    "image_url": "/tcgpocket/th/mythicalisland/33.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Sigilyph.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Sigilyph",
+    "hp": 80,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Spike Draw",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "Draw a card",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 33/68",
+    "image_url": "/tcgpocket/th/mythicalisland/33.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Sigilyph.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Elgyem",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Headbutt",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 34/68",
+    "image_url": "/tcgpocket/th/mythicalisland/34.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Elgyem.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Elgyem",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Headbutt",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 34/68",
+    "image_url": "/tcgpocket/th/mythicalisland/34.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Elgyem.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Beheeyem",
+    "hp": 90,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Mind Jack",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "This attack does 20 more damage for each of your opponent's Benched Pokémon",
+        "damage": "10+"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 35/68",
+    "image_url": "/tcgpocket/th/mythicalisland/35.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Beheeyem.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Beheeyem",
+    "hp": 90,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Mind Jack",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "This attack does 20 more damage for each of your opponent's Benched Pokémon",
+        "damage": "10+"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 35/68",
+    "image_url": "/tcgpocket/th/mythicalisland/35.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Beheeyem.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Flabébé",
+    "hp": 40,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Hypnotic Gaze",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "Your opponent's Pokémon is now Asleep",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 36/68",
+    "image_url": "/tcgpocket/th/mythicalisland/36.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Flabébé.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Flabébé",
+    "hp": 40,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Hypnotic Gaze",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "Your opponent's Pokémon is now Asleep",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 36/68",
+    "image_url": "/tcgpocket/th/mythicalisland/36.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Flabébé.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Floette",
+    "hp": 70,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Leaf Drain",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "Heal 10 damage from this Pokémon",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 37/68",
+    "image_url": "/tcgpocket/th/mythicalisland/37.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Floette.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Floette",
+    "hp": 70,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Leaf Drain",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "Heal 10 damage from this Pokémon",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 37/68",
+    "image_url": "/tcgpocket/th/mythicalisland/37.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Floette.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Florges",
+    "hp": 120,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Bloomshine",
+        "energy_cost": [
+          "psychic",
+          "psychic"
+        ],
+        "description": "Heal 20 damage from each of your Pokémon.",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 38/68",
+    "image_url": "/tcgpocket/th/mythicalisland/38.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Florges.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Florges",
+    "hp": 120,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Bloomshine",
+        "energy_cost": [
+          "psychic",
+          "psychic"
+        ],
+        "description": "Heal 20 damage from each of your Pokémon.",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 38/68",
+    "image_url": "/tcgpocket/th/mythicalisland/38.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Florges.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Swirlix",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Fairy Wind",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 39/68",
+    "image_url": "/tcgpocket/th/mythicalisland/39.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Swirlix.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Swirlix",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Fairy Wind",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 39/68",
+    "image_url": "/tcgpocket/th/mythicalisland/39.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Swirlix.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Slurpuff",
+    "hp": 100,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Magical Shot",
+        "energy_cost": [
+          "psychic",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 40/68",
+    "image_url": "/tcgpocket/th/mythicalisland/40.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Slurpuff.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Slurpuff",
+    "hp": 100,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Magical Shot",
+        "energy_cost": [
+          "psychic",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "60"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 40/68",
+    "image_url": "/tcgpocket/th/mythicalisland/40.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Slurpuff.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mankey",
+    "hp": 50,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Focus Fist",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "Flip a coin. If tails, this attack does nothing",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 41/68",
+    "image_url": "/tcgpocket/th/mythicalisland/41.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mankey.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mankey",
+    "hp": 50,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Focus Fist",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "Flip a coin. If tails, this attack does nothing",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 41/68",
+    "image_url": "/tcgpocket/th/mythicalisland/41.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mankey.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Primeape",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 42/68",
+    "image_url": "/tcgpocket/th/mythicalisland/42.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Primeape.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Primeape",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 42/68",
+    "image_url": "/tcgpocket/th/mythicalisland/42.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Primeape.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Geodude",
+    "hp": 70,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Light Punch",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 43/68",
+    "image_url": "/tcgpocket/th/mythicalisland/43.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Geodude.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Geodude",
+    "hp": 70,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Light Punch",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 43/68",
+    "image_url": "/tcgpocket/th/mythicalisland/43.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Geodude.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Graveler",
+    "hp": 100,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Lunge Out",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 44/68",
+    "image_url": "/tcgpocket/th/mythicalisland/44.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Graveler.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Graveler",
+    "hp": 100,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Lunge Out",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 44/68",
+    "image_url": "/tcgpocket/th/mythicalisland/44.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Graveler.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Golem",
+    "hp": 160,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Guard Press",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, this Pokémon takes  -30 damage from attacks",
+        "damage": "120"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 45/68",
+    "image_url": "/tcgpocket/th/mythicalisland/45.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Golem.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Golem",
+    "hp": 160,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Guard Press",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, this Pokémon takes  -30 damage from attacks",
+        "damage": "120"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 45/68",
+    "image_url": "/tcgpocket/th/mythicalisland/45.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Golem.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Aerodactyl",
+    "hp": 140,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Primeval Law",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Land Crush",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 46/68",
+    "image_url": "/tcgpocket/th/mythicalisland/46.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Aerodactyl",
+    "hp": 140,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Primeval Law",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Land Crush",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 46/68",
+    "image_url": "/tcgpocket/th/mythicalisland/46.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Marshadow",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Revenge",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "If any of your Pokémon were knocked out by damage from an attack during your opponent's last turn, this attack does 60 more damage",
+        "damage": "40+"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 47/68",
+    "image_url": "/tcgpocket/th/mythicalisland/47.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Marshadow.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Marshadow",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Revenge",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "If any of your Pokémon were knocked out by damage from an attack during your opponent's last turn, this attack does 60 more damage",
+        "damage": "40+"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 47/68",
+    "image_url": "/tcgpocket/th/mythicalisland/47.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Marshadow.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Stonjourner",
+    "hp": 120,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Mega Kick",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 48/68",
+    "image_url": "/tcgpocket/th/mythicalisland/48.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Stonjourner.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Stonjourner",
+    "hp": 120,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Mega Kick",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "",
+        "damage": "90"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 48/68",
+    "image_url": "/tcgpocket/th/mythicalisland/48.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Stonjourner.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Koffing",
+    "hp": 70,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Division",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Put 1 random Koffing from your deck onto your Bench.",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 49/68",
+    "image_url": "/tcgpocket/th/mythicalisland/49.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Koffing.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Koffing",
+    "hp": 70,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Division",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Put 1 random Koffing from your deck onto your Bench.",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 49/68",
+    "image_url": "/tcgpocket/th/mythicalisland/49.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Koffing.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Weezing",
+    "hp": 110,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Smokescreen",
+        "energy_cost": [
+          "darkness",
+          "darkness"
+        ],
+        "description": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 50/68",
+    "image_url": "/tcgpocket/th/mythicalisland/50.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Weezing.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Weezing",
+    "hp": 110,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Smokescreen",
+        "energy_cost": [
+          "darkness",
+          "darkness"
+        ],
+        "description": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 50/68",
+    "image_url": "/tcgpocket/th/mythicalisland/50.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Weezing.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Purrloin",
+    "hp": 60,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Scratch",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 51/68",
+    "image_url": "/tcgpocket/th/mythicalisland/51.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Purrloin.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Purrloin",
+    "hp": 60,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Scratch",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 51/68",
+    "image_url": "/tcgpocket/th/mythicalisland/51.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Purrloin.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Liepard",
+    "hp": 90,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Slash",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 52/68",
+    "image_url": "/tcgpocket/th/mythicalisland/52.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Liepard.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Liepard",
+    "hp": 90,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Slash",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 52/68",
+    "image_url": "/tcgpocket/th/mythicalisland/52.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Liepard.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Venipede",
+    "hp": 60,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 53/68",
+    "image_url": "/tcgpocket/th/mythicalisland/53.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Venipede.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Venipede",
+    "hp": 60,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 53/68",
+    "image_url": "/tcgpocket/th/mythicalisland/53.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Venipede.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Whirlipede",
+    "hp": 90,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Poison Sting",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 54/68",
+    "image_url": "/tcgpocket/th/mythicalisland/54.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Whirlipede.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Whirlipede",
+    "hp": 90,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Poison Sting",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 54/68",
+    "image_url": "/tcgpocket/th/mythicalisland/54.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Whirlipede.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Scolipede",
+    "hp": 140,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "darkness",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 55/68",
+    "image_url": "/tcgpocket/th/mythicalisland/55.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Scolipede.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Scolipede",
+    "hp": 140,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "darkness",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 55/68",
+    "image_url": "/tcgpocket/th/mythicalisland/55.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Scolipede.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Druddigon",
+    "hp": 100,
+    "type": "dragon",
+    "moves": [
+      {
+        "name": "Rough Skin",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 56/68",
+    "image_url": "/tcgpocket/th/mythicalisland/56.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Druddigon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Druddigon",
+    "hp": 100,
+    "type": "dragon",
+    "moves": [
+      {
+        "name": "Rough Skin",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 56/68",
+    "image_url": "/tcgpocket/th/mythicalisland/56.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Druddigon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pidgey",
+    "hp": 50,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Flap",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 57/68",
+    "image_url": "/tcgpocket/th/mythicalisland/57.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgey.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pidgey",
+    "hp": 50,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Flap",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 57/68",
+    "image_url": "/tcgpocket/th/mythicalisland/57.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgey.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pidgeotto",
+    "hp": 90,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Wing Attack",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 58/68",
+    "image_url": "/tcgpocket/th/mythicalisland/58.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotto.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pidgeotto",
+    "hp": 90,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Wing Attack",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 58/68",
+    "image_url": "/tcgpocket/th/mythicalisland/58.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotto.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pidgeot",
+    "hp": 170,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Scattering Cyclone",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your opponent's Benched Pokémon",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 59/68",
+    "image_url": "/tcgpocket/th/mythicalisland/59.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeot.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pidgeot",
+    "hp": 170,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Scattering Cyclone",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your opponent's Benched Pokémon",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 59/68",
+    "image_url": "/tcgpocket/th/mythicalisland/59.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeot.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Tauros",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fighting Tackle",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage",
+        "damage": "40+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 60/68",
+    "image_url": "/tcgpocket/th/mythicalisland/60.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Tauros.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Tauros",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Fighting Tackle",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage",
+        "damage": "40+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 60/68",
+    "image_url": "/tcgpocket/th/mythicalisland/60.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Tauros.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Eevee",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Continuous Steps",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Flip a coin until you get a tails. This attack does 20 damage for each heads",
+        "damage": "20x"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 61/68",
+    "image_url": "/tcgpocket/th/mythicalisland/61.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Eevee.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Eevee",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Continuous Steps",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Flip a coin until you get a tails. This attack does 20 damage for each heads",
+        "damage": "20x"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 61/68",
+    "image_url": "/tcgpocket/th/mythicalisland/61.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Eevee.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Chatot",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Mimic",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 62/68",
+    "image_url": "/tcgpocket/th/mythicalisland/62.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Chatot.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Chatot",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Mimic",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 62/68",
+    "image_url": "/tcgpocket/th/mythicalisland/62.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Chatot.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Exeggutor",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Psychic",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 69/68",
+    "image_url": "/tcgpocket/th/mythicalisland/69.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggutor.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Exeggutor",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Psychic",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 69/68",
+    "image_url": "/tcgpocket/th/mythicalisland/69.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggutor.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Serperior",
+    "hp": 110,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Jungle Totem",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 70/68",
+    "image_url": "/tcgpocket/th/mythicalisland/70.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Serperior.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Serperior",
+    "hp": 110,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Jungle Totem",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Solar Beam",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 70/68",
+    "image_url": "/tcgpocket/th/mythicalisland/70.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Serperior.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Salandit",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 71/68",
+    "image_url": "/tcgpocket/th/mythicalisland/71.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salandit.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Salandit",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 71/68",
+    "image_url": "/tcgpocket/th/mythicalisland/71.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salandit.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Vaporeon",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Wash Out",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Wave Splash",
+        "energy_cost": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 72/68",
+    "image_url": "/tcgpocket/th/mythicalisland/72.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Vaporeon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Vaporeon",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Wash Out",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Wave Splash",
+        "energy_cost": [
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 72/68",
+    "image_url": "/tcgpocket/th/mythicalisland/72.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Vaporeon.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Dedenne",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunder Shock",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 73/68",
+    "image_url": "/tcgpocket/th/mythicalisland/73.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dedenne.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Dedenne",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunder Shock",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 73/68",
+    "image_url": "/tcgpocket/th/mythicalisland/73.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dedenne.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Marshadow",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Revenge",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "If any of your Pokémon were knocked out by damage from an attack during your opponent's last turn, this attack does 60 more damage",
+        "damage": "40+"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 74/68",
+    "image_url": "/tcgpocket/th/mythicalisland/74.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Marshadow.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Marshadow",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Revenge",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "If any of your Pokémon were knocked out by damage from an attack during your opponent's last turn, this attack does 60 more damage",
+        "damage": "40+"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 74/68",
+    "image_url": "/tcgpocket/th/mythicalisland/74.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Marshadow.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Celebi",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Powerful Bloom",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "Flip a coin for each Energy  attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 75/68",
+    "image_url": "/tcgpocket/th/mythicalisland/75.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Celebi",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Powerful Bloom",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "Flip a coin for each Energy  attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 75/68",
+    "image_url": "/tcgpocket/th/mythicalisland/75.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Gyarados",
+    "hp": 180,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Rampaging Whirlpool",
+        "energy_cost": [
+          "water",
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)",
+        "damage": "140"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 76/68",
+    "image_url": "/tcgpocket/th/mythicalisland/76.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyarados.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Gyarados",
+    "hp": 180,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Rampaging Whirlpool",
+        "energy_cost": [
+          "water",
+          "water",
+          "water",
+          "colorless"
+        ],
+        "description": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)",
+        "damage": "140"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 76/68",
+    "image_url": "/tcgpocket/th/mythicalisland/76.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyarados.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      },
+      {
+        "name": "Genome Hacking",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 77/68",
+    "image_url": "/tcgpocket/th/mythicalisland/77.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      },
+      {
+        "name": "Genome Hacking",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 77/68",
+    "image_url": "/tcgpocket/th/mythicalisland/77.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Aerodactyl",
+    "hp": 140,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Primeval Law",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Land Crush",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 78/68",
+    "image_url": "/tcgpocket/th/mythicalisland/78.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Aerodactyl",
+    "hp": 140,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Primeval Law",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Land Crush",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 78/68",
+    "image_url": "/tcgpocket/th/mythicalisland/78.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pidgeot",
+    "hp": 170,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Scattering Cyclone",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your opponent's Benched Pokémon",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 79/68",
+    "image_url": "/tcgpocket/th/mythicalisland/79.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeot.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Pidgeot",
+    "hp": 170,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Scattering Cyclone",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack does 20 more damage for each of your opponent's Benched Pokémon",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 79/68",
+    "image_url": "/tcgpocket/th/mythicalisland/79.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeot.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      },
+      {
+        "name": "Genome Hacking",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 83/68",
+    "image_url": "/tcgpocket/th/mythicalisland/83.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      },
+      {
+        "name": "Genome Hacking",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 83/68",
+    "image_url": "/tcgpocket/th/mythicalisland/83.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Aerodactyl",
+    "hp": 140,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Primeval Law",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Land Crush",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 84/68",
+    "image_url": "/tcgpocket/th/mythicalisland/84.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Aerodactyl",
+    "hp": 140,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Primeval Law",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Land Crush",
+        "energy_cost": [
+          "fighting",
+          "colorless"
+        ],
+        "description": "",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 84/68",
+    "image_url": "/tcgpocket/th/mythicalisland/84.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Celebi",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Powerful Bloom",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "Flip a coin for each Energy  attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 85/68",
+    "image_url": "/tcgpocket/th/mythicalisland/85.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Celebi",
+    "hp": 130,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Powerful Bloom",
+        "energy_cost": [
+          "grass",
+          "colorless"
+        ],
+        "description": "Flip a coin for each Energy  attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 85/68",
+    "image_url": "/tcgpocket/th/mythicalisland/85.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      },
+      {
+        "name": "Genome Hacking",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 86/68",
+    "image_url": "/tcgpocket/th/mythicalisland/86.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  },
+  {
+    "set_name": "Mythicalisland",
+    "name": "Mew",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      },
+      {
+        "name": "Genome Hacking",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Mythicalisland 86/68",
+    "image_url": "/tcgpocket/th/mythicalisland/86.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+  }
+]
