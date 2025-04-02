@@ -82,11 +82,6 @@ class AddToDeckModal(ModalScreen):
         if not decks:
             return [ListItem(Label("No decks available. Create a new one."))] 
 
-        # logger.info(f"""
-        #         {[ListItem(Label(f"{deck[1]}"), 
-        #         id=f"deck-{deck[0]}") 
-        #         for deck in decks]}
-        # """)
         return [ListItem(Label(f"{deck[1]}"), 
                 id=f"deck-{deck[0]}") 
                 for deck in decks]
@@ -115,7 +110,6 @@ class AddToDeckModal(ModalScreen):
         deck_id = int(event.item.id.split("-")[1])
         label: Label = event.item.query_one(Label)
         deck_name = str(label.renderable)
-        # logger.info(f"In on_deck_selected -> deck_name is {deck_name}")
         self.post_message(self.DeckSelected(deck_id, deck_name))
         self.dismiss()
     

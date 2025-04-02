@@ -96,7 +96,8 @@ class CardManagement:
     def populate_decks_cards_list(self, event) -> None:
         try:
             decks_cards_list = self.app.query_one("#decks-cards-list", ListView)
-            decks_cards_list.remove_children()
+            # Clear the list view and reset its state
+            decks_cards_list.clear()
             deck_id = getattr(event.item, "deck_id", None)
 
             if deck_id is None:
@@ -121,13 +122,13 @@ class CardManagement:
             cards = cursor.execute(query, (deck_id,)).fetchall()
 
             for card in cards:
-                unique_id = f"decks-card-list-{str(card[0]).replace(" ", "_")}-{time_ns()}"
+                unique_id = f"decks-card-list-{card[1]}-{str(card[0]).replace(' ', '-')}"
                 item = ListItem(
-                    Static(card[2]),
+                    Static(f"{card[2]} (x{card[3]})"),
                     id=unique_id,
                 )
                 setattr(item, "card_id", card[1])
-                decks_cards_list.mount(item)
+                decks_cards_list.append(item)
 
         except Exception:
             raise
