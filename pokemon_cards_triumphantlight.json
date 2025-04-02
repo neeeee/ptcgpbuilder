@@ -519,7 +519,7 @@
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Leafeon",
+    "name": "Leafeonex",
     "hp": 140,
     "type": "grass",
     "moves": [
@@ -550,11 +550,11 @@
     "set_number": "Triumphantlight 10/75",
     "image_url": "/tcgpocket/th/triumphantlight/10.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Leafeon",
+    "name": "Leafeonex",
     "hp": 140,
     "type": "grass",
     "moves": [
@@ -585,7 +585,7 @@
     "set_number": "Triumphantlight 10/75",
     "image_url": "/tcgpocket/th/triumphantlight/10.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
@@ -1243,7 +1243,7 @@
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Glaceon",
+    "name": "Glaceonex",
     "hp": 140,
     "type": "water",
     "moves": [
@@ -1274,11 +1274,11 @@
     "set_number": "Triumphantlight 22/75",
     "image_url": "/tcgpocket/th/triumphantlight/22.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Glaceon",
+    "name": "Glaceonex",
     "hp": 140,
     "type": "water",
     "moves": [
@@ -1309,11 +1309,11 @@
     "set_number": "Triumphantlight 22/75",
     "image_url": "/tcgpocket/th/triumphantlight/22.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Palkia",
+    "name": "Origin FormePalkia",
     "hp": 120,
     "type": "water",
     "moves": [
@@ -1339,11 +1339,11 @@
     "set_number": "Triumphantlight 23/75",
     "image_url": "/tcgpocket/th/triumphantlight/23.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Palkia.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Origin_FormePalkia.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Palkia",
+    "name": "Origin FormePalkia",
     "hp": 120,
     "type": "water",
     "moves": [
@@ -1369,7 +1369,7 @@
     "set_number": "Triumphantlight 23/75",
     "image_url": "/tcgpocket/th/triumphantlight/23.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Palkia.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Origin_FormePalkia.jpg"
   },
   {
     "set_name": "Triumphantlight",
@@ -2709,7 +2709,7 @@
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Garchomp",
+    "name": "Garchompex",
     "hp": 170,
     "type": "fighting",
     "moves": [
@@ -2742,11 +2742,11 @@
     "set_number": "Triumphantlight 47/75",
     "image_url": "/tcgpocket/th/triumphantlight/47.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchompex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Garchomp",
+    "name": "Garchompex",
     "hp": 170,
     "type": "fighting",
     "moves": [
@@ -2779,7 +2779,7 @@
     "set_number": "Triumphantlight 47/75",
     "image_url": "/tcgpocket/th/triumphantlight/47.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchompex.jpg"
   },
   {
     "set_name": "Triumphantlight",
@@ -3303,7 +3303,7 @@
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Probopass",
+    "name": "Probopassex",
     "hp": 160,
     "type": "metal",
     "moves": [
@@ -3330,11 +3330,11 @@
     "set_number": "Triumphantlight 57/75",
     "image_url": "/tcgpocket/th/triumphantlight/57.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopassex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Probopass",
+    "name": "Probopassex",
     "hp": 160,
     "type": "metal",
     "moves": [
@@ -3361,7 +3361,7 @@
     "set_number": "Triumphantlight 57/75",
     "image_url": "/tcgpocket/th/triumphantlight/57.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopassex.jpg"
   },
   {
     "set_name": "Triumphantlight",
@@ -3481,7 +3481,7 @@
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Dialga",
+    "name": "Origin FormeDialga",
     "hp": 120,
     "type": "metal",
     "moves": [
@@ -3507,11 +3507,11 @@
     "set_number": "Triumphantlight 60/75",
     "image_url": "/tcgpocket/th/triumphantlight/60.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Dialga.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Origin_FormeDialga.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Dialga",
+    "name": "Origin FormeDialga",
     "hp": 120,
     "type": "metal",
     "moves": [
@@ -3537,7 +3537,7 @@
     "set_number": "Triumphantlight 60/75",
     "image_url": "/tcgpocket/th/triumphantlight/60.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Dialga.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Origin_FormeDialga.jpg"
   },
   {
     "set_name": "Triumphantlight",
@@ -4125,7 +4125,7 @@
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Arceus",
+    "name": "When Pokémon-ex has been Knocked Out, your opponent gets 2 Points.",
     "type": "colorless",
     "moves": [
       {
@@ -4156,11 +4156,11 @@
     "set_number": "Triumphantlight 71/75",
     "image_url": "/tcgpocket/th/triumphantlight/71.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_When_Pok_mon-ex_has_been_Knocked_Out__your_opponent_gets_2_Points..jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Arceus",
+    "name": "When Pokémon-ex has been Knocked Out, your opponent gets 2 Points.",
     "type": "colorless",
     "moves": [
       {
@@ -4191,7 +4191,7 @@
     "set_number": "Triumphantlight 71/75",
     "image_url": "/tcgpocket/th/triumphantlight/71.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_When_Pok_mon-ex_has_been_Knocked_Out__your_opponent_gets_2_Points..jpg"
   },
   {
     "set_name": "Triumphantlight",
@@ -4551,7 +4551,7 @@
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Leafeon",
+    "name": "Leafeonex",
     "hp": 140,
     "type": "grass",
     "moves": [
@@ -4582,11 +4582,11 @@
     "set_number": "Triumphantlight 82/75",
     "image_url": "/tcgpocket/th/triumphantlight/82.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Leafeon",
+    "name": "Leafeonex",
     "hp": 140,
     "type": "grass",
     "moves": [
@@ -4617,11 +4617,11 @@
     "set_number": "Triumphantlight 82/75",
     "image_url": "/tcgpocket/th/triumphantlight/82.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Glaceon",
+    "name": "Glaceonex",
     "hp": 140,
     "type": "water",
     "moves": [
@@ -4652,11 +4652,11 @@
     "set_number": "Triumphantlight 83/75",
     "image_url": "/tcgpocket/th/triumphantlight/83.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Glaceon",
+    "name": "Glaceonex",
     "hp": 140,
     "type": "water",
     "moves": [
@@ -4687,11 +4687,11 @@
     "set_number": "Triumphantlight 83/75",
     "image_url": "/tcgpocket/th/triumphantlight/83.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Garchomp",
+    "name": "Garchompex",
     "hp": 170,
     "type": "fighting",
     "moves": [
@@ -4724,11 +4724,11 @@
     "set_number": "Triumphantlight 84/75",
     "image_url": "/tcgpocket/th/triumphantlight/84.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchompex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Garchomp",
+    "name": "Garchompex",
     "hp": 170,
     "type": "fighting",
     "moves": [
@@ -4761,11 +4761,11 @@
     "set_number": "Triumphantlight 84/75",
     "image_url": "/tcgpocket/th/triumphantlight/84.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchompex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Probopass",
+    "name": "Probopassex",
     "hp": 160,
     "type": "metal",
     "moves": [
@@ -4792,11 +4792,11 @@
     "set_number": "Triumphantlight 85/75",
     "image_url": "/tcgpocket/th/triumphantlight/85.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopassex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Probopass",
+    "name": "Probopassex",
     "hp": 160,
     "type": "metal",
     "moves": [
@@ -4823,11 +4823,11 @@
     "set_number": "Triumphantlight 85/75",
     "image_url": "/tcgpocket/th/triumphantlight/85.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopassex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Arceus",
+    "name": "When Pokémon-ex has been Knocked Out, your opponent gets 2 Points.",
     "type": "colorless",
     "moves": [
       {
@@ -4858,11 +4858,11 @@
     "set_number": "Triumphantlight 86/75",
     "image_url": "/tcgpocket/th/triumphantlight/86.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_When_Pok_mon-ex_has_been_Knocked_Out__your_opponent_gets_2_Points..jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Arceus",
+    "name": "When Pokémon-ex has been Knocked Out, your opponent gets 2 Points.",
     "type": "colorless",
     "moves": [
       {
@@ -4893,11 +4893,11 @@
     "set_number": "Triumphantlight 86/75",
     "image_url": "/tcgpocket/th/triumphantlight/86.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_When_Pok_mon-ex_has_been_Knocked_Out__your_opponent_gets_2_Points..jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Leafeon",
+    "name": "Leafeonex",
     "hp": 140,
     "type": "grass",
     "moves": [
@@ -4928,11 +4928,11 @@
     "set_number": "Triumphantlight 91/75",
     "image_url": "/tcgpocket/th/triumphantlight/91.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Leafeon",
+    "name": "Leafeonex",
     "hp": 140,
     "type": "grass",
     "moves": [
@@ -4963,11 +4963,11 @@
     "set_number": "Triumphantlight 91/75",
     "image_url": "/tcgpocket/th/triumphantlight/91.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Leafeonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Glaceon",
+    "name": "Glaceonex",
     "hp": 140,
     "type": "water",
     "moves": [
@@ -4998,11 +4998,11 @@
     "set_number": "Triumphantlight 92/75",
     "image_url": "/tcgpocket/th/triumphantlight/92.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Glaceon",
+    "name": "Glaceonex",
     "hp": 140,
     "type": "water",
     "moves": [
@@ -5033,11 +5033,11 @@
     "set_number": "Triumphantlight 92/75",
     "image_url": "/tcgpocket/th/triumphantlight/92.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceon.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Glaceonex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Garchomp",
+    "name": "Garchompex",
     "hp": 170,
     "type": "fighting",
     "moves": [
@@ -5070,11 +5070,11 @@
     "set_number": "Triumphantlight 93/75",
     "image_url": "/tcgpocket/th/triumphantlight/93.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchompex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Garchomp",
+    "name": "Garchompex",
     "hp": 170,
     "type": "fighting",
     "moves": [
@@ -5107,11 +5107,11 @@
     "set_number": "Triumphantlight 93/75",
     "image_url": "/tcgpocket/th/triumphantlight/93.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchomp.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Garchompex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Probopass",
+    "name": "Probopassex",
     "hp": 160,
     "type": "metal",
     "moves": [
@@ -5138,11 +5138,11 @@
     "set_number": "Triumphantlight 94/75",
     "image_url": "/tcgpocket/th/triumphantlight/94.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopassex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Probopass",
+    "name": "Probopassex",
     "hp": 160,
     "type": "metal",
     "moves": [
@@ -5169,11 +5169,11 @@
     "set_number": "Triumphantlight 94/75",
     "image_url": "/tcgpocket/th/triumphantlight/94.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopass.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Probopassex.jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Arceus",
+    "name": "When Pokémon-ex has been Knocked Out, your opponent gets 2 Points.",
     "type": "colorless",
     "moves": [
       {
@@ -5204,11 +5204,11 @@
     "set_number": "Triumphantlight 95/75",
     "image_url": "/tcgpocket/th/triumphantlight/95.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_When_Pok_mon-ex_has_been_Knocked_Out__your_opponent_gets_2_Points..jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Arceus",
+    "name": "When Pokémon-ex has been Knocked Out, your opponent gets 2 Points.",
     "type": "colorless",
     "moves": [
       {
@@ -5239,11 +5239,11 @@
     "set_number": "Triumphantlight 95/75",
     "image_url": "/tcgpocket/th/triumphantlight/95.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_When_Pok_mon-ex_has_been_Knocked_Out__your_opponent_gets_2_Points..jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Arceus",
+    "name": "When Pokémon-ex has been Knocked Out, your opponent gets 2 Points.",
     "type": "colorless",
     "moves": [
       {
@@ -5274,11 +5274,11 @@
     "set_number": "Triumphantlight 96/75",
     "image_url": "/tcgpocket/th/triumphantlight/96.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_When_Pok_mon-ex_has_been_Knocked_Out__your_opponent_gets_2_Points..jpg"
   },
   {
     "set_name": "Triumphantlight",
-    "name": "Arceus",
+    "name": "When Pokémon-ex has been Knocked Out, your opponent gets 2 Points.",
     "type": "colorless",
     "moves": [
       {
@@ -5309,6 +5309,6 @@
     "set_number": "Triumphantlight 96/75",
     "image_url": "/tcgpocket/th/triumphantlight/96.jpg",
     "available_booster_packs": "Triumphantlight",
-    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_Arceus.jpg"
+    "local_image_path": "src/db/pokemon_cards/triumphantlight/triumphantlight_When_Pok_mon-ex_has_been_Knocked_Out__your_opponent_gets_2_Points..jpg"
   }
 ]

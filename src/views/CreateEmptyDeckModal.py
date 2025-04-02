@@ -87,11 +87,12 @@ class CreateEmptyDeckModal(ModalScreen):
     def action_rename_deck(self) -> None:
         """Handle renaming the currently highlighted deck"""
         deck_selector = self._app.query_one("#decks-deck-selector")
-        if not deck_selector.highlighted:
+        if deck_selector.index is None:
             self._app.notify("No deck selected", severity="warning")
             return
         
-        deck_item = deck_selector.highlighted
+        # In Textual 2.1.0, we need to use the highlighted_child property
+        deck_item = deck_selector.highlighted_child
         self.deck_id = deck_item.deck_id
         self.deck_name = deck_item.query_one(Static).renderable
         

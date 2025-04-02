@@ -10,7 +10,7 @@ KNOWN_SETS = {
     "shiningrevelry": "Shining Revelry",
     "geneticapex": "Genetic Apex",
     "triumphantlight": "Triumphant Light",
-    "spacetimesmackdown": "Space-time Smackdown",
+    "space-timesmackdown": "Space-time Smackdown",
     "mythicalisland": "Mythical Island"
 }
 

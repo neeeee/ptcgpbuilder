@@ -119,7 +119,7 @@
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Celebi",
+    "name": "Celebiex",
     "hp": 130,
     "type": "grass",
     "moves": [
@@ -143,11 +143,11 @@
     "set_number": "Mythicalisland 3/68",
     "image_url": "/tcgpocket/th/mythicalisland/3.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Celebi",
+    "name": "Celebiex",
     "hp": 130,
     "type": "grass",
     "moves": [
@@ -171,7 +171,7 @@
     "set_number": "Mythicalisland 3/68",
     "image_url": "/tcgpocket/th/mythicalisland/3.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
     "set_name": "Mythicalisland",
@@ -975,7 +975,7 @@
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Gyarados",
+    "name": "Gyaradosex",
     "hp": 180,
     "type": "water",
     "moves": [
@@ -1003,11 +1003,11 @@
     "set_number": "Mythicalisland 18/68",
     "image_url": "/tcgpocket/th/mythicalisland/18.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyarados.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyaradosex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Gyarados",
+    "name": "Gyaradosex",
     "hp": 180,
     "type": "water",
     "moves": [
@@ -1035,7 +1035,7 @@
     "set_number": "Mythicalisland 18/68",
     "image_url": "/tcgpocket/th/mythicalisland/18.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyarados.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyaradosex.jpg"
   },
   {
     "set_name": "Mythicalisland",
@@ -1783,7 +1783,7 @@
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Mew",
+    "name": "Mewex",
     "hp": 130,
     "type": "psychic",
     "moves": [
@@ -1816,11 +1816,11 @@
     "set_number": "Mythicalisland 32/68",
     "image_url": "/tcgpocket/th/mythicalisland/32.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Mew",
+    "name": "Mewex",
     "hp": 130,
     "type": "psychic",
     "moves": [
@@ -1853,7 +1853,7 @@
     "set_number": "Mythicalisland 32/68",
     "image_url": "/tcgpocket/th/mythicalisland/32.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
     "set_name": "Mythicalisland",
@@ -2042,7 +2042,7 @@
     "set_number": "Mythicalisland 36/68",
     "image_url": "/tcgpocket/th/mythicalisland/36.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Flabébé.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Flab_b_.jpg"
   },
   {
     "set_name": "Mythicalisland",
@@ -2069,7 +2069,7 @@
     "set_number": "Mythicalisland 36/68",
     "image_url": "/tcgpocket/th/mythicalisland/36.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Flabébé.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Flab_b_.jpg"
   },
   {
     "set_name": "Mythicalisland",
@@ -2585,7 +2585,7 @@
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Aerodactyl",
+    "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
     "moves": [
@@ -2615,11 +2615,11 @@
     "set_number": "Mythicalisland 46/68",
     "image_url": "/tcgpocket/th/mythicalisland/46.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Aerodactyl",
+    "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
     "moves": [
@@ -2649,7 +2649,7 @@
     "set_number": "Mythicalisland 46/68",
     "image_url": "/tcgpocket/th/mythicalisland/46.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
     "set_name": "Mythicalisland",
@@ -3317,7 +3317,7 @@
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Pidgeot",
+    "name": "Pidgeotex",
     "hp": 170,
     "type": "colorless",
     "moves": [
@@ -3342,11 +3342,11 @@
     "set_number": "Mythicalisland 59/68",
     "image_url": "/tcgpocket/th/mythicalisland/59.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeot.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Pidgeot",
+    "name": "Pidgeotex",
     "hp": 170,
     "type": "colorless",
     "moves": [
@@ -3371,7 +3371,7 @@
     "set_number": "Mythicalisland 59/68",
     "image_url": "/tcgpocket/th/mythicalisland/59.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeot.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotex.jpg"
   },
   {
     "set_name": "Mythicalisland",
@@ -3915,7 +3915,7 @@
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Celebi",
+    "name": "Celebiex",
     "hp": 130,
     "type": "grass",
     "moves": [
@@ -3939,11 +3939,11 @@
     "set_number": "Mythicalisland 75/68",
     "image_url": "/tcgpocket/th/mythicalisland/75.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Celebi",
+    "name": "Celebiex",
     "hp": 130,
     "type": "grass",
     "moves": [
@@ -3967,11 +3967,11 @@
     "set_number": "Mythicalisland 75/68",
     "image_url": "/tcgpocket/th/mythicalisland/75.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Gyarados",
+    "name": "Gyaradosex",
     "hp": 180,
     "type": "water",
     "moves": [
@@ -3999,11 +3999,11 @@
     "set_number": "Mythicalisland 76/68",
     "image_url": "/tcgpocket/th/mythicalisland/76.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyarados.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyaradosex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Gyarados",
+    "name": "Gyaradosex",
     "hp": 180,
     "type": "water",
     "moves": [
@@ -4031,11 +4031,11 @@
     "set_number": "Mythicalisland 76/68",
     "image_url": "/tcgpocket/th/mythicalisland/76.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyarados.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyaradosex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Mew",
+    "name": "Mewex",
     "hp": 130,
     "type": "psychic",
     "moves": [
@@ -4068,11 +4068,11 @@
     "set_number": "Mythicalisland 77/68",
     "image_url": "/tcgpocket/th/mythicalisland/77.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Mew",
+    "name": "Mewex",
     "hp": 130,
     "type": "psychic",
     "moves": [
@@ -4105,11 +4105,11 @@
     "set_number": "Mythicalisland 77/68",
     "image_url": "/tcgpocket/th/mythicalisland/77.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Aerodactyl",
+    "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
     "moves": [
@@ -4139,11 +4139,11 @@
     "set_number": "Mythicalisland 78/68",
     "image_url": "/tcgpocket/th/mythicalisland/78.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Aerodactyl",
+    "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
     "moves": [
@@ -4173,11 +4173,11 @@
     "set_number": "Mythicalisland 78/68",
     "image_url": "/tcgpocket/th/mythicalisland/78.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Pidgeot",
+    "name": "Pidgeotex",
     "hp": 170,
     "type": "colorless",
     "moves": [
@@ -4202,11 +4202,11 @@
     "set_number": "Mythicalisland 79/68",
     "image_url": "/tcgpocket/th/mythicalisland/79.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeot.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Pidgeot",
+    "name": "Pidgeotex",
     "hp": 170,
     "type": "colorless",
     "moves": [
@@ -4231,11 +4231,11 @@
     "set_number": "Mythicalisland 79/68",
     "image_url": "/tcgpocket/th/mythicalisland/79.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeot.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Mew",
+    "name": "Mewex",
     "hp": 130,
     "type": "psychic",
     "moves": [
@@ -4268,11 +4268,11 @@
     "set_number": "Mythicalisland 83/68",
     "image_url": "/tcgpocket/th/mythicalisland/83.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Mew",
+    "name": "Mewex",
     "hp": 130,
     "type": "psychic",
     "moves": [
@@ -4305,11 +4305,11 @@
     "set_number": "Mythicalisland 83/68",
     "image_url": "/tcgpocket/th/mythicalisland/83.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Aerodactyl",
+    "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
     "moves": [
@@ -4339,11 +4339,11 @@
     "set_number": "Mythicalisland 84/68",
     "image_url": "/tcgpocket/th/mythicalisland/84.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Aerodactyl",
+    "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
     "moves": [
@@ -4373,11 +4373,11 @@
     "set_number": "Mythicalisland 84/68",
     "image_url": "/tcgpocket/th/mythicalisland/84.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactyl.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Celebi",
+    "name": "Celebiex",
     "hp": 130,
     "type": "grass",
     "moves": [
@@ -4401,11 +4401,11 @@
     "set_number": "Mythicalisland 85/68",
     "image_url": "/tcgpocket/th/mythicalisland/85.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Celebi",
+    "name": "Celebiex",
     "hp": 130,
     "type": "grass",
     "moves": [
@@ -4429,11 +4429,11 @@
     "set_number": "Mythicalisland 85/68",
     "image_url": "/tcgpocket/th/mythicalisland/85.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebi.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Mew",
+    "name": "Mewex",
     "hp": 130,
     "type": "psychic",
     "moves": [
@@ -4466,11 +4466,11 @@
     "set_number": "Mythicalisland 86/68",
     "image_url": "/tcgpocket/th/mythicalisland/86.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
     "set_name": "Mythicalisland",
-    "name": "Mew",
+    "name": "Mewex",
     "hp": 130,
     "type": "psychic",
     "moves": [
@@ -4503,6 +4503,6 @@
     "set_number": "Mythicalisland 86/68",
     "image_url": "/tcgpocket/th/mythicalisland/86.jpg",
     "available_booster_packs": "Mythicalisland",
-    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   }
 ]

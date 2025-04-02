@@ -68,7 +68,7 @@ class PokemonTCGApp(App):
 
     def action_open_actions(self) -> None:
         if not self.current_card:
-            self.notify("No card highlighted", severity="warning")
+            self.notify("No card selected", severity="warning")
             return
         self.push_screen(AddToDeckModal(self.current_card_id, self.current_deck_id, self.db_conn))
 
@@ -85,11 +85,12 @@ class PokemonTCGApp(App):
         """Open the modal to rename the currently selected deck"""
         # Get the current selected deck from the deck selector
         deck_selector = self.query_one("#decks-deck-selector")
-        if not deck_selector.highlighted:
+        if deck_selector.index is None:
             self.notify("No deck selected", severity="warning")
             return
         
-        deck_item = deck_selector.highlighted
+        # In Textual 2.1.0, we need to use the highlighted_child property
+        deck_item = deck_selector.highlighted_child
         self.current_deck_id = getattr(deck_item, "deck_id", None)
         self.current_deck_name = deck_item.children[0].renderable
         

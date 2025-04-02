@@ -66,46 +66,55 @@ class DBManagement:
             return False
     
     def _scan_directory_for_images(self, directory, set_name=None):
-        """Scan a directory for card images and return a dictionary of card info to paths
+        """
+        Scan a directory for card images and create a mapping of (card_name, set_name) to image_path
         
         Args:
-            directory: Directory to scan
-            set_name: Optional override for set name (useful for set subdirectories)
+            directory: The directory to scan
+            set_name: Optional set name to associate with all images in this directory
             
         Returns:
-            Dictionary mapping (card_name, set_name) to image path
+            Dictionary mapping (card_name, set_name) to image_path
         """
-        results = {}
-        # Get all image files in the directory
-        image_files = glob.glob(os.path.join(directory, "*.jpg")) + \
-                     glob.glob(os.path.join(directory, "*.png")) + \
-                     glob.glob(os.path.join(directory, "*.jpeg"))
+        image_dict = {}
         
-        for image_path in image_files:
+        for image_path in glob.glob(os.path.join(directory, "*.jpg")):
             # Get just the filename without extension
             filename = os.path.basename(image_path)
             file_base = os.path.splitext(filename)[0]
             
             # Handle different filename formats
-            if '_' in file_base and not set_name:
+            try:
                 # Filename contains a set identifier: set_name_card_name.jpg
-                parts = file_base.split('_', 1)  # Split on first underscore
-                if len(parts) >= 2:
-                    img_set = parts[0].replace('_', ' ')
-                    card_name = parts[1].replace('_', ' ')
-                    results[(card_name.lower(), img_set.lower())] = image_path
-            else:
-                # Either a simple card name or we're in a set directory
-                card_name = file_base.replace('_', ' ')
-                if set_name:
-                    # We're in a set directory, use that as the set name
-                    set_display = set_name.replace('_', ' ').replace('-', ' ').title()
-                    results[(card_name.lower(), set_display.lower())] = image_path
+                if '_' in file_base:
+                    parts = file_base.split('_', 1)  # Split on first underscore only
+                    if len(parts) >= 2:
+                        set_id = parts[0]
+                        card_name = parts[1].replace('_', ' ')
+                        
+                        # Handle "ex" or other special suffixes that might have been converted to underscores
+                        # Convert underscores back to spaces, but special case for "ex" suffix
+                        if card_name.endswith("_ex"):
+                            card_name = card_name.replace("_ex", " ex")
+                        elif "_ex_" in card_name:
+                            card_name = card_name.replace("_ex_", " ex ")
+                            
+                        card_name = card_name.replace('_', ' ')
+                        
+                        # Use the set_id as key if we don't have a set_name
+                        key_set = set_name or set_id
+                        image_dict[(card_name, key_set)] = image_path
+                # Simple filename without set: card_name.jpg
                 else:
-                    # No set info, just use the card name (will match any set)
-                    results[(card_name.lower(), None)] = image_path
-        
-        return results
+                    card_name = file_base.replace('_', ' ')
+                    # Only add if we know what set this is
+                    if set_name:
+                        image_dict[(card_name, set_name)] = image_path
+            except Exception as e:
+                print(f"Error processing filename {filename}: {e}")
+                continue
+                
+        return image_dict
     
     def _update_image_paths_in_db(self, card_images):
         """Update the image_path in the database for all found card images
@@ -123,24 +132,43 @@ class DBManagement:
         db_cards = self.cursor.fetchall()
         
         for card_id, name, set_name in db_cards:
-            # Try to find a matching image with exact set name match
-            card_key = (name.lower(), set_name.lower() if set_name else None)
-            if card_key in card_images:
-                image_path = card_images[card_key]
+            # Normalize card name and set name for matching
+            normalized_name = name.lower()
+            normalized_set = set_name.lower() if set_name else None
+            
+            # Try to find exact match first (case insensitive)
+            image_path = None
+            
+            # First try: exact match with both name and set
+            for (img_name, img_set), img_path in card_images.items():
+                if (img_name.lower() == normalized_name and 
+                    (img_set and img_set.lower() == normalized_set)):
+                    image_path = img_path
+                    break
+            
+            # Second try: fuzzy set name match (e.g. "base_set" vs "Base Set 2023")
+            if not image_path:
+                for (img_name, img_set), img_path in card_images.items():
+                    if (img_name.lower() == normalized_name and img_set and normalized_set and
+                        (normalized_set in img_set.lower() or img_set.lower() in normalized_set)):
+                        image_path = img_path
+                        break
+            
+            # Third try: match just by card name, ignoring set
+            if not image_path:
+                for (img_name, img_set), img_path in card_images.items():
+                    if img_name.lower() == normalized_name:
+                        image_path = img_path
+                        break
+            
+            # Update the database if we found an image
+            if image_path:
                 self.cursor.execute(
                     "UPDATE cards SET image_path = ? WHERE id = ?", 
                     (image_path, card_id)
                 )
                 updated_count += 1
-            else:
-                # Try to find a match with just the card name (no set name)
-                name_only_key = (name.lower(), None)
-                if name_only_key in card_images:
-                    image_path = card_images[name_only_key]
-                    self.cursor.execute(
-                        "UPDATE cards SET image_path = ? WHERE id = ?", 
-                        (image_path, card_id)
-                    )
-                    updated_count += 1
+                print(f"Updated image for {name} ({set_name}): {image_path}")
         
+        self.conn.commit()
         return updated_count

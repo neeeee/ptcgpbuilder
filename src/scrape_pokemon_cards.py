@@ -65,14 +65,24 @@ class PokemonCardScraper:
             set_name = set_name or self.set_name
             
             # Create a safe filename from the card name and set name
-            safe_name = re.sub(r'[^\w\-_.]', '_', card_name)
-            safe_set = re.sub(r'[^\w\-_.]', '_', set_name)
+            # Use a more precise regex to preserve "ex" and other special identifiers
+            # Replace only characters that are invalid in filenames
+            safe_name = re.sub(r'[^a-zA-Z0-9_\-\s.]', '_', card_name)
+            # Then replace spaces with underscores
+            safe_name = re.sub(r'\s+', '_', safe_name)
+            
+            safe_set = re.sub(r'[^a-zA-Z0-9_\-\s.]', '_', set_name)
+            safe_set = re.sub(r'\s+', '_', safe_set)
+            
             filename = f"{safe_set}_{safe_name}.jpg"
             filepath = self.image_dir / filename
 
             # If image already exists, skip download
             if filepath.exists():
                 return str(filepath)
+                
+            # Print our progress
+            print(f"Downloading image for {card_name} from {set_name}...")
 
             # Construct full URL
             full_url = urljoin(self.base_url, image_url)
@@ -84,7 +94,8 @@ class PokemonCardScraper:
             # Save image
             with open(filepath, 'wb') as f:
                 f.write(response.content)
-
+                
+            print(f"Saved image to {filepath}")
             return str(filepath)
         except Exception as e:
             print(f"Error downloading image for {card_name}: {e}")
@@ -171,10 +182,52 @@ class PokemonCardScraper:
             print("Card info table not found")
             return card_data
         
-        # Extract card name
-        name_td = card_info_td.find('td', class_='main')
-        if name_td and name_td.find('font'):
-            card_data['name'] = name_td.find('font').get_text(strip=True)
+        # Extract card name - look for the main title which includes both name and potential "ex" suffix
+        try:
+            # Find the card name from the table's title
+            first_row = card_info_td.find('tr')
+            if first_row:
+                card_name_cell = first_row.find('td', class_='main')
+                if card_name_cell:
+                    # Get the full card name text, which might include "ex"
+                    card_name_text = card_name_cell.get_text(strip=True)
+                    card_data['name'] = card_name_text
+                else:
+                    # Fallback to just the Pokémon name in the font tag if we can't get the full text
+                    name_td = card_info_td.find('td', class_='main')
+                    if name_td and name_td.find('font'):
+                        card_data['name'] = name_td.find('font').get_text(strip=True)
+            
+            # Check the title elements for "ex" suffix if not found in name already
+            card_title_td = soup.find('td', string=lambda text: text and 'ex' in text)
+            if card_title_td and 'ex' not in card_data.get('name', '').lower():
+                # Extract the name including "ex" suffix from the title
+                title_text = card_title_td.get_text(strip=True)
+                if 'ex' in title_text.lower():
+                    card_data['name'] = title_text
+                    
+            # Also check the first table row which often has the full card name with "ex"
+            if first_row and 'ex' not in card_data.get('name', '').lower():
+                row_text = first_row.get_text(strip=True)
+                name_with_ex_match = re.search(r'([A-Za-z\-\s]+ex)', row_text)
+                if name_with_ex_match:
+                    card_data['name'] = name_with_ex_match.group(1).strip()
+        except Exception as e:
+            print(f"Error extracting card name: {e}")
+            # Fallback to basic extraction
+            name_td = card_info_td.find('td', class_='main')
+            if name_td and name_td.find('font'):
+                card_data['name'] = name_td.find('font').get_text(strip=True)
+        
+        # Also check the page title or H1 which often has the full card name with suffix
+        if 'ex' not in card_data.get('name', '').lower():
+            # Look for the card name in the page title
+            title_element = soup.find('title')
+            if title_element:
+                title_text = title_element.get_text()
+                name_with_ex_match = re.search(r'([A-Za-z\-\s]+ex)', title_text)
+                if name_with_ex_match:
+                    card_data['name'] = name_with_ex_match.group(1).strip()
         
         # Extract HP and type
         hp_td = card_info_td.find('td', align='right')

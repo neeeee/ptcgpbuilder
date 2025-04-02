@@ -78,7 +78,7 @@ def import_cards_from_json(json_file: str, db_path: str, force_recreate: bool = 
             retreat_cost_json = json.dumps(card.get('retreat_cost', []))
             
             # Get or set default set name
-            set_name = card.get('set_name', 'Shining Revelry')
+            set_name = card.get('set_name', 'unknown')
             
             try:
                 cursor.execute(insert_stmt, (
@@ -134,8 +134,11 @@ def main():
     project_root = Path(__file__).parent.parent
     
     # Define paths
-    json_file = args.input if args.input else project_root / 'pokemon_cards.json'
+    json_file = args.input
     db_path = args.db if args.db else project_root / 'db' / 'pokemon_tcg.db'
+    if not json_file:
+        print("No input file provided")
+        return
     
     # Make sure the db directory exists
     db_dir = os.path.dirname(db_path)
