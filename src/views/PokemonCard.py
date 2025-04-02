@@ -8,16 +8,22 @@ from PIL import Image
 class PokemonCard:
     def __init__(self, id = None,
                  name = None,
+                 set_name = None,
                  hp = None,
-                 attacks = None,
-                 abilities = None,
-                 image_path = None):
+                 type = None,
+                 image_path = None,
+                 moves = None,
+                 weakness = None,
+                 retreat_cost = None):
         self.id = id
         self.name = name
+        self.set_name = set_name
         self.hp = hp
-        self.attacks = attacks
-        self.abilities = abilities
+        self.type = type
         self.image_path = image_path
+        self.moves = moves
+        self.weakness = weakness
+        self.retreat_cost = retreat_cost
 
 class CardImage(Static):
     def __init__(self, image_path: str | None = None, *args, **kwargs):

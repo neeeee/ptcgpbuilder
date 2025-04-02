@@ -16,7 +16,9 @@ import sqlite3
 from views.BuilderView import BuilderView
 from views.DeckView import DeckView
 from views.AddToDeckModal import AddToDeckModal
+from views.CreateEmptyDeckModal import CreateEmptyDeckModal
 from utils.card_functions.card_management import CardManagement
+from utils.db_management import DBManagement
 
 
 class PokemonTCGApp(App):
@@ -25,16 +27,17 @@ class PokemonTCGApp(App):
     BINDINGS = [
         Binding("q", "quit", "Quit App"),
         Binding("o", "open_actions", "Card Actions"),
-        Binding("b", "show_tab('builder')", "Show Builder", show=False),
-        Binding("d", "show_tab('decks')", "Show Decks", show=False),
-        # Binding("r", "rename_deck", "Rename Deck", show=False),
-        # Binding("d,d", "delete_deck", "Delete Deck", show=False),
-        # Binding("c,d", "remove_from_deck", "Remove from Deck", show=False),
+        Binding("2", "show_tab('builder')", "Show Builder"),
+        Binding("1", "show_tab('decks')", "Show Decks"),
+        Binding("ctrl+r", "rename_deck", "Rename Deck"),
+        Binding("ctrl+d", "delete_deck", "Delete Deck"),
+        Binding("ctrl+y", "remove_from_deck", "Remove from Deck"),
+        Binding("ctrl+n", "create_empty_deck", "Create Deck"),
     ]
 
     def __init__(self):
         super().__init__()
-        self.db_conn = sqlite3.connect("db/pokemon_tcg.db")
+        self.db_conn = sqlite3.connect("src/db/pokemon_tcg.db")
         self.db_conn.row_factory = sqlite3.Row
         self.cursor = self.db_conn.cursor()
         # self.logger = Logger('log')
@@ -75,16 +78,27 @@ class PokemonTCGApp(App):
     def action_remove_from_deck(self) -> None:
         self.card_management.remove_from_deck(self.current_deck_id, self.current_card_id)
 
-    def on_mount(self) -> None:
-        try:
-            self.card_management.populate_cards_list()
-            self.card_management.populate_decks_list()
-        except Exception:
-            raise
- 
-    def on_unmount(self) -> None:
-        if self.db_conn:
-            self.db_conn.close()
+    def action_create_empty_deck(self) -> None:
+        self.push_screen(CreateEmptyDeckModal(self))
+
+    def action_rename_deck(self) -> None:
+        """Open the modal to rename the currently selected deck"""
+        # Get the current selected deck from the deck selector
+        deck_selector = self.query_one("#decks-deck-selector")
+        if not deck_selector.highlighted:
+            self.notify("No deck selected", severity="warning")
+            return
+        
+        deck_item = deck_selector.highlighted
+        self.current_deck_id = getattr(deck_item, "deck_id", None)
+        self.current_deck_name = deck_item.children[0].renderable
+        
+        if not self.current_deck_id:
+            self.notify("No valid deck selected", severity="warning")
+            return
+            
+        # Open the modal for renaming
+        self.push_screen(CreateEmptyDeckModal(self, self.current_deck_id, self.current_deck_name))
 
     @on(TabbedContent.TabActivated, "#tabs", pane="#decks")
     def update_deck_view_decks_list(self) -> None:
@@ -119,6 +133,29 @@ class PokemonTCGApp(App):
         self.query_one("#status-message", Label).update(
             f"Added {self.current_card_id} to deck: {event.deck_name}"
         )
+
+    @on(CreateEmptyDeckModal.DeckCreated)
+    def on_deck_created(self, event: CreateEmptyDeckModal.DeckCreated) -> None:
+        """Handle deck creation or rename from the modal"""
+        # Refresh the deck list to show the new/renamed deck
+        self.card_management.populate_decks_list()
+        
+        # Update status message
+        action = "renamed" if event.deck_id else "created"
+        self.query_one("#status-message", Label).update(
+            f"Deck {action}: {event.deck_name}"
+        )
+
+    def on_mount(self) -> None:
+        try:
+            self.card_management.populate_cards_list()
+            self.card_management.populate_decks_list()
+        except Exception:
+            raise
+ 
+    def on_unmount(self) -> None:
+        if self.db_conn:
+            self.db_conn.close()
 
 def main():
     app = PokemonTCGApp()

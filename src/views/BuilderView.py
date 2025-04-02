@@ -18,8 +18,8 @@ class BuilderView(Static):
             yield Vertical(
                 Static("Card Stats"),
                 Static("", id="builder-card-stats"),
-            )
-            yield Vertical(
                 Static("Card Image"),
-                CardImage(id="card-image-builder-view"))
+                CardImage(id="card-image-builder-view"),
+                classes="column"
+                )
 
