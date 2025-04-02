@@ -1,0 +1,6002 @@
+[
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Weedle",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Multiply",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Put 1 random Weedle from your deck onto your bench",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 1/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/1.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Weedle",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Multiply",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Put 1 random Weedle from your deck onto your bench",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 1/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/1.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Kakuna",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "String Shot",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 2/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/2.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Kakuna",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "String Shot",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 2/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/2.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Beedrill",
+    "hp": 170,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Crushing spear",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Discard a random Energy from your opponent's Active Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 3/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/3.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Beedrill",
+    "hp": 170,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Crushing spear",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Discard a random Energy from your opponent's Active Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 3/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/3.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pinsir",
+    "hp": 90,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Guillotine Rush",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip a coin until you get a tails. This attack does 40 more damage for each heads.",
+        "damage": "50+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 4/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/4.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pinsir.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pinsir",
+    "hp": 90,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Guillotine Rush",
+        "energy_cost": [
+          "grass",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip a coin until you get a tails. This attack does 40 more damage for each heads.",
+        "damage": "50+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 4/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/4.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pinsir.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Sprigatito",
+    "hp": 60,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Cry for Help",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Put 1 random  Pokémon from your deck into your hand",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 5/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/5.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Sprigatito.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Sprigatito",
+    "hp": 60,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Cry for Help",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Put 1 random  Pokémon from your deck into your hand",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 5/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/5.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Sprigatito.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Floragato",
+    "hp": 90,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Slash",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 6/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/6.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Floragato.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Floragato",
+    "hp": 90,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Slash",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 6/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/6.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Floragato.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Meowscarada",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Fighting Claws",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 7/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/7.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Meowscarada",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Fighting Claws",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 7/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/7.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charmander",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 8/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/8.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charmander",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 8/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/8.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charmeleon",
+    "hp": 90,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire",
+          "fire"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 9/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/9.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charmeleon",
+    "hp": 90,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire",
+          "fire"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 9/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/9.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charizard",
+    "hp": 180,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Stoke",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Take 3  Energy from your Energy Zone and attach to this Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Steam Artillery",
+        "energy_cost": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 10/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/10.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charizard",
+    "hp": 180,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Stoke",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Take 3  Energy from your Energy Zone and attach to this Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Steam Artillery",
+        "energy_cost": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 10/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/10.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Magmar",
+    "hp": 70,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Flare",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 11/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/11.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Magmar.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Magmar",
+    "hp": 70,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Flare",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 11/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/11.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Magmar.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Magmortar",
+    "hp": 120,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Smoke Bomb",
+        "energy_cost": [
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, the attack doesn't happen",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 12/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/12.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Magmortar.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Magmortar",
+    "hp": 120,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Smoke Bomb",
+        "energy_cost": [
+          "fire",
+          "fire",
+          "colorless"
+        ],
+        "description": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, the attack doesn't happen",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 12/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/12.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Magmortar.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tauros",
+    "hp": 110,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Blaze Tackle",
+        "energy_cost": [
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 10 damage to itself",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 13/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/13.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tauros.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tauros",
+    "hp": 110,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Blaze Tackle",
+        "energy_cost": [
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 10 damage to itself",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 13/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/13.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tauros.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tentacool",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Rain Splash",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 14/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/14.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacool.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tentacool",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Rain Splash",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 14/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/14.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacool.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tentacruel",
+    "hp": 100,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Wave Splash",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 15/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/15.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacruel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tentacruel",
+    "hp": 100,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Wave Splash",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 15/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/15.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacruel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Buizel",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 16/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/16.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Buizel",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 16/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/16.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Floatzel",
+    "hp": 90,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Arrow",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "This attack does 30 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 17/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/17.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Floatzel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Floatzel",
+    "hp": 90,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Arrow",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "This attack does 30 damage to 1 of your opponent's Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 17/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/17.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Floatzel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wiglett",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Spring Out",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 18/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/18.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wiglett",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Spring Out",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 18/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/18.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wugtrio",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Pop Out Throughout",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 19/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/19.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wugtrio",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Pop Out Throughout",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 19/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/19.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Dondozo",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Ocean Cyclone",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack also does 10 damage to each of your opponent's Benched Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 20/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/20.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Dondozo",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Ocean Cyclone",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack also does 10 damage to each of your opponent's Benched Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 20/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/20.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tatsugiri",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Retreat Directive",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Rain Splash",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 21/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/21.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tatsugiri",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Retreat Directive",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Rain Splash",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 21/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/21.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pikachu",
+    "hp": 120,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunderbolt",
+        "energy_cost": [
+          "electric",
+          "electric",
+          "electric"
+        ],
+        "description": "Discard all Energy from this Pokémon",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 22/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/22.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pikachu",
+    "hp": 120,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunderbolt",
+        "energy_cost": [
+          "electric",
+          "electric",
+          "electric"
+        ],
+        "description": "Discard all Energy from this Pokémon",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 22/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/22.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Voltorb",
+    "hp": 70,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Lightning Ball",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 23/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/23.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Voltorb.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Voltorb",
+    "hp": 70,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Lightning Ball",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 23/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/23.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Voltorb.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Electrode",
+    "hp": 90,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Tumbling Attack",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "Flip a coin. If heads, this attack does 30 more damage",
+        "damage": "50+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 24/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/24.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Electrode.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Electrode",
+    "hp": 90,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Tumbling Attack",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "Flip a coin. If heads, this attack does 30 more damage",
+        "damage": "50+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 24/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/24.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Electrode.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pachirisu",
+    "hp": 70,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Plasma",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "Take a  Energy from your Energy Zone and attach it to 1 of your Benched  Pokémon",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 25/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/25.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pachirisu",
+    "hp": 70,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Plasma",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "Take a  Energy from your Energy Zone and attach it to 1 of your Benched  Pokémon",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 25/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/25.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pawmi",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 26/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/26.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmi.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pawmi",
+    "hp": 60,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 26/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/26.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmi.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pawmo",
+    "hp": 90,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 27/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/27.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pawmo",
+    "hp": 90,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 27/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/27.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pawmot",
+    "hp": 140,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Counterattack",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Electric Punch",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Shiningrevelry 28/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/28.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmot.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pawmot",
+    "hp": 140,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Counterattack",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Electric Punch",
+        "energy_cost": [
+          "electric",
+          "electric"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Shiningrevelry 28/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/28.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmot.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Abra",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 29/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/29.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Abra.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Abra",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 29/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/29.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Abra.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Kadabra",
+    "hp": 80,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 30/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/30.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kadabra.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Kadabra",
+    "hp": 80,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psyshot",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 30/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/30.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kadabra.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Alakazam",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psychic Suppression",
+        "energy_cost": [
+          "psychic",
+          "psychic"
+        ],
+        "description": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 31/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/31.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Alakazam.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Alakazam",
+    "hp": 130,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Psychic Suppression",
+        "energy_cost": [
+          "psychic",
+          "psychic"
+        ],
+        "description": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 31/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/31.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Alakazam.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Mr. Mime",
+    "hp": 90,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Juggling",
+        "energy_cost": [
+          "psychic",
+          "colorless"
+        ],
+        "description": "Flip 4 coins. This attack does 20 damage for each heads",
+        "damage": "20x"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 32/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/32.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Mr._Mime.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Mr. Mime",
+    "hp": 90,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Juggling",
+        "energy_cost": [
+          "psychic",
+          "colorless"
+        ],
+        "description": "Flip 4 coins. This attack does 20 damage for each heads",
+        "damage": "20x"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 32/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/32.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Mr._Mime.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Drifloon",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 33/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/33.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Drifloon.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Drifloon",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 33/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/33.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Drifloon.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Drifblim",
+    "hp": 90,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Gust",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Shiningrevelry 34/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/34.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Drifblim.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Drifblim",
+    "hp": 90,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Gust",
+        "energy_cost": [
+          "psychic"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [],
+    "set_number": "Shiningrevelry 34/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/34.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Drifblim.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Giratina",
+    "hp": 150,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Broken-Space Bellow",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Chaotic Impact",
+        "energy_cost": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 20 damage to itself",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 35/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/35.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Giratina",
+    "hp": 150,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Broken-Space Bellow",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Chaotic Impact",
+        "energy_cost": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 20 damage to itself",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 35/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/35.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Gimmighoul",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Chest-ouflage",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from-andeffects of-attacks done to this Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 36/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/36.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gimmighoul.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Gimmighoul",
+    "hp": 60,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Chest-ouflage",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from-andeffects of-attacks done to this Pokémon",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 36/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/36.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gimmighoul.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Machop",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Low Kick",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 37/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/37.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machop.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Machop",
+    "hp": 60,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Low Kick",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 37/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/37.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machop.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Machoke",
+    "hp": 100,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Pummel",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "Flip a coin. If heads, this attack does 30 more damage",
+        "damage": "30+"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 38/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/38.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machoke.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Machoke",
+    "hp": 100,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Pummel",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "Flip a coin. If heads, this attack does 30 more damage",
+        "damage": "30+"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 38/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/38.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machoke.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Machamp",
+    "hp": 150,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Power Press",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "If this Pokémon has at least 2 extra  Energy attached, this attack does 50 more damage",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 39/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/39.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machamp.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Machamp",
+    "hp": 150,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Power Press",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "If this Pokémon has at least 2 extra  Energy attached, this attack does 50 more damage",
+        "damage": "70+"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 39/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/39.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Machamp.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Hitmonlee",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Kick",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "30",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 40/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/40.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonlee.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Hitmonlee",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Kick",
+        "energy_cost": [
+          "fighting"
+        ],
+        "description": "30",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 40/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/40.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonlee.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Hitmonchan",
+    "hp": 90,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Magnum Punch",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "90",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 41/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/41.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonchan.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Hitmonchan",
+    "hp": 90,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Magnum Punch",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "90",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 41/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/41.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonchan.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Riolu",
+    "hp": 70,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 42/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/42.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Riolu",
+    "hp": 70,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 42/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/42.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lucario",
+    "hp": 150,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Aura Sphre",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 43/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/43.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lucario",
+    "hp": 150,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Aura Sphre",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 43/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/43.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Flamigo",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Double Kick",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "Flip 2 coins. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 44/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/44.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Flamigo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Flamigo",
+    "hp": 80,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Double Kick",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "Flip 2 coins. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 44/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/44.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Flamigo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Ekans",
+    "hp": 70,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "darkness",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 45/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/45.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Ekans.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Ekans",
+    "hp": 70,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Ram",
+        "energy_cost": [
+          "darkness",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 45/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/45.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Ekans.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Arbok",
+    "hp": 110,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venomous Fang",
+        "energy_cost": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "description": "Your opponent's Active Pokémon is now Poisoned",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 46/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/46.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Arbok.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Arbok",
+    "hp": 110,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venomous Fang",
+        "energy_cost": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "description": "Your opponent's Active Pokémon is now Poisoned",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 46/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/46.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Arbok.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wooper",
+    "hp": 50,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Poison Jab",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Your opponent's Active Pokémon is now Poisoned",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 47/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/47.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wooper.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wooper",
+    "hp": 50,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Poison Jab",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Your opponent's Active Pokémon is now Poisoned",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 47/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/47.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wooper.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Clodsire",
+    "hp": 160,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 48/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/48.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Clodsire",
+    "hp": 160,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 48/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/48.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Spiritomb",
+    "hp": 80,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Confuse Ray",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 49/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/49.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Spiritomb.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Spiritomb",
+    "hp": 80,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Confuse Ray",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "grass"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 49/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/49.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Spiritomb.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Shroodle",
+    "hp": 60,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Gnaw",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 50/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/50.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Shroodle.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Shroodle",
+    "hp": 60,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Gnaw",
+        "energy_cost": [
+          "darkness"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 50/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/50.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Shroodle.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Grafaiai",
+    "hp": 90,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Poison Crossing",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "darkness",
+          "darkness"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 51/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/51.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Grafaiai",
+    "hp": 90,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Poison Crossing",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "darkness",
+          "darkness"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 51/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/51.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkatink",
+    "hp": 60,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Corkscrew Punch",
+        "energy_cost": [
+          "metal"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 52/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/52.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatink.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkatink",
+    "hp": 60,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Corkscrew Punch",
+        "energy_cost": [
+          "metal"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 52/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/52.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatink.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkatuff",
+    "hp": 90,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Tenacious Hammer",
+        "energy_cost": [
+          "metal",
+          "metal"
+        ],
+        "description": "Flip a coin. If heads, this attack does 30 more damage",
+        "damage": "30+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 53/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/53.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatuff.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkatuff",
+    "hp": 90,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Tenacious Hammer",
+        "energy_cost": [
+          "metal",
+          "metal"
+        ],
+        "description": "Flip a coin. If heads, this attack does 30 more damage",
+        "damage": "30+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 53/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/53.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatuff.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkaton",
+    "hp": 170,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Terrific Thumping",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 80 more damage",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 54/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/54.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkaton",
+    "hp": 170,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Terrific Thumping",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 80 more damage",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 54/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/54.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Varoom",
+    "hp": 70,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Headbutt",
+        "energy_cost": [
+          "metal"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 55/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/55.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Varoom",
+    "hp": 70,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Headbutt",
+        "energy_cost": [
+          "metal"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 55/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/55.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Revavroom",
+    "hp": 110,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Spinning Drift",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 56/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/56.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Revavroom",
+    "hp": 110,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Spinning Drift",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 56/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/56.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Gholdengo",
+    "hp": 120,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Scintillating Surfing",
+        "energy_cost": [
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip a coin for each  Energy attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 57/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/57.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Gholdengo",
+    "hp": 120,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Scintillating Surfing",
+        "energy_cost": [
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip a coin for each  Energy attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 57/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/57.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Rattata",
+    "hp": 50,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 58/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/58.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Rattata.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Rattata",
+    "hp": 50,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 58/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/58.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Rattata.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Raticate",
+    "hp": 90,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 59/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/59.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Raticate.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Raticate",
+    "hp": 90,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Tackle",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 59/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/59.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Raticate.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Jigglypuff",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Rollout",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 60/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/60.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Jigglypuff.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Jigglypuff",
+    "hp": 60,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Rollout",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 60/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/60.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Jigglypuff.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wigglytuff",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Comforting Song",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Gentle Slap",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 61/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/61.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wigglytuff",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Comforting Song",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Gentle Slap",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 61/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/61.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lickitung",
+    "hp": 80,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Rollout",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 62/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/62.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lickitung.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lickitung",
+    "hp": 80,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Rollout",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 62/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/62.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lickitung.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lickilicky",
+    "hp": 130,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Rollout",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 63/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/63.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lickilicky.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lickilicky",
+    "hp": 130,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Rollout",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 63/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/63.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lickilicky.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Bidoof",
+    "hp": 70,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Headbutt",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 64/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/64.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bidoof.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Bidoof",
+    "hp": 70,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Headbutt",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 64/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/64.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bidoof.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Bibarel",
+    "hp": 160,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Carefree Press",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Heal 30 damage from this Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 65/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/65.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Bibarel",
+    "hp": 160,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Carefree Press",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Heal 30 damage from this Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 65/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/65.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Buneary",
+    "hp": 50,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Pound",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 66/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/66.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buneary.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Buneary",
+    "hp": 50,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Pound",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 66/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/66.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buneary.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lopunny",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Hopping Shot",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 67/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/67.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lopunny.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lopunny",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Hopping Shot",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "",
+        "damage": "30"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 67/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/67.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lopunny.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Cyclizar",
+    "hp": 80,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Overacceleration",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "During your next turn, this Pokémon's Overacceleration attack does +20 damage",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 68/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/68.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Cyclizar.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Cyclizar",
+    "hp": 80,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Overacceleration",
+        "energy_cost": [
+          "colorless"
+        ],
+        "description": "During your next turn, this Pokémon's Overacceleration attack does +20 damage",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 68/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/68.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Cyclizar.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Meowscarada",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Fighting Claws",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 73/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/73.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Meowscarada",
+    "hp": 140,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Fighting Claws",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 73/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/73.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Buizel",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 74/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/74.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Buizel",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Water Gun",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 74/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/74.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tatsugiri",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Retreat Directive",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Rain Splash",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 75/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/75.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tatsugiri",
+    "hp": 70,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Retreat Directive",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Rain Splash",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 75/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/75.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Grafaiai",
+    "hp": 90,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Poison Crossing",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "darkness",
+          "darkness"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 76/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/76.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Grafaiai",
+    "hp": 90,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Poison Crossing",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Bite",
+        "energy_cost": [
+          "darkness",
+          "darkness"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 76/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/76.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Gholdengo",
+    "hp": 120,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Scintillating Surfing",
+        "energy_cost": [
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip a coin for each  Energy attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 77/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/77.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Gholdengo",
+    "hp": 120,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Scintillating Surfing",
+        "energy_cost": [
+          "metal",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Flip a coin for each  Energy attached to this Pokémon. This attack does 50 damage for each heads",
+        "damage": "50x"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 77/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/77.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wigglytuff",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Comforting Song",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Gentle Slap",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 78/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/78.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wigglytuff",
+    "hp": 100,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Comforting Song",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Gentle Slap",
+        "energy_cost": [
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "50"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 78/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/78.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Beedrill",
+    "hp": 170,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Crushing spear",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Discard a random Energy from your opponent's Active Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 79/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/79.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Beedrill",
+    "hp": 170,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Crushing spear",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Discard a random Energy from your opponent's Active Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 79/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/79.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charizard",
+    "hp": 180,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Stoke",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Take 3  Energy from your Energy Zone and attach to this Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Steam Artillery",
+        "energy_cost": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 80/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/80.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charizard",
+    "hp": 180,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Stoke",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Take 3  Energy from your Energy Zone and attach to this Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Steam Artillery",
+        "energy_cost": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 80/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/80.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wugtrio",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Pop Out Throughout",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 81/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/81.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wugtrio",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Pop Out Throughout",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 81/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/81.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pikachu",
+    "hp": 120,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunderbolt",
+        "energy_cost": [
+          "electric",
+          "electric",
+          "electric"
+        ],
+        "description": "Discard all Energy from this Pokémon",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 82/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/82.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pikachu",
+    "hp": 120,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunderbolt",
+        "energy_cost": [
+          "electric",
+          "electric",
+          "electric"
+        ],
+        "description": "Discard all Energy from this Pokémon",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 82/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/82.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Giratina",
+    "hp": 150,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Broken-Space Bellow",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Chaotic Impact",
+        "energy_cost": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 20 damage to itself",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 83/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/83.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Giratina",
+    "hp": 150,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Broken-Space Bellow",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Chaotic Impact",
+        "energy_cost": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 20 damage to itself",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 83/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/83.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lucario",
+    "hp": 150,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Aura Sphre",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 84/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/84.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lucario",
+    "hp": 150,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Aura Sphre",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 84/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/84.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Clodsire",
+    "hp": 160,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 85/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/85.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Clodsire",
+    "hp": 160,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 85/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/85.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkaton",
+    "hp": 170,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Terrific Thumping",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 80 more damage",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 86/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/86.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkaton",
+    "hp": 170,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Terrific Thumping",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 80 more damage",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 86/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/86.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Bibarel",
+    "hp": 160,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Carefree Press",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Heal 30 damage from this Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 87/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/87.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Bibarel",
+    "hp": 160,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Carefree Press",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Heal 30 damage from this Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 87/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/87.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pikachu",
+    "hp": 120,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunderbolt",
+        "energy_cost": [
+          "electric",
+          "electric",
+          "electric"
+        ],
+        "description": "Discard all Energy from this Pokémon",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 92/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/92.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pikachu",
+    "hp": 120,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Thunderbolt",
+        "energy_cost": [
+          "electric",
+          "electric",
+          "electric"
+        ],
+        "description": "Discard all Energy from this Pokémon",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 92/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/92.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Clodsire",
+    "hp": 160,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 93/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/93.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Clodsire",
+    "hp": 160,
+    "type": "darkness",
+    "moves": [
+      {
+        "name": "Venoshock",
+        "energy_cost": [
+          "darkness",
+          "darkness",
+          "colorless"
+        ],
+        "description": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage",
+        "damage": "60+"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 93/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/93.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Clodsire.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkaton",
+    "hp": 170,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Terrific Thumping",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 80 more damage",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 94/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/94.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Tinkaton",
+    "hp": 170,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Terrific Thumping",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, this attack does 80 more damage",
+        "damage": "80+"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 94/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/94.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkaton.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Bibarel",
+    "hp": 160,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Carefree Press",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Heal 30 damage from this Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 95/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/95.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Bibarel",
+    "hp": 160,
+    "type": "colorless",
+    "moves": [
+      {
+        "name": "Carefree Press",
+        "energy_cost": [
+          "colorless",
+          "colorless",
+          "colorless",
+          "colorless"
+        ],
+        "description": "Heal 30 damage from this Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 95/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/95.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarel.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Giratina",
+    "hp": 150,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Broken-Space Bellow",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Chaotic Impact",
+        "energy_cost": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 20 damage to itself",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 96/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/96.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Giratina",
+    "hp": 150,
+    "type": "psychic",
+    "moves": [
+      {
+        "name": "Broken-Space Bellow",
+        "energy_cost": [],
+        "description": "",
+        "damage": ""
+      },
+      {
+        "name": "Chaotic Impact",
+        "energy_cost": [
+          "psychic",
+          "psychic",
+          "psychic",
+          "colorless"
+        ],
+        "description": "This Pokémon also does 20 damage to itself",
+        "damage": "130"
+      }
+    ],
+    "weakness": [
+      "darkness"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 96/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/96.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Giratina.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Weedle",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Multiply",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Put 1 random Weedle from your deck onto your bench",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 97/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/97.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Weedle",
+    "hp": 50,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Multiply",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Put 1 random Weedle from your deck onto your bench",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 97/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/97.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Kakuna",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "String Shot",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 98/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/98.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Kakuna",
+    "hp": 80,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "String Shot",
+        "energy_cost": [
+          "grass"
+        ],
+        "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 98/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/98.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charmander",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 99/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/99.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charmander",
+    "hp": 60,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "",
+        "damage": "20"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 99/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/99.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charmeleon",
+    "hp": 90,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire",
+          "fire"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 100/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/100.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charmeleon",
+    "hp": 90,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Combustion",
+        "energy_cost": [
+          "fire",
+          "fire"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 100/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/100.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wiglett",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Spring Out",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 101/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/101.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wiglett",
+    "hp": 60,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Spring Out",
+        "energy_cost": [
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 101/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/101.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Dondozo",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Ocean Cyclone",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack also does 10 damage to each of your opponent's Benched Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 102/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/102.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Dondozo",
+    "hp": 120,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Ocean Cyclone",
+        "energy_cost": [
+          "water",
+          "water",
+          "colorless",
+          "colorless"
+        ],
+        "description": "This attack also does 10 damage to each of your opponent's Benched Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 102/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/102.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pachirisu",
+    "hp": 70,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Plasma",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "Take a  Energy from your Energy Zone and attach it to 1 of your Benched  Pokémon",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 103/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/103.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Pachirisu",
+    "hp": 70,
+    "type": "electric",
+    "moves": [
+      {
+        "name": "Plasma",
+        "energy_cost": [
+          "electric"
+        ],
+        "description": "Take a  Energy from your Energy Zone and attach it to 1 of your Benched  Pokémon",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fighting"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 103/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/103.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Riolu",
+    "hp": 70,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 104/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/104.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Riolu",
+    "hp": 70,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Punch",
+        "energy_cost": [
+          "fighting",
+          "fighting"
+        ],
+        "description": "",
+        "damage": "40"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 104/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/104.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Varoom",
+    "hp": 70,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Headbutt",
+        "energy_cost": [
+          "metal"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 105/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/105.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Varoom",
+    "hp": 70,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Headbutt",
+        "energy_cost": [
+          "metal"
+        ],
+        "description": "",
+        "damage": "10"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 105/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/105.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Revavroom",
+    "hp": 110,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Spinning Drift",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 106/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/106.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Revavroom",
+    "hp": 110,
+    "type": "metal",
+    "moves": [
+      {
+        "name": "Spinning Drift",
+        "energy_cost": [
+          "metal",
+          "metal",
+          "colorless"
+        ],
+        "description": "Flip a coin. If heads, your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon",
+        "damage": "70"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 106/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/106.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Beedrill",
+    "hp": 170,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Crushing spear",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Discard a random Energy from your opponent's Active Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 107/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/107.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Beedrill",
+    "hp": 170,
+    "type": "grass",
+    "moves": [
+      {
+        "name": "Crushing spear",
+        "energy_cost": [
+          "grass",
+          "grass"
+        ],
+        "description": "Discard a random Energy from your opponent's Active Pokémon",
+        "damage": "80"
+      }
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 107/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/107.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrill.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charizard",
+    "hp": 180,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Stoke",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Take 3  Energy from your Energy Zone and attach to this Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Steam Artillery",
+        "energy_cost": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 108/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/108.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Charizard",
+    "hp": 180,
+    "type": "fire",
+    "moves": [
+      {
+        "name": "Stoke",
+        "energy_cost": [
+          "fire"
+        ],
+        "description": "Take 3  Energy from your Energy Zone and attach to this Pokémon",
+        "damage": ""
+      },
+      {
+        "name": "Steam Artillery",
+        "energy_cost": [
+          "fire",
+          "fire",
+          "fire",
+          "colorless",
+          "colorless"
+        ],
+        "description": "",
+        "damage": "150"
+      }
+    ],
+    "weakness": [
+      "water"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 108/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/108.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Charizard.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wugtrio",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Pop Out Throughout",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 109/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/109.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Wugtrio",
+    "hp": 140,
+    "type": "water",
+    "moves": [
+      {
+        "name": "Pop Out Throughout",
+        "energy_cost": [
+          "water",
+          "water",
+          "water"
+        ],
+        "description": "I of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it",
+        "damage": ""
+      }
+    ],
+    "weakness": [
+      "electric"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 109/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/109.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrio.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lucario",
+    "hp": 150,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Aura Sphre",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 110/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/110.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+  },
+  {
+    "set_name": "Shiningrevelry",
+    "name": "Lucario",
+    "hp": 150,
+    "type": "fighting",
+    "moves": [
+      {
+        "name": "Aura Sphre",
+        "energy_cost": [
+          "fighting",
+          "fighting",
+          "fighting"
+        ],
+        "description": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon",
+        "damage": "100"
+      }
+    ],
+    "weakness": [
+      "psychic"
+    ],
+    "weakness_damage": "+20",
+    "retreat_cost": [
+      "colorless",
+      "colorless"
+    ],
+    "set_number": "Shiningrevelry 110/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/110.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "db/pokemon_cards/shiningrevelry/shiningrevelry_Lucario.jpg"
+  }
+]
