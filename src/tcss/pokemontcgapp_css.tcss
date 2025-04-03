@@ -62,7 +62,6 @@ Button {
 
 #filter-controls {
     margin-bottom: 1;
-    border: solid red;
 }
 
 #column-1 {
@@ -76,7 +75,7 @@ Button {
 #filter-grid {
     layout: grid;
     grid-size: 4 4;
-    grid-columns: auto 1fr 1fr 1fr;
+    grid-columns: 1fr 1fr 1fr 1fr;
     align: center middle;
 }
 

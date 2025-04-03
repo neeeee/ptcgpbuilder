@@ -1,6 +1,6 @@
 [
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Weedle",
     "hp": 50,
     "type": "grass",
@@ -27,7 +27,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Weedle",
     "hp": 50,
     "type": "grass",
@@ -54,7 +54,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Kakuna",
     "hp": 80,
     "type": "grass",
@@ -82,7 +82,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Kakuna",
     "hp": 80,
     "type": "grass",
@@ -110,7 +110,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Beedrillex",
     "hp": 170,
     "type": "grass",
@@ -138,7 +138,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrillex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Beedrillex",
     "hp": 170,
     "type": "grass",
@@ -166,7 +166,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrillex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pinsir",
     "hp": 90,
     "type": "grass",
@@ -196,7 +196,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pinsir.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pinsir",
     "hp": 90,
     "type": "grass",
@@ -226,7 +226,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pinsir.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Sprigatito",
     "hp": 60,
     "type": "grass",
@@ -253,7 +253,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Sprigatito.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Sprigatito",
     "hp": 60,
     "type": "grass",
@@ -280,7 +280,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Sprigatito.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Floragato",
     "hp": 90,
     "type": "grass",
@@ -308,7 +308,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Floragato.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Floragato",
     "hp": 90,
     "type": "grass",
@@ -336,7 +336,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Floragato.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Meowscarada",
     "hp": 140,
     "type": "grass",
@@ -364,7 +364,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Meowscarada",
     "hp": 140,
     "type": "grass",
@@ -392,7 +392,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charmander",
     "hp": 60,
     "type": "fire",
@@ -419,7 +419,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charmander",
     "hp": 60,
     "type": "fire",
@@ -446,7 +446,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charmeleon",
     "hp": 90,
     "type": "fire",
@@ -475,7 +475,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charmeleon",
     "hp": 90,
     "type": "fire",
@@ -504,7 +504,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charizardex",
     "hp": 180,
     "type": "fire",
@@ -545,7 +545,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizardex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charizardex",
     "hp": 180,
     "type": "fire",
@@ -586,7 +586,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizardex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Magmar",
     "hp": 70,
     "type": "fire",
@@ -613,7 +613,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Magmar.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Magmar",
     "hp": 70,
     "type": "fire",
@@ -640,7 +640,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Magmar.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Magmortar",
     "hp": 120,
     "type": "fire",
@@ -671,7 +671,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Magmortar.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Magmortar",
     "hp": 120,
     "type": "fire",
@@ -702,7 +702,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Magmortar.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanTauros",
     "hp": 110,
     "type": "fire",
@@ -732,7 +732,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanTauros.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanTauros",
     "hp": 110,
     "type": "fire",
@@ -762,7 +762,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanTauros.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tentacool",
     "hp": 70,
     "type": "water",
@@ -789,7 +789,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacool.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tentacool",
     "hp": 70,
     "type": "water",
@@ -816,7 +816,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacool.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tentacruel",
     "hp": 100,
     "type": "water",
@@ -843,7 +843,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacruel.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tentacruel",
     "hp": 100,
     "type": "water",
@@ -870,7 +870,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tentacruel.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Buizel",
     "hp": 70,
     "type": "water",
@@ -897,7 +897,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Buizel",
     "hp": 70,
     "type": "water",
@@ -924,7 +924,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Floatzel",
     "hp": 90,
     "type": "water",
@@ -951,7 +951,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Floatzel.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Floatzel",
     "hp": 90,
     "type": "water",
@@ -978,7 +978,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Floatzel.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wiglett",
     "hp": 60,
     "type": "water",
@@ -1005,7 +1005,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wiglett",
     "hp": 60,
     "type": "water",
@@ -1032,7 +1032,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wugtrioex",
     "hp": 140,
     "type": "water",
@@ -1061,7 +1061,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wugtrioex",
     "hp": 140,
     "type": "water",
@@ -1090,7 +1090,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Dondozo",
     "hp": 120,
     "type": "water",
@@ -1122,7 +1122,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Dondozo",
     "hp": 120,
     "type": "water",
@@ -1154,7 +1154,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tatsugiri",
     "hp": 70,
     "type": "water",
@@ -1187,7 +1187,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tatsugiri",
     "hp": 70,
     "type": "water",
@@ -1220,7 +1220,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pikachuex",
     "hp": 120,
     "type": "electric",
@@ -1249,7 +1249,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachuex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pikachuex",
     "hp": 120,
     "type": "electric",
@@ -1278,7 +1278,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachuex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Voltorb",
     "hp": 70,
     "type": "electric",
@@ -1305,7 +1305,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Voltorb.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Voltorb",
     "hp": 70,
     "type": "electric",
@@ -1332,7 +1332,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Voltorb.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Electrode",
     "hp": 90,
     "type": "electric",
@@ -1360,7 +1360,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Electrode.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Electrode",
     "hp": 90,
     "type": "electric",
@@ -1388,7 +1388,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Electrode.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pachirisu",
     "hp": 70,
     "type": "electric",
@@ -1415,7 +1415,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pachirisu",
     "hp": 70,
     "type": "electric",
@@ -1442,7 +1442,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pawmi",
     "hp": 60,
     "type": "electric",
@@ -1469,7 +1469,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmi.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pawmi",
     "hp": 60,
     "type": "electric",
@@ -1496,7 +1496,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmi.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pawmo",
     "hp": 90,
     "type": "electric",
@@ -1524,7 +1524,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pawmo",
     "hp": 90,
     "type": "electric",
@@ -1552,7 +1552,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pawmot",
     "hp": 140,
     "type": "electric",
@@ -1584,7 +1584,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmot.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pawmot",
     "hp": 140,
     "type": "electric",
@@ -1616,7 +1616,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pawmot.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Abra",
     "hp": 60,
     "type": "psychic",
@@ -1643,7 +1643,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Abra.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Abra",
     "hp": 60,
     "type": "psychic",
@@ -1670,7 +1670,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Abra.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Kadabra",
     "hp": 80,
     "type": "psychic",
@@ -1697,7 +1697,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kadabra.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Kadabra",
     "hp": 80,
     "type": "psychic",
@@ -1724,7 +1724,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kadabra.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Alakazam",
     "hp": 130,
     "type": "psychic",
@@ -1752,7 +1752,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Alakazam.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Alakazam",
     "hp": 130,
     "type": "psychic",
@@ -1780,7 +1780,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Alakazam.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Mr. Mime",
     "hp": 90,
     "type": "psychic",
@@ -1808,7 +1808,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Mr._Mime.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Mr. Mime",
     "hp": 90,
     "type": "psychic",
@@ -1836,7 +1836,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Mr._Mime.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Drifloon",
     "hp": 60,
     "type": "psychic",
@@ -1863,7 +1863,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Drifloon.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Drifloon",
     "hp": 60,
     "type": "psychic",
@@ -1890,7 +1890,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Drifloon.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Drifblim",
     "hp": 90,
     "type": "psychic",
@@ -1915,7 +1915,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Drifblim.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Drifblim",
     "hp": 90,
     "type": "psychic",
@@ -1940,7 +1940,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Drifblim.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Giratinaex",
     "hp": 150,
     "type": "psychic",
@@ -1977,7 +1977,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratinaex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Giratinaex",
     "hp": 150,
     "type": "psychic",
@@ -2014,7 +2014,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratinaex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Gimmighoul",
     "hp": 60,
     "type": "psychic",
@@ -2041,7 +2041,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gimmighoul.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Gimmighoul",
     "hp": 60,
     "type": "psychic",
@@ -2068,7 +2068,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gimmighoul.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Machop",
     "hp": 60,
     "type": "fighting",
@@ -2095,7 +2095,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machop.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Machop",
     "hp": 60,
     "type": "fighting",
@@ -2122,7 +2122,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machop.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Machoke",
     "hp": 100,
     "type": "fighting",
@@ -2151,7 +2151,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machoke.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Machoke",
     "hp": 100,
     "type": "fighting",
@@ -2180,7 +2180,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machoke.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Machamp",
     "hp": 150,
     "type": "fighting",
@@ -2209,7 +2209,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machamp.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Machamp",
     "hp": 150,
     "type": "fighting",
@@ -2238,7 +2238,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Machamp.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Hitmonlee",
     "hp": 80,
     "type": "fighting",
@@ -2265,7 +2265,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonlee.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Hitmonlee",
     "hp": 80,
     "type": "fighting",
@@ -2292,7 +2292,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonlee.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Hitmonchan",
     "hp": 90,
     "type": "fighting",
@@ -2321,7 +2321,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonchan.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Hitmonchan",
     "hp": 90,
     "type": "fighting",
@@ -2350,7 +2350,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Hitmonchan.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Riolu",
     "hp": 70,
     "type": "fighting",
@@ -2378,7 +2378,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Riolu",
     "hp": 70,
     "type": "fighting",
@@ -2406,7 +2406,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lucarioex",
     "hp": 150,
     "type": "fighting",
@@ -2436,7 +2436,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucarioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lucarioex",
     "hp": 150,
     "type": "fighting",
@@ -2466,7 +2466,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucarioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Flamigo",
     "hp": 80,
     "type": "fighting",
@@ -2494,7 +2494,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Flamigo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Flamigo",
     "hp": 80,
     "type": "fighting",
@@ -2522,7 +2522,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Flamigo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Ekans",
     "hp": 70,
     "type": "darkness",
@@ -2550,7 +2550,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Ekans.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Ekans",
     "hp": 70,
     "type": "darkness",
@@ -2578,7 +2578,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Ekans.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Arbok",
     "hp": 110,
     "type": "darkness",
@@ -2608,7 +2608,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Arbok.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Arbok",
     "hp": 110,
     "type": "darkness",
@@ -2638,7 +2638,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Arbok.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanWooper",
     "hp": 50,
     "type": "darkness",
@@ -2665,7 +2665,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanWooper.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanWooper",
     "hp": 50,
     "type": "darkness",
@@ -2692,7 +2692,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanWooper.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanClodsireex",
     "hp": 160,
     "type": "darkness",
@@ -2723,7 +2723,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanClodsireex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanClodsireex",
     "hp": 160,
     "type": "darkness",
@@ -2754,7 +2754,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanClodsireex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Spiritomb",
     "hp": 80,
     "type": "darkness",
@@ -2781,7 +2781,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Spiritomb.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Spiritomb",
     "hp": 80,
     "type": "darkness",
@@ -2808,7 +2808,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Spiritomb.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Shroodle",
     "hp": 60,
     "type": "darkness",
@@ -2835,7 +2835,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Shroodle.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Shroodle",
     "hp": 60,
     "type": "darkness",
@@ -2862,7 +2862,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Shroodle.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Grafaiai",
     "hp": 90,
     "type": "darkness",
@@ -2896,7 +2896,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Grafaiai",
     "hp": 90,
     "type": "darkness",
@@ -2930,7 +2930,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatink",
     "hp": 60,
     "type": "metal",
@@ -2957,7 +2957,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatink.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatink",
     "hp": 60,
     "type": "metal",
@@ -2984,7 +2984,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatink.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatuff",
     "hp": 90,
     "type": "metal",
@@ -3013,7 +3013,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatuff.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatuff",
     "hp": 90,
     "type": "metal",
@@ -3042,7 +3042,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatuff.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatonex",
     "hp": 170,
     "type": "metal",
@@ -3072,7 +3072,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatonex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatonex",
     "hp": 170,
     "type": "metal",
@@ -3102,7 +3102,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatonex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Varoom",
     "hp": 70,
     "type": "metal",
@@ -3129,7 +3129,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Varoom",
     "hp": 70,
     "type": "metal",
@@ -3156,7 +3156,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Revavroom",
     "hp": 110,
     "type": "metal",
@@ -3186,7 +3186,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Revavroom",
     "hp": 110,
     "type": "metal",
@@ -3216,7 +3216,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Gholdengo",
     "hp": 120,
     "type": "metal",
@@ -3246,7 +3246,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Gholdengo",
     "hp": 120,
     "type": "metal",
@@ -3276,7 +3276,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Rattata",
     "hp": 50,
     "type": "colorless",
@@ -3303,7 +3303,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Rattata.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Rattata",
     "hp": 50,
     "type": "colorless",
@@ -3330,7 +3330,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Rattata.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Raticate",
     "hp": 90,
     "type": "colorless",
@@ -3358,7 +3358,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Raticate.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Raticate",
     "hp": 90,
     "type": "colorless",
@@ -3386,7 +3386,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Raticate.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Jigglypuff",
     "hp": 60,
     "type": "colorless",
@@ -3413,7 +3413,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Jigglypuff.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Jigglypuff",
     "hp": 60,
     "type": "colorless",
@@ -3440,7 +3440,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Jigglypuff.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wigglytuff",
     "hp": 100,
     "type": "colorless",
@@ -3475,7 +3475,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wigglytuff",
     "hp": 100,
     "type": "colorless",
@@ -3510,7 +3510,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lickitung",
     "hp": 80,
     "type": "colorless",
@@ -3539,7 +3539,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lickitung.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lickitung",
     "hp": 80,
     "type": "colorless",
@@ -3568,7 +3568,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lickitung.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lickilicky",
     "hp": 130,
     "type": "colorless",
@@ -3599,7 +3599,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lickilicky.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lickilicky",
     "hp": 130,
     "type": "colorless",
@@ -3630,7 +3630,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lickilicky.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Bidoof",
     "hp": 70,
     "type": "colorless",
@@ -3659,7 +3659,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bidoof.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Bidoof",
     "hp": 70,
     "type": "colorless",
@@ -3688,7 +3688,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bidoof.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Bibarelex",
     "hp": 160,
     "type": "colorless",
@@ -3720,7 +3720,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarelex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Bibarelex",
     "hp": 160,
     "type": "colorless",
@@ -3752,7 +3752,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarelex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Buneary",
     "hp": 50,
     "type": "colorless",
@@ -3779,7 +3779,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buneary.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Buneary",
     "hp": 50,
     "type": "colorless",
@@ -3806,7 +3806,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buneary.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lopunny",
     "hp": 100,
     "type": "colorless",
@@ -3833,7 +3833,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lopunny.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lopunny",
     "hp": 100,
     "type": "colorless",
@@ -3860,7 +3860,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lopunny.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Cyclizar",
     "hp": 80,
     "type": "colorless",
@@ -3887,7 +3887,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Cyclizar.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Cyclizar",
     "hp": 80,
     "type": "colorless",
@@ -3914,7 +3914,79 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Cyclizar.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
+    "name": "Iono - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 69/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/69.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Iono_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Iono - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 69/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/69.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Iono_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Pokemon Center Lady - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 70/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/70.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pokemon_Center_Lady_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Pokemon Center Lady - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 70/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/70.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pokemon_Center_Lady_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Red - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 71/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/71.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Red_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Red - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 71/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/71.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Red_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Team Rocket Grunt - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 72/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/72.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Team_Rocket_Grunt_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Team Rocket Grunt - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 72/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/72.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Team_Rocket_Grunt_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
     "name": "Meowscarada",
     "hp": 140,
     "type": "grass",
@@ -3942,7 +4014,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Meowscarada",
     "hp": 140,
     "type": "grass",
@@ -3970,7 +4042,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Meowscarada.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Buizel",
     "hp": 70,
     "type": "water",
@@ -3997,7 +4069,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Buizel",
     "hp": 70,
     "type": "water",
@@ -4024,7 +4096,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Buizel.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tatsugiri",
     "hp": 70,
     "type": "water",
@@ -4057,7 +4129,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tatsugiri",
     "hp": 70,
     "type": "water",
@@ -4090,7 +4162,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tatsugiri.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Grafaiai",
     "hp": 90,
     "type": "darkness",
@@ -4124,7 +4196,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Grafaiai",
     "hp": 90,
     "type": "darkness",
@@ -4158,7 +4230,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Grafaiai.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Gholdengo",
     "hp": 120,
     "type": "metal",
@@ -4188,7 +4260,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Gholdengo",
     "hp": 120,
     "type": "metal",
@@ -4218,7 +4290,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Gholdengo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wigglytuff",
     "hp": 100,
     "type": "colorless",
@@ -4253,7 +4325,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wigglytuff",
     "hp": 100,
     "type": "colorless",
@@ -4288,7 +4360,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wigglytuff.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Beedrillex",
     "hp": 170,
     "type": "grass",
@@ -4316,7 +4388,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrillex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Beedrillex",
     "hp": 170,
     "type": "grass",
@@ -4344,7 +4416,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrillex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charizardex",
     "hp": 180,
     "type": "fire",
@@ -4385,7 +4457,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizardex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charizardex",
     "hp": 180,
     "type": "fire",
@@ -4426,7 +4498,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizardex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wugtrioex",
     "hp": 140,
     "type": "water",
@@ -4455,7 +4527,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wugtrioex",
     "hp": 140,
     "type": "water",
@@ -4484,7 +4556,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pikachuex",
     "hp": 120,
     "type": "electric",
@@ -4513,7 +4585,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachuex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pikachuex",
     "hp": 120,
     "type": "electric",
@@ -4542,7 +4614,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachuex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Giratinaex",
     "hp": 150,
     "type": "psychic",
@@ -4579,7 +4651,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratinaex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Giratinaex",
     "hp": 150,
     "type": "psychic",
@@ -4616,7 +4688,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratinaex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lucarioex",
     "hp": 150,
     "type": "fighting",
@@ -4646,7 +4718,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucarioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lucarioex",
     "hp": 150,
     "type": "fighting",
@@ -4676,7 +4748,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucarioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanClodsireex",
     "hp": 160,
     "type": "darkness",
@@ -4707,7 +4779,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanClodsireex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanClodsireex",
     "hp": 160,
     "type": "darkness",
@@ -4738,7 +4810,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanClodsireex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatonex",
     "hp": 170,
     "type": "metal",
@@ -4768,7 +4840,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatonex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatonex",
     "hp": 170,
     "type": "metal",
@@ -4798,7 +4870,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatonex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Bibarelex",
     "hp": 160,
     "type": "colorless",
@@ -4830,7 +4902,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarelex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Bibarelex",
     "hp": 160,
     "type": "colorless",
@@ -4862,7 +4934,79 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarelex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
+    "name": "Iono - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 88/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/88.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Iono_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Iono - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 88/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/88.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Iono_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Pokemon Center Lady - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 89/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/89.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pokemon_Center_Lady_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Pokemon Center Lady - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 89/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/89.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pokemon_Center_Lady_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Red - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 90/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/90.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Red_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Red - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 90/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/90.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Red_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Team Rocket Grunt - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 91/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/91.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Team_Rocket_Grunt_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Team Rocket Grunt - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 91/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/91.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Team_Rocket_Grunt_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
     "name": "Pikachuex",
     "hp": 120,
     "type": "electric",
@@ -4891,7 +5035,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachuex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pikachuex",
     "hp": 120,
     "type": "electric",
@@ -4920,7 +5064,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pikachuex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanClodsireex",
     "hp": 160,
     "type": "darkness",
@@ -4951,7 +5095,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanClodsireex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "PaldeanClodsireex",
     "hp": 160,
     "type": "darkness",
@@ -4982,7 +5126,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_PaldeanClodsireex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatonex",
     "hp": 170,
     "type": "metal",
@@ -5012,7 +5156,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatonex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Tinkatonex",
     "hp": 170,
     "type": "metal",
@@ -5042,7 +5186,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Tinkatonex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Bibarelex",
     "hp": 160,
     "type": "colorless",
@@ -5074,7 +5218,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarelex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Bibarelex",
     "hp": 160,
     "type": "colorless",
@@ -5106,7 +5250,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Bibarelex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Giratinaex",
     "hp": 150,
     "type": "psychic",
@@ -5143,7 +5287,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratinaex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Giratinaex",
     "hp": 150,
     "type": "psychic",
@@ -5180,7 +5324,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Giratinaex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Weedle",
     "hp": 50,
     "type": "grass",
@@ -5207,7 +5351,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Weedle",
     "hp": 50,
     "type": "grass",
@@ -5234,7 +5378,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Weedle.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Kakuna",
     "hp": 80,
     "type": "grass",
@@ -5262,7 +5406,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Kakuna",
     "hp": 80,
     "type": "grass",
@@ -5290,7 +5434,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Kakuna.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charmander",
     "hp": 60,
     "type": "fire",
@@ -5317,7 +5461,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charmander",
     "hp": 60,
     "type": "fire",
@@ -5344,7 +5488,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmander.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charmeleon",
     "hp": 90,
     "type": "fire",
@@ -5373,7 +5517,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charmeleon",
     "hp": 90,
     "type": "fire",
@@ -5402,7 +5546,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charmeleon.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wiglett",
     "hp": 60,
     "type": "water",
@@ -5429,7 +5573,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wiglett",
     "hp": 60,
     "type": "water",
@@ -5456,7 +5600,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wiglett.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Dondozo",
     "hp": 120,
     "type": "water",
@@ -5488,7 +5632,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Dondozo",
     "hp": 120,
     "type": "water",
@@ -5520,7 +5664,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Dondozo.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pachirisu",
     "hp": 70,
     "type": "electric",
@@ -5547,7 +5691,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Pachirisu",
     "hp": 70,
     "type": "electric",
@@ -5574,7 +5718,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Pachirisu.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Riolu",
     "hp": 70,
     "type": "fighting",
@@ -5602,7 +5746,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Riolu",
     "hp": 70,
     "type": "fighting",
@@ -5630,7 +5774,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Riolu.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Varoom",
     "hp": 70,
     "type": "metal",
@@ -5657,7 +5801,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Varoom",
     "hp": 70,
     "type": "metal",
@@ -5684,7 +5828,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Varoom.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Revavroom",
     "hp": 110,
     "type": "metal",
@@ -5714,7 +5858,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Revavroom",
     "hp": 110,
     "type": "metal",
@@ -5744,7 +5888,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Revavroom.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Beedrillex",
     "hp": 170,
     "type": "grass",
@@ -5772,7 +5916,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrillex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Beedrillex",
     "hp": 170,
     "type": "grass",
@@ -5800,7 +5944,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Beedrillex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charizardex",
     "hp": 180,
     "type": "fire",
@@ -5841,7 +5985,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizardex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Charizardex",
     "hp": 180,
     "type": "fire",
@@ -5882,7 +6026,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Charizardex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wugtrioex",
     "hp": 140,
     "type": "water",
@@ -5911,7 +6055,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Wugtrioex",
     "hp": 140,
     "type": "water",
@@ -5940,7 +6084,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Wugtrioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lucarioex",
     "hp": 150,
     "type": "fighting",
@@ -5970,7 +6114,7 @@
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucarioex.jpg"
   },
   {
-    "set_name": "Shiningrevelry",
+    "set_name": "shiningrevelry",
     "name": "Lucarioex",
     "hp": 150,
     "type": "fighting",
@@ -5998,5 +6142,23 @@
     "image_url": "/tcgpocket/th/shiningrevelry/110.jpg",
     "available_booster_packs": "Shiningrevelry",
     "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Lucarioex.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Poke Ball - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 111/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/111.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Poke_Ball_-_Pok.jpg"
+  },
+  {
+    "set_name": "shiningrevelry",
+    "name": "Poke Ball - Pok",
+    "moves": [],
+    "set_number": "Shiningrevelry 111/72",
+    "image_url": "/tcgpocket/th/shiningrevelry/111.jpg",
+    "available_booster_packs": "Shiningrevelry",
+    "local_image_path": "src/db/pokemon_cards/shiningrevelry/shiningrevelry_Poke_Ball_-_Pok.jpg"
   }
 ]

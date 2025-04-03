@@ -1,6 +1,6 @@
 [
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Exeggcute",
     "hp": 50,
     "type": "grass",
@@ -27,7 +27,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggcute.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Exeggcute",
     "hp": 50,
     "type": "grass",
@@ -54,7 +54,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggcute.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Exeggutor",
     "hp": 130,
     "type": "grass",
@@ -86,7 +86,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggutor.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Exeggutor",
     "hp": 130,
     "type": "grass",
@@ -118,7 +118,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggutor.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Celebiex",
     "hp": 130,
     "type": "grass",
@@ -146,7 +146,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Celebiex",
     "hp": 130,
     "type": "grass",
@@ -174,7 +174,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Snivy",
     "hp": 70,
     "type": "grass",
@@ -202,7 +202,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Snivy.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Snivy",
     "hp": 70,
     "type": "grass",
@@ -230,7 +230,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Snivy.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Servine",
     "hp": 80,
     "type": "grass",
@@ -258,7 +258,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Servine.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Servine",
     "hp": 80,
     "type": "grass",
@@ -286,7 +286,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Servine.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Serperior",
     "hp": 110,
     "type": "grass",
@@ -323,7 +323,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Serperior.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Serperior",
     "hp": 110,
     "type": "grass",
@@ -360,7 +360,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Serperior.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Morelull",
     "hp": 60,
     "type": "grass",
@@ -387,7 +387,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Morelull.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Morelull",
     "hp": 60,
     "type": "grass",
@@ -414,7 +414,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Morelull.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Shiinotic",
     "hp": 90,
     "type": "grass",
@@ -443,7 +443,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Shiinotic.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Shiinotic",
     "hp": 90,
     "type": "grass",
@@ -472,7 +472,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Shiinotic.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Dhelmise",
     "hp": 100,
     "type": "grass",
@@ -500,7 +500,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dhelmise.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Dhelmise",
     "hp": 100,
     "type": "grass",
@@ -528,7 +528,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dhelmise.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Ponyta",
     "hp": 60,
     "type": "fire",
@@ -555,7 +555,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Ponyta.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Ponyta",
     "hp": 60,
     "type": "fire",
@@ -582,7 +582,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Ponyta.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Rapidash",
     "hp": 100,
     "type": "fire",
@@ -610,7 +610,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Rapidash.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Rapidash",
     "hp": 100,
     "type": "fire",
@@ -638,7 +638,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Rapidash.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Magmar",
     "hp": 80,
     "type": "fire",
@@ -666,7 +666,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Magmar.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Magmar",
     "hp": 80,
     "type": "fire",
@@ -694,7 +694,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Magmar.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Larvesta",
     "hp": 80,
     "type": "fire",
@@ -723,7 +723,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Larvesta.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Larvesta",
     "hp": 80,
     "type": "fire",
@@ -752,7 +752,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Larvesta.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Volcarona",
     "hp": 120,
     "type": "fire",
@@ -782,7 +782,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Volcarona.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Volcarona",
     "hp": 120,
     "type": "fire",
@@ -812,7 +812,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Volcarona.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Salandit",
     "hp": 60,
     "type": "fire",
@@ -839,7 +839,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salandit.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Salandit",
     "hp": 60,
     "type": "fire",
@@ -866,7 +866,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salandit.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Salazzle",
     "hp": 80,
     "type": "fire",
@@ -893,7 +893,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salazzle.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Salazzle",
     "hp": 80,
     "type": "fire",
@@ -920,7 +920,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salazzle.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Magikarp",
     "hp": 30,
     "type": "water",
@@ -947,7 +947,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Magikarp.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Magikarp",
     "hp": 30,
     "type": "water",
@@ -974,7 +974,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Magikarp.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Gyaradosex",
     "hp": 180,
     "type": "water",
@@ -1006,7 +1006,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyaradosex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Gyaradosex",
     "hp": 180,
     "type": "water",
@@ -1038,7 +1038,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyaradosex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Vaporeon",
     "hp": 120,
     "type": "water",
@@ -1074,7 +1074,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Vaporeon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Vaporeon",
     "hp": 120,
     "type": "water",
@@ -1110,7 +1110,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Vaporeon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Finneon",
     "hp": 60,
     "type": "water",
@@ -1137,7 +1137,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Finneon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Finneon",
     "hp": 60,
     "type": "water",
@@ -1164,7 +1164,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Finneon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Lumineon",
     "hp": 80,
     "type": "water",
@@ -1190,7 +1190,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Lumineon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Lumineon",
     "hp": 80,
     "type": "water",
@@ -1216,7 +1216,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Lumineon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Chewtle",
     "hp": 80,
     "type": "water",
@@ -1245,7 +1245,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Chewtle.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Chewtle",
     "hp": 80,
     "type": "water",
@@ -1274,7 +1274,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Chewtle.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Drednaw",
     "hp": 130,
     "type": "water",
@@ -1305,7 +1305,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Drednaw.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Drednaw",
     "hp": 130,
     "type": "water",
@@ -1336,7 +1336,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Drednaw.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Cramorant",
     "hp": 80,
     "type": "water",
@@ -1365,7 +1365,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Cramorant.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Cramorant",
     "hp": 80,
     "type": "water",
@@ -1394,7 +1394,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Cramorant.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pikachu",
     "hp": 60,
     "type": "electric",
@@ -1421,7 +1421,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pikachu.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pikachu",
     "hp": 60,
     "type": "electric",
@@ -1448,7 +1448,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pikachu.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Raichu",
     "hp": 120,
     "type": "electric",
@@ -1478,7 +1478,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Raichu.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Raichu",
     "hp": 120,
     "type": "electric",
@@ -1508,7 +1508,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Raichu.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Electabuzz",
     "hp": 70,
     "type": "electric",
@@ -1536,7 +1536,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Electabuzz.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Electabuzz",
     "hp": 70,
     "type": "electric",
@@ -1564,7 +1564,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Electabuzz.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Joltik",
     "hp": 40,
     "type": "electric",
@@ -1591,7 +1591,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Joltik.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Joltik",
     "hp": 40,
     "type": "electric",
@@ -1618,7 +1618,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Joltik.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Galvantula",
     "hp": 80,
     "type": "electric",
@@ -1646,7 +1646,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Galvantula.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Galvantula",
     "hp": 80,
     "type": "electric",
@@ -1674,7 +1674,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Galvantula.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Dedenne",
     "hp": 60,
     "type": "electric",
@@ -1701,7 +1701,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dedenne.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Dedenne",
     "hp": 60,
     "type": "electric",
@@ -1728,7 +1728,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dedenne.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mew",
     "hp": 60,
     "type": "psychic",
@@ -1755,7 +1755,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mew",
     "hp": 60,
     "type": "psychic",
@@ -1782,7 +1782,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mew.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mewex",
     "hp": 130,
     "type": "psychic",
@@ -1819,7 +1819,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mewex",
     "hp": 130,
     "type": "psychic",
@@ -1856,7 +1856,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Sigilyph",
     "hp": 80,
     "type": "psychic",
@@ -1883,7 +1883,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Sigilyph.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Sigilyph",
     "hp": 80,
     "type": "psychic",
@@ -1910,7 +1910,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Sigilyph.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Elgyem",
     "hp": 60,
     "type": "psychic",
@@ -1937,7 +1937,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Elgyem.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Elgyem",
     "hp": 60,
     "type": "psychic",
@@ -1964,7 +1964,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Elgyem.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Beheeyem",
     "hp": 90,
     "type": "psychic",
@@ -1991,7 +1991,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Beheeyem.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Beheeyem",
     "hp": 90,
     "type": "psychic",
@@ -2018,7 +2018,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Beheeyem.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Flabébé",
     "hp": 40,
     "type": "psychic",
@@ -2045,7 +2045,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Flab_b_.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Flabébé",
     "hp": 40,
     "type": "psychic",
@@ -2072,7 +2072,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Flab_b_.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Floette",
     "hp": 70,
     "type": "psychic",
@@ -2099,7 +2099,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Floette.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Floette",
     "hp": 70,
     "type": "psychic",
@@ -2126,7 +2126,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Floette.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Florges",
     "hp": 120,
     "type": "psychic",
@@ -2154,7 +2154,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Florges.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Florges",
     "hp": 120,
     "type": "psychic",
@@ -2182,7 +2182,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Florges.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Swirlix",
     "hp": 60,
     "type": "psychic",
@@ -2209,7 +2209,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Swirlix.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Swirlix",
     "hp": 60,
     "type": "psychic",
@@ -2236,7 +2236,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Swirlix.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Slurpuff",
     "hp": 100,
     "type": "psychic",
@@ -2265,7 +2265,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Slurpuff.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Slurpuff",
     "hp": 100,
     "type": "psychic",
@@ -2294,7 +2294,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Slurpuff.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mankey",
     "hp": 50,
     "type": "fighting",
@@ -2321,7 +2321,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mankey.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mankey",
     "hp": 50,
     "type": "fighting",
@@ -2348,7 +2348,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mankey.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Primeape",
     "hp": 80,
     "type": "fighting",
@@ -2375,7 +2375,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Primeape.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Primeape",
     "hp": 80,
     "type": "fighting",
@@ -2402,7 +2402,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Primeape.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Geodude",
     "hp": 70,
     "type": "fighting",
@@ -2431,7 +2431,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Geodude.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Geodude",
     "hp": 70,
     "type": "fighting",
@@ -2460,7 +2460,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Geodude.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Graveler",
     "hp": 100,
     "type": "fighting",
@@ -2490,7 +2490,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Graveler.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Graveler",
     "hp": 100,
     "type": "fighting",
@@ -2520,7 +2520,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Graveler.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Golem",
     "hp": 160,
     "type": "fighting",
@@ -2552,7 +2552,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Golem.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Golem",
     "hp": 160,
     "type": "fighting",
@@ -2584,7 +2584,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Golem.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
@@ -2618,7 +2618,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
@@ -2652,7 +2652,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Marshadow",
     "hp": 80,
     "type": "fighting",
@@ -2680,7 +2680,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Marshadow.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Marshadow",
     "hp": 80,
     "type": "fighting",
@@ -2708,7 +2708,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Marshadow.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Stonjourner",
     "hp": 120,
     "type": "fighting",
@@ -2739,7 +2739,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Stonjourner.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Stonjourner",
     "hp": 120,
     "type": "fighting",
@@ -2770,7 +2770,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Stonjourner.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Koffing",
     "hp": 70,
     "type": "darkness",
@@ -2797,7 +2797,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Koffing.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Koffing",
     "hp": 70,
     "type": "darkness",
@@ -2824,7 +2824,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Koffing.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Weezing",
     "hp": 110,
     "type": "darkness",
@@ -2854,7 +2854,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Weezing.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Weezing",
     "hp": 110,
     "type": "darkness",
@@ -2884,7 +2884,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Weezing.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Purrloin",
     "hp": 60,
     "type": "darkness",
@@ -2911,7 +2911,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Purrloin.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Purrloin",
     "hp": 60,
     "type": "darkness",
@@ -2938,7 +2938,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Purrloin.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Liepard",
     "hp": 90,
     "type": "darkness",
@@ -2965,7 +2965,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Liepard.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Liepard",
     "hp": 90,
     "type": "darkness",
@@ -2992,7 +2992,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Liepard.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Venipede",
     "hp": 60,
     "type": "darkness",
@@ -3019,7 +3019,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Venipede.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Venipede",
     "hp": 60,
     "type": "darkness",
@@ -3046,7 +3046,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Venipede.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Whirlipede",
     "hp": 90,
     "type": "darkness",
@@ -3074,7 +3074,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Whirlipede.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Whirlipede",
     "hp": 90,
     "type": "darkness",
@@ -3102,7 +3102,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Whirlipede.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Scolipede",
     "hp": 140,
     "type": "darkness",
@@ -3131,7 +3131,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Scolipede.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Scolipede",
     "hp": 140,
     "type": "darkness",
@@ -3160,7 +3160,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Scolipede.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Druddigon",
     "hp": 100,
     "type": "dragon",
@@ -3182,7 +3182,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Druddigon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Druddigon",
     "hp": 100,
     "type": "dragon",
@@ -3204,7 +3204,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Druddigon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pidgey",
     "hp": 50,
     "type": "colorless",
@@ -3231,7 +3231,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgey.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pidgey",
     "hp": 50,
     "type": "colorless",
@@ -3258,7 +3258,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgey.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pidgeotto",
     "hp": 90,
     "type": "colorless",
@@ -3287,7 +3287,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotto.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pidgeotto",
     "hp": 90,
     "type": "colorless",
@@ -3316,7 +3316,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotto.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pidgeotex",
     "hp": 170,
     "type": "colorless",
@@ -3345,7 +3345,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pidgeotex",
     "hp": 170,
     "type": "colorless",
@@ -3374,7 +3374,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Tauros",
     "hp": 100,
     "type": "colorless",
@@ -3403,7 +3403,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Tauros.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Tauros",
     "hp": 100,
     "type": "colorless",
@@ -3432,7 +3432,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Tauros.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Eevee",
     "hp": 60,
     "type": "colorless",
@@ -3459,7 +3459,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Eevee.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Eevee",
     "hp": 60,
     "type": "colorless",
@@ -3486,7 +3486,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Eevee.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Chatot",
     "hp": 60,
     "type": "colorless",
@@ -3513,7 +3513,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Chatot.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Chatot",
     "hp": 60,
     "type": "colorless",
@@ -3540,7 +3540,115 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Chatot.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
+    "name": "Old Amber - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 63/68",
+    "image_url": "/tcgpocket/th/mythicalisland/63.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Old_Amber_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Old Amber - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 63/68",
+    "image_url": "/tcgpocket/th/mythicalisland/63.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Old_Amber_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Pokemon Flute - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 64/68",
+    "image_url": "/tcgpocket/th/mythicalisland/64.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pokemon_Flute_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Pokemon Flute - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 64/68",
+    "image_url": "/tcgpocket/th/mythicalisland/64.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pokemon_Flute_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Mythical Slab - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 65/68",
+    "image_url": "/tcgpocket/th/mythicalisland/65.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mythical_Slab_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Mythical Slab - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 65/68",
+    "image_url": "/tcgpocket/th/mythicalisland/65.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mythical_Slab_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Budding Expeditioner - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 66/68",
+    "image_url": "/tcgpocket/th/mythicalisland/66.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Budding_Expeditioner_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Budding Expeditioner - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 66/68",
+    "image_url": "/tcgpocket/th/mythicalisland/66.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Budding_Expeditioner_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Blue - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 67/68",
+    "image_url": "/tcgpocket/th/mythicalisland/67.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Blue_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Blue - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 67/68",
+    "image_url": "/tcgpocket/th/mythicalisland/67.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Blue_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Leaf - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 68/68",
+    "image_url": "/tcgpocket/th/mythicalisland/68.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Leaf_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Leaf - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 68/68",
+    "image_url": "/tcgpocket/th/mythicalisland/68.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Leaf_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
     "name": "Exeggutor",
     "hp": 130,
     "type": "grass",
@@ -3572,7 +3680,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggutor.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Exeggutor",
     "hp": 130,
     "type": "grass",
@@ -3604,7 +3712,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Exeggutor.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Serperior",
     "hp": 110,
     "type": "grass",
@@ -3641,7 +3749,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Serperior.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Serperior",
     "hp": 110,
     "type": "grass",
@@ -3678,7 +3786,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Serperior.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Salandit",
     "hp": 60,
     "type": "fire",
@@ -3705,7 +3813,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salandit.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Salandit",
     "hp": 60,
     "type": "fire",
@@ -3732,7 +3840,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Salandit.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Vaporeon",
     "hp": 120,
     "type": "water",
@@ -3768,7 +3876,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Vaporeon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Vaporeon",
     "hp": 120,
     "type": "water",
@@ -3804,7 +3912,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Vaporeon.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Dedenne",
     "hp": 60,
     "type": "electric",
@@ -3831,7 +3939,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dedenne.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Dedenne",
     "hp": 60,
     "type": "electric",
@@ -3858,7 +3966,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Dedenne.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Marshadow",
     "hp": 80,
     "type": "fighting",
@@ -3886,7 +3994,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Marshadow.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Marshadow",
     "hp": 80,
     "type": "fighting",
@@ -3914,7 +4022,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Marshadow.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Celebiex",
     "hp": 130,
     "type": "grass",
@@ -3942,7 +4050,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Celebiex",
     "hp": 130,
     "type": "grass",
@@ -3970,7 +4078,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Gyaradosex",
     "hp": 180,
     "type": "water",
@@ -4002,7 +4110,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyaradosex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Gyaradosex",
     "hp": 180,
     "type": "water",
@@ -4034,7 +4142,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Gyaradosex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mewex",
     "hp": 130,
     "type": "psychic",
@@ -4071,7 +4179,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mewex",
     "hp": 130,
     "type": "psychic",
@@ -4108,7 +4216,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
@@ -4142,7 +4250,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
@@ -4176,7 +4284,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pidgeotex",
     "hp": 170,
     "type": "colorless",
@@ -4205,7 +4313,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Pidgeotex",
     "hp": 170,
     "type": "colorless",
@@ -4234,7 +4342,61 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Pidgeotex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
+    "name": "Budding Expeditioner - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 80/68",
+    "image_url": "/tcgpocket/th/mythicalisland/80.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Budding_Expeditioner_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Budding Expeditioner - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 80/68",
+    "image_url": "/tcgpocket/th/mythicalisland/80.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Budding_Expeditioner_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Blue - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 81/68",
+    "image_url": "/tcgpocket/th/mythicalisland/81.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Blue_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Blue - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 81/68",
+    "image_url": "/tcgpocket/th/mythicalisland/81.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Blue_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Leaf - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 82/68",
+    "image_url": "/tcgpocket/th/mythicalisland/82.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Leaf_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
+    "name": "Leaf - Pok",
+    "moves": [],
+    "set_number": "Mythicalisland 82/68",
+    "image_url": "/tcgpocket/th/mythicalisland/82.jpg",
+    "available_booster_packs": "Mythicalisland",
+    "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Leaf_-_Pok.jpg"
+  },
+  {
+    "set_name": "mythicalisland",
     "name": "Mewex",
     "hp": 130,
     "type": "psychic",
@@ -4271,7 +4433,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mewex",
     "hp": 130,
     "type": "psychic",
@@ -4308,7 +4470,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
@@ -4342,7 +4504,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Aerodactylex",
     "hp": 140,
     "type": "fighting",
@@ -4376,7 +4538,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Aerodactylex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Celebiex",
     "hp": 130,
     "type": "grass",
@@ -4404,7 +4566,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Celebiex",
     "hp": 130,
     "type": "grass",
@@ -4432,7 +4594,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Celebiex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mewex",
     "hp": 130,
     "type": "psychic",
@@ -4469,7 +4631,7 @@
     "local_image_path": "src/db/pokemon_cards/mythicalisland/mythicalisland_Mewex.jpg"
   },
   {
-    "set_name": "Mythicalisland",
+    "set_name": "mythicalisland",
     "name": "Mewex",
     "hp": 130,
     "type": "psychic",

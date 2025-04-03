@@ -1,6 +1,6 @@
 [
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Oddish",
     "hp": 60,
     "type": "grass",
@@ -27,7 +27,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Oddish.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Oddish",
     "hp": 60,
     "type": "grass",
@@ -54,7 +54,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Oddish.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gloom",
     "hp": 80,
     "type": "grass",
@@ -82,7 +82,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gloom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gloom",
     "hp": 80,
     "type": "grass",
@@ -110,7 +110,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gloom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bellossom",
     "hp": 130,
     "type": "grass",
@@ -138,7 +138,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bellossom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bellossom",
     "hp": 130,
     "type": "grass",
@@ -166,7 +166,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bellossom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Tangela",
     "hp": 70,
     "type": "grass",
@@ -194,7 +194,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Tangela.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Tangela",
     "hp": 70,
     "type": "grass",
@@ -222,7 +222,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Tangela.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Tangrowth",
     "hp": 130,
     "type": "grass",
@@ -254,7 +254,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Tangrowth.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Tangrowth",
     "hp": 130,
     "type": "grass",
@@ -286,7 +286,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Tangrowth.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Yanma",
     "hp": 50,
     "type": "grass",
@@ -313,7 +313,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Yanma.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Yanma",
     "hp": 50,
     "type": "grass",
@@ -340,7 +340,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Yanma.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Yanmegaex",
     "hp": 140,
     "type": "grass",
@@ -369,7 +369,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Yanmegaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Yanmegaex",
     "hp": 140,
     "type": "grass",
@@ -398,7 +398,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Yanmegaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Roselia",
     "hp": 70,
     "type": "grass",
@@ -425,7 +425,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Roselia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Roselia",
     "hp": 70,
     "type": "grass",
@@ -452,7 +452,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Roselia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Roserade",
     "hp": 100,
     "type": "grass",
@@ -481,7 +481,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Roserade.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Roserade",
     "hp": 100,
     "type": "grass",
@@ -510,7 +510,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Roserade.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Turtwig",
     "hp": 80,
     "type": "grass",
@@ -539,7 +539,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Turtwig.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Turtwig",
     "hp": 80,
     "type": "grass",
@@ -568,7 +568,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Turtwig.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Grotle",
     "hp": 100,
     "type": "grass",
@@ -599,7 +599,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Grotle.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Grotle",
     "hp": 100,
     "type": "grass",
@@ -630,7 +630,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Grotle.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Torterra",
     "hp": 160,
     "type": "grass",
@@ -663,7 +663,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Torterra.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Torterra",
     "hp": 160,
     "type": "grass",
@@ -696,7 +696,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Torterra.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Kricketot",
     "hp": 60,
     "type": "grass",
@@ -723,7 +723,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Kricketot.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Kricketot",
     "hp": 60,
     "type": "grass",
@@ -750,7 +750,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Kricketot.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Kricketune",
     "hp": 90,
     "type": "grass",
@@ -778,7 +778,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Kricketune.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Kricketune",
     "hp": 90,
     "type": "grass",
@@ -806,7 +806,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Kricketune.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Burmy",
     "hp": 60,
     "type": "grass",
@@ -833,7 +833,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Burmy.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Burmy",
     "hp": 60,
     "type": "grass",
@@ -860,7 +860,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Burmy.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Wormadam",
     "hp": 120,
     "type": "grass",
@@ -890,7 +890,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Wormadam.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Wormadam",
     "hp": 120,
     "type": "grass",
@@ -920,7 +920,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Wormadam.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Combee",
     "hp": 50,
     "type": "grass",
@@ -947,7 +947,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Combee.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Combee",
     "hp": 50,
     "type": "grass",
@@ -974,7 +974,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Combee.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Vespiquen",
     "hp": 100,
     "type": "grass",
@@ -1003,7 +1003,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Vespiquen.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Vespiquen",
     "hp": 100,
     "type": "grass",
@@ -1032,7 +1032,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Vespiquen.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Carnivine",
     "hp": 90,
     "type": "grass",
@@ -1061,7 +1061,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Carnivine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Carnivine",
     "hp": 90,
     "type": "grass",
@@ -1090,7 +1090,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Carnivine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Leafeon",
     "hp": 90,
     "type": "grass",
@@ -1118,7 +1118,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Leafeon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Leafeon",
     "hp": 90,
     "type": "grass",
@@ -1146,7 +1146,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Leafeon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "MowRotom",
     "hp": 80,
     "type": "grass",
@@ -1174,7 +1174,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_MowRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "MowRotom",
     "hp": 80,
     "type": "grass",
@@ -1202,7 +1202,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_MowRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shaymin",
     "hp": 60,
     "type": "grass",
@@ -1236,7 +1236,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shaymin.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shaymin",
     "hp": 60,
     "type": "grass",
@@ -1270,7 +1270,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shaymin.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magmar",
     "hp": 80,
     "type": "fire",
@@ -1298,7 +1298,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magmar.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magmar",
     "hp": 80,
     "type": "fire",
@@ -1326,7 +1326,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magmar.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magmortar",
     "hp": 130,
     "type": "fire",
@@ -1358,7 +1358,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magmortar.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magmortar",
     "hp": 130,
     "type": "fire",
@@ -1390,7 +1390,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magmortar.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Slugma",
     "hp": 70,
     "type": "fire",
@@ -1418,7 +1418,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Slugma.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Slugma",
     "hp": 70,
     "type": "fire",
@@ -1446,7 +1446,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Slugma.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magcargo",
     "hp": 120,
     "type": "fire",
@@ -1476,7 +1476,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magcargo.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magcargo",
     "hp": 120,
     "type": "fire",
@@ -1506,7 +1506,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magcargo.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Chimchar",
     "hp": 60,
     "type": "fire",
@@ -1533,7 +1533,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Chimchar.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Chimchar",
     "hp": 60,
     "type": "fire",
@@ -1560,7 +1560,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Chimchar.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Monferno",
     "hp": 80,
     "type": "fire",
@@ -1587,7 +1587,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Monferno.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Monferno",
     "hp": 80,
     "type": "fire",
@@ -1614,7 +1614,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Monferno.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Infernapeex",
     "hp": 170,
     "type": "fire",
@@ -1640,7 +1640,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Infernapeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Infernapeex",
     "hp": 170,
     "type": "fire",
@@ -1666,7 +1666,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Infernapeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "HeatRotom",
     "hp": 80,
     "type": "fire",
@@ -1694,7 +1694,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_HeatRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "HeatRotom",
     "hp": 80,
     "type": "fire",
@@ -1722,7 +1722,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_HeatRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Swinub",
     "hp": 60,
     "type": "water",
@@ -1751,7 +1751,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Swinub.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Swinub",
     "hp": 60,
     "type": "water",
@@ -1780,7 +1780,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Swinub.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Piloswine",
     "hp": 110,
     "type": "water",
@@ -1817,7 +1817,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Piloswine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Piloswine",
     "hp": 110,
     "type": "water",
@@ -1854,7 +1854,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Piloswine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mamoswine",
     "hp": 160,
     "type": "water",
@@ -1893,7 +1893,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mamoswine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mamoswine",
     "hp": 160,
     "type": "water",
@@ -1932,7 +1932,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mamoswine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Regice",
     "hp": 110,
     "type": "water",
@@ -1967,7 +1967,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Regice.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Regice",
     "hp": 110,
     "type": "water",
@@ -2002,7 +2002,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Regice.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Piplup",
     "hp": 60,
     "type": "water",
@@ -2029,7 +2029,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Piplup.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Piplup",
     "hp": 60,
     "type": "water",
@@ -2056,7 +2056,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Piplup.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Prinplup",
     "hp": 90,
     "type": "water",
@@ -2084,7 +2084,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Prinplup.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Prinplup",
     "hp": 90,
     "type": "water",
@@ -2112,7 +2112,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Prinplup.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Empoleon",
     "hp": 150,
     "type": "water",
@@ -2142,7 +2142,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Empoleon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Empoleon",
     "hp": 150,
     "type": "water",
@@ -2172,7 +2172,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Empoleon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Buizel",
     "hp": 60,
     "type": "water",
@@ -2199,7 +2199,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Buizel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Buizel",
     "hp": 60,
     "type": "water",
@@ -2226,7 +2226,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Buizel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Floatzel",
     "hp": 90,
     "type": "water",
@@ -2253,7 +2253,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Floatzel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Floatzel",
     "hp": 90,
     "type": "water",
@@ -2280,7 +2280,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Floatzel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shellos",
     "hp": 70,
     "type": "water",
@@ -2309,7 +2309,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shellos.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shellos",
     "hp": 70,
     "type": "water",
@@ -2338,7 +2338,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shellos.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gastrodon",
     "hp": 120,
     "type": "water",
@@ -2369,7 +2369,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gastrodon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gastrodon",
     "hp": 120,
     "type": "water",
@@ -2400,7 +2400,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gastrodon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Finneon",
     "hp": 50,
     "type": "water",
@@ -2427,7 +2427,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Finneon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Finneon",
     "hp": 50,
     "type": "water",
@@ -2454,7 +2454,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Finneon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lumineon",
     "hp": 90,
     "type": "water",
@@ -2481,7 +2481,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lumineon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lumineon",
     "hp": 90,
     "type": "water",
@@ -2508,7 +2508,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lumineon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Snover",
     "hp": 70,
     "type": "water",
@@ -2536,7 +2536,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Snover.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Snover",
     "hp": 70,
     "type": "water",
@@ -2564,7 +2564,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Snover.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Abomasnow",
     "hp": 140,
     "type": "water",
@@ -2597,7 +2597,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Abomasnow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Abomasnow",
     "hp": 140,
     "type": "water",
@@ -2630,7 +2630,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Abomasnow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Glaceon",
     "hp": 90,
     "type": "water",
@@ -2658,7 +2658,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Glaceon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Glaceon",
     "hp": 90,
     "type": "water",
@@ -2686,7 +2686,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Glaceon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "WashRotom",
     "hp": 80,
     "type": "water",
@@ -2714,7 +2714,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_WashRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "WashRotom",
     "hp": 80,
     "type": "water",
@@ -2742,7 +2742,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_WashRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "FrostRotom",
     "hp": 80,
     "type": "water",
@@ -2770,7 +2770,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_FrostRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "FrostRotom",
     "hp": 80,
     "type": "water",
@@ -2798,7 +2798,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_FrostRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Palkiaex",
     "hp": 150,
     "type": "water",
@@ -2837,7 +2837,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Palkiaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Palkiaex",
     "hp": 150,
     "type": "water",
@@ -2876,7 +2876,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Palkiaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Manaphy",
     "hp": 50,
     "type": "water",
@@ -2903,7 +2903,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Manaphy.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Manaphy",
     "hp": 50,
     "type": "water",
@@ -2930,7 +2930,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Manaphy.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magnemite",
     "hp": 60,
     "type": "electric",
@@ -2957,7 +2957,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magnemite.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magnemite",
     "hp": 60,
     "type": "electric",
@@ -2984,7 +2984,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magnemite.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magneton",
     "hp": 80,
     "type": "electric",
@@ -3012,7 +3012,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magneton.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magneton",
     "hp": 80,
     "type": "electric",
@@ -3040,7 +3040,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magneton.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magnezone",
     "hp": 140,
     "type": "electric",
@@ -3070,7 +3070,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magnezone.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Magnezone",
     "hp": 140,
     "type": "electric",
@@ -3100,7 +3100,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Magnezone.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Voltorb",
     "hp": 60,
     "type": "electric",
@@ -3127,7 +3127,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Voltorb.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Voltorb",
     "hp": 60,
     "type": "electric",
@@ -3154,7 +3154,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Voltorb.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Electrode",
     "hp": 80,
     "type": "electric",
@@ -3181,7 +3181,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Electrode.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Electrode",
     "hp": 80,
     "type": "electric",
@@ -3208,7 +3208,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Electrode.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Electabuzz",
     "hp": 80,
     "type": "electric",
@@ -3236,7 +3236,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Electabuzz.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Electabuzz",
     "hp": 80,
     "type": "electric",
@@ -3264,7 +3264,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Electabuzz.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Electivire",
     "hp": 120,
     "type": "electric",
@@ -3294,7 +3294,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Electivire.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Electivire",
     "hp": 120,
     "type": "electric",
@@ -3324,7 +3324,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Electivire.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shinx",
     "hp": 60,
     "type": "electric",
@@ -3351,7 +3351,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shinx.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shinx",
     "hp": 60,
     "type": "electric",
@@ -3378,7 +3378,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shinx.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Luxio",
     "hp": 90,
     "type": "electric",
@@ -3407,7 +3407,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Luxio.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Luxio",
     "hp": 90,
     "type": "electric",
@@ -3436,7 +3436,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Luxio.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Luxray",
     "hp": 130,
     "type": "electric",
@@ -3463,7 +3463,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Luxray.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Luxray",
     "hp": 130,
     "type": "electric",
@@ -3490,7 +3490,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Luxray.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Pachirisuex",
     "hp": 120,
     "type": "electric",
@@ -3518,7 +3518,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Pachirisuex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Pachirisuex",
     "hp": 120,
     "type": "electric",
@@ -3546,7 +3546,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Pachirisuex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rotom",
     "hp": 70,
     "type": "electric",
@@ -3573,7 +3573,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rotom",
     "hp": 70,
     "type": "electric",
@@ -3600,7 +3600,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Togepi",
     "hp": 50,
     "type": "psychic",
@@ -3627,7 +3627,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Togepi.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Togepi",
     "hp": 50,
     "type": "psychic",
@@ -3654,7 +3654,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Togepi.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Togetic",
     "hp": 50,
     "type": "psychic",
@@ -3681,7 +3681,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Togetic.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Togetic",
     "hp": 50,
     "type": "psychic",
@@ -3708,7 +3708,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Togetic.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Togekiss",
     "hp": 140,
     "type": "psychic",
@@ -3736,7 +3736,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Togekiss.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Togekiss",
     "hp": 140,
     "type": "psychic",
@@ -3764,7 +3764,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Togekiss.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Misdreavus",
     "hp": 60,
     "type": "psychic",
@@ -3791,7 +3791,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Misdreavus.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Misdreavus",
     "hp": 60,
     "type": "psychic",
@@ -3818,7 +3818,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Misdreavus.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mismagiusex",
     "hp": 140,
     "type": "psychic",
@@ -3846,7 +3846,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mismagiusex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mismagiusex",
     "hp": 140,
     "type": "psychic",
@@ -3874,7 +3874,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mismagiusex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Ralts",
     "hp": 60,
     "type": "psychic",
@@ -3901,7 +3901,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Ralts.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Ralts",
     "hp": 60,
     "type": "psychic",
@@ -3928,7 +3928,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Ralts.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Kirlia",
     "hp": 80,
     "type": "psychic",
@@ -3955,7 +3955,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Kirlia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Kirlia",
     "hp": 80,
     "type": "psychic",
@@ -3982,7 +3982,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Kirlia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Duskull",
     "hp": 60,
     "type": "psychic",
@@ -4009,7 +4009,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Duskull.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Duskull",
     "hp": 60,
     "type": "psychic",
@@ -4036,7 +4036,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Duskull.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dusclops",
     "hp": 90,
     "type": "psychic",
@@ -4066,7 +4066,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dusclops.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dusclops",
     "hp": 90,
     "type": "psychic",
@@ -4096,7 +4096,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dusclops.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dusknoir",
     "hp": 130,
     "type": "psychic",
@@ -4132,7 +4132,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dusknoir.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dusknoir",
     "hp": 130,
     "type": "psychic",
@@ -4168,7 +4168,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dusknoir.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Drifloon",
     "hp": 50,
     "type": "psychic",
@@ -4195,7 +4195,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Drifloon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Drifloon",
     "hp": 50,
     "type": "psychic",
@@ -4222,7 +4222,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Drifloon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Drifblim",
     "hp": 100,
     "type": "psychic",
@@ -4250,7 +4250,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Drifblim.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Drifblim",
     "hp": 100,
     "type": "psychic",
@@ -4278,7 +4278,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Drifblim.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Uxie",
     "hp": 70,
     "type": "psychic",
@@ -4305,7 +4305,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Uxie.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Uxie",
     "hp": 70,
     "type": "psychic",
@@ -4332,7 +4332,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Uxie.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mesprit",
     "hp": 70,
     "type": "psychic",
@@ -4361,7 +4361,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mesprit.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mesprit",
     "hp": 70,
     "type": "psychic",
@@ -4390,7 +4390,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mesprit.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Azelf",
     "hp": 70,
     "type": "psychic",
@@ -4417,7 +4417,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Azelf.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Azelf",
     "hp": 70,
     "type": "psychic",
@@ -4444,7 +4444,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Azelf.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Giratina",
     "hp": 120,
     "type": "psychic",
@@ -4481,7 +4481,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Giratina.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Giratina",
     "hp": 120,
     "type": "psychic",
@@ -4518,7 +4518,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Giratina.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Cresselia",
     "hp": 110,
     "type": "psychic",
@@ -4547,7 +4547,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cresselia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Cresselia",
     "hp": 110,
     "type": "psychic",
@@ -4576,7 +4576,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cresselia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rhyhorn",
     "hp": 80,
     "type": "fighting",
@@ -4606,7 +4606,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rhyhorn.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rhyhorn",
     "hp": 80,
     "type": "fighting",
@@ -4636,7 +4636,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rhyhorn.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rhydon",
     "hp": 110,
     "type": "fighting",
@@ -4667,7 +4667,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rhydon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rhydon",
     "hp": 110,
     "type": "fighting",
@@ -4698,7 +4698,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rhydon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rhyperior",
     "hp": 160,
     "type": "fighting",
@@ -4731,7 +4731,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rhyperior.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rhyperior",
     "hp": 160,
     "type": "fighting",
@@ -4764,7 +4764,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rhyperior.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gligar",
     "hp": 60,
     "type": "fighting",
@@ -4791,7 +4791,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gligar.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gligar",
     "hp": 60,
     "type": "fighting",
@@ -4818,7 +4818,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gligar.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gliscor",
     "hp": 100,
     "type": "fighting",
@@ -4846,7 +4846,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gliscor.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gliscor",
     "hp": 100,
     "type": "fighting",
@@ -4874,7 +4874,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gliscor.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Hitmontop",
     "hp": 80,
     "type": "fighting",
@@ -4902,7 +4902,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Hitmontop.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Hitmontop",
     "hp": 80,
     "type": "fighting",
@@ -4930,7 +4930,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Hitmontop.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Nosepass",
     "hp": 70,
     "type": "fighting",
@@ -4960,7 +4960,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Nosepass.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Nosepass",
     "hp": 70,
     "type": "fighting",
@@ -4990,7 +4990,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Nosepass.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Regirock",
     "hp": 120,
     "type": "fighting",
@@ -5028,7 +5028,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Regirock.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Regirock",
     "hp": 120,
     "type": "fighting",
@@ -5066,7 +5066,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Regirock.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Cranidos",
     "hp": 90,
     "type": "fighting",
@@ -5094,7 +5094,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cranidos.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Cranidos",
     "hp": 90,
     "type": "fighting",
@@ -5122,7 +5122,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cranidos.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rampardos",
     "hp": 150,
     "type": "fighting",
@@ -5150,7 +5150,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rampardos.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rampardos",
     "hp": 150,
     "type": "fighting",
@@ -5178,7 +5178,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rampardos.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Wormadam",
     "hp": 120,
     "type": "fighting",
@@ -5208,7 +5208,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Wormadam.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Wormadam",
     "hp": 120,
     "type": "fighting",
@@ -5238,7 +5238,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Wormadam.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Riolu",
     "hp": 60,
     "type": "fighting",
@@ -5265,7 +5265,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Riolu.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Riolu",
     "hp": 60,
     "type": "fighting",
@@ -5292,7 +5292,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Riolu.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lucario",
     "hp": 100,
     "type": "fighting",
@@ -5327,7 +5327,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lucario.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lucario",
     "hp": 100,
     "type": "fighting",
@@ -5362,7 +5362,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lucario.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Hippopotas",
     "hp": 80,
     "type": "fighting",
@@ -5393,7 +5393,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Hippopotas.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Hippopotas",
     "hp": 80,
     "type": "fighting",
@@ -5424,7 +5424,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Hippopotas.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Hippowdon",
     "hp": 140,
     "type": "fighting",
@@ -5457,7 +5457,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Hippowdon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Hippowdon",
     "hp": 140,
     "type": "fighting",
@@ -5490,7 +5490,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Hippowdon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Galladeex",
     "hp": 170,
     "type": "fighting",
@@ -5518,7 +5518,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Galladeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Galladeex",
     "hp": 170,
     "type": "fighting",
@@ -5546,7 +5546,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Galladeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Murkrow",
     "hp": 60,
     "type": "darkness",
@@ -5573,7 +5573,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Murkrow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Murkrow",
     "hp": 60,
     "type": "darkness",
@@ -5600,7 +5600,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Murkrow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Honchkrow",
     "hp": 100,
     "type": "darkness",
@@ -5629,7 +5629,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Honchkrow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Honchkrow",
     "hp": 100,
     "type": "darkness",
@@ -5658,7 +5658,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Honchkrow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Sneasel",
     "hp": 60,
     "type": "darkness",
@@ -5685,7 +5685,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Sneasel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Sneasel",
     "hp": 60,
     "type": "darkness",
@@ -5712,7 +5712,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Sneasel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Weavileex",
     "hp": 140,
     "type": "darkness",
@@ -5739,7 +5739,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Weavileex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Weavileex",
     "hp": 140,
     "type": "darkness",
@@ -5766,7 +5766,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Weavileex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Poochyena",
     "hp": 60,
     "type": "darkness",
@@ -5793,7 +5793,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Poochyena.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Poochyena",
     "hp": 60,
     "type": "darkness",
@@ -5820,7 +5820,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Poochyena.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mightyena",
     "hp": 90,
     "type": "darkness",
@@ -5848,7 +5848,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mightyena.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mightyena",
     "hp": 90,
     "type": "darkness",
@@ -5876,7 +5876,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mightyena.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Stunky",
     "hp": 70,
     "type": "darkness",
@@ -5903,7 +5903,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Stunky.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Stunky",
     "hp": 70,
     "type": "darkness",
@@ -5930,7 +5930,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Stunky.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Skuntank",
     "hp": 100,
     "type": "darkness",
@@ -5959,7 +5959,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Skuntank.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Skuntank",
     "hp": 100,
     "type": "darkness",
@@ -5988,7 +5988,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Skuntank.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Spiritomb",
     "hp": 80,
     "type": "darkness",
@@ -6015,7 +6015,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Spiritomb.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Spiritomb",
     "hp": 80,
     "type": "darkness",
@@ -6042,7 +6042,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Spiritomb.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Skorupi",
     "hp": 70,
     "type": "darkness",
@@ -6071,7 +6071,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Skorupi.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Skorupi",
     "hp": 70,
     "type": "darkness",
@@ -6100,7 +6100,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Skorupi.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Drapion",
     "hp": 120,
     "type": "darkness",
@@ -6131,7 +6131,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Drapion.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Drapion",
     "hp": 120,
     "type": "darkness",
@@ -6162,7 +6162,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Drapion.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Croagunk",
     "hp": 60,
     "type": "darkness",
@@ -6190,7 +6190,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Croagunk.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Croagunk",
     "hp": 60,
     "type": "darkness",
@@ -6218,7 +6218,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Croagunk.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Toxicroak",
     "hp": 90,
     "type": "darkness",
@@ -6247,7 +6247,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Toxicroak.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Toxicroak",
     "hp": 90,
     "type": "darkness",
@@ -6276,7 +6276,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Toxicroak.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Darkrai",
     "hp": 110,
     "type": "darkness",
@@ -6306,7 +6306,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Darkrai.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Darkrai",
     "hp": 110,
     "type": "darkness",
@@ -6336,7 +6336,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Darkrai.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Darkraiex",
     "hp": 140,
     "type": "darkness",
@@ -6372,7 +6372,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Darkraiex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Darkraiex",
     "hp": 140,
     "type": "darkness",
@@ -6408,7 +6408,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Darkraiex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Skarmory",
     "hp": 80,
     "type": "metal",
@@ -6436,7 +6436,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Skarmory.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Skarmory",
     "hp": 80,
     "type": "metal",
@@ -6464,7 +6464,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Skarmory.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Registeel",
     "hp": 110,
     "type": "metal",
@@ -6494,7 +6494,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Registeel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Registeel",
     "hp": 110,
     "type": "metal",
@@ -6524,7 +6524,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Registeel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shieldon",
     "hp": 100,
     "type": "metal",
@@ -6553,7 +6553,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shieldon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shieldon",
     "hp": 100,
     "type": "metal",
@@ -6582,7 +6582,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shieldon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bastiodon",
     "hp": 160,
     "type": "metal",
@@ -6621,7 +6621,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bastiodon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bastiodon",
     "hp": 160,
     "type": "metal",
@@ -6660,7 +6660,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bastiodon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Wormadam",
     "hp": 110,
     "type": "metal",
@@ -6688,7 +6688,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Wormadam.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Wormadam",
     "hp": 110,
     "type": "metal",
@@ -6716,7 +6716,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Wormadam.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bronzor",
     "hp": 60,
     "type": "metal",
@@ -6744,7 +6744,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bronzor.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bronzor",
     "hp": 60,
     "type": "metal",
@@ -6772,7 +6772,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bronzor.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bronzong",
     "hp": 120,
     "type": "metal",
@@ -6803,7 +6803,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bronzong.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bronzong",
     "hp": 120,
     "type": "metal",
@@ -6834,7 +6834,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bronzong.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Probopass",
     "hp": 130,
     "type": "metal",
@@ -6867,7 +6867,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Probopass.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Probopass",
     "hp": 130,
     "type": "metal",
@@ -6900,7 +6900,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Probopass.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dialgaex",
     "hp": 150,
     "type": "metal",
@@ -6940,7 +6940,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dialgaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dialgaex",
     "hp": 150,
     "type": "metal",
@@ -6980,7 +6980,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dialgaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Heatran",
     "hp": 120,
     "type": "metal",
@@ -7011,7 +7011,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Heatran.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Heatran",
     "hp": 120,
     "type": "metal",
@@ -7042,7 +7042,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Heatran.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gible",
     "hp": 60,
     "type": "dragon",
@@ -7065,7 +7065,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gible.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gible",
     "hp": 60,
     "type": "dragon",
@@ -7088,7 +7088,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gible.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gabite",
     "hp": 90,
     "type": "dragon",
@@ -7112,7 +7112,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gabite.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gabite",
     "hp": 90,
     "type": "dragon",
@@ -7136,7 +7136,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gabite.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Garchomp",
     "hp": 140,
     "type": "dragon",
@@ -7166,7 +7166,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Garchomp.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Garchomp",
     "hp": 140,
     "type": "dragon",
@@ -7196,7 +7196,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Garchomp.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lickitung",
     "hp": 80,
     "type": "colorless",
@@ -7226,7 +7226,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lickitung.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lickitung",
     "hp": 80,
     "type": "colorless",
@@ -7256,7 +7256,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lickitung.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lickilickyex",
     "hp": 160,
     "type": "colorless",
@@ -7289,7 +7289,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lickilickyex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lickilickyex",
     "hp": 160,
     "type": "colorless",
@@ -7322,7 +7322,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lickilickyex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Eevee",
     "hp": 60,
     "type": "colorless",
@@ -7349,7 +7349,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Eevee.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Eevee",
     "hp": 60,
     "type": "colorless",
@@ -7376,7 +7376,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Eevee.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Porygon",
     "hp": 60,
     "type": "colorless",
@@ -7403,7 +7403,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Porygon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Porygon",
     "hp": 60,
     "type": "colorless",
@@ -7430,7 +7430,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Porygon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Porygon2",
     "hp": 80,
     "type": "colorless",
@@ -7457,7 +7457,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Porygon2.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Porygon2",
     "hp": 80,
     "type": "colorless",
@@ -7484,7 +7484,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Porygon2.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Porygon-Z",
     "hp": 140,
     "type": "colorless",
@@ -7514,7 +7514,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Porygon-Z.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Porygon-Z",
     "hp": 140,
     "type": "colorless",
@@ -7544,7 +7544,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Porygon-Z.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Aipom",
     "hp": 60,
     "type": "colorless",
@@ -7571,7 +7571,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Aipom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Aipom",
     "hp": 60,
     "type": "colorless",
@@ -7598,7 +7598,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Aipom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Ambipom",
     "hp": 90,
     "type": "colorless",
@@ -7625,7 +7625,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Ambipom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Ambipom",
     "hp": 90,
     "type": "colorless",
@@ -7652,7 +7652,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Ambipom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Starly",
     "hp": 50,
     "type": "colorless",
@@ -7679,7 +7679,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Starly.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Starly",
     "hp": 50,
     "type": "colorless",
@@ -7706,7 +7706,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Starly.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Staravia",
     "hp": 80,
     "type": "colorless",
@@ -7734,7 +7734,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Staravia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Staravia",
     "hp": 80,
     "type": "colorless",
@@ -7762,7 +7762,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Staravia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Staraptor",
     "hp": 140,
     "type": "colorless",
@@ -7791,7 +7791,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Staraptor.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Staraptor",
     "hp": 140,
     "type": "colorless",
@@ -7820,7 +7820,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Staraptor.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bidoof",
     "hp": 60,
     "type": "colorless",
@@ -7849,7 +7849,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bidoof.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bidoof",
     "hp": 60,
     "type": "colorless",
@@ -7878,7 +7878,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bidoof.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bibarel",
     "hp": 110,
     "type": "colorless",
@@ -7907,7 +7907,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bibarel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bibarel",
     "hp": 110,
     "type": "colorless",
@@ -7936,7 +7936,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bibarel.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Buneary",
     "hp": 60,
     "type": "colorless",
@@ -7963,7 +7963,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Buneary.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Buneary",
     "hp": 60,
     "type": "colorless",
@@ -7990,7 +7990,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Buneary.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lopunny",
     "hp": 90,
     "type": "colorless",
@@ -8017,7 +8017,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lopunny.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lopunny",
     "hp": 90,
     "type": "colorless",
@@ -8044,7 +8044,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lopunny.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Glameow",
     "hp": 60,
     "type": "colorless",
@@ -8071,7 +8071,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Glameow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Glameow",
     "hp": 60,
     "type": "colorless",
@@ -8098,7 +8098,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Glameow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Purugly",
     "hp": 110,
     "type": "colorless",
@@ -8129,7 +8129,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Purugly.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Purugly",
     "hp": 110,
     "type": "colorless",
@@ -8160,7 +8160,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Purugly.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Chatot",
     "hp": 70,
     "type": "colorless",
@@ -8187,7 +8187,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Chatot.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Chatot",
     "hp": 70,
     "type": "colorless",
@@ -8214,7 +8214,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Chatot.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "FanRotom",
     "hp": 80,
     "type": "colorless",
@@ -8242,7 +8242,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_FanRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "FanRotom",
     "hp": 80,
     "type": "colorless",
@@ -8270,7 +8270,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_FanRotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Regigigas",
     "hp": 140,
     "type": "colorless",
@@ -8303,7 +8303,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Regigigas.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Regigigas",
     "hp": 140,
     "type": "colorless",
@@ -8336,7 +8336,223 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Regigigas.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
+    "name": "Skull Fossil - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 144/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/144.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Skull_Fossil_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Skull Fossil - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 144/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/144.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Skull_Fossil_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Armor Fossil - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 145/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/145.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Armor_Fossil_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Armor Fossil - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 145/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/145.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Armor_Fossil_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Pokemon Communication - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 146/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/146.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Pokemon_Communication_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Pokemon Communication - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 146/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/146.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Pokemon_Communication_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Giant Cape - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 147/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/147.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Giant_Cape_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Giant Cape - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 147/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/147.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Giant_Cape_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Rocky Helmet - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 148/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/148.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rocky_Helmet_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Rocky Helmet - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 148/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/148.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rocky_Helmet_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Lum Berry - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 149/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/149.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lum_Berry_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Lum Berry - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 149/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/149.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lum_Berry_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Cyrus - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 150/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/150.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cyrus_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Cyrus - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 150/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/150.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cyrus_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Team Galactic Grunt - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 151/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/151.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Team_Galactic_Grunt_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Team Galactic Grunt - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 151/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/151.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Team_Galactic_Grunt_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Cynthia - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 152/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/152.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cynthia_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Cynthia - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 152/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/152.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cynthia_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Volkner - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 153/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/153.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Volkner_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Volkner - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 153/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/153.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Volkner_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Dawn - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 154/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/154.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dawn_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Dawn - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 154/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/154.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dawn_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Mars - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 155/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/155.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mars_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Mars - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 155/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/155.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mars_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
     "name": "Tangrowth",
     "hp": 130,
     "type": "grass",
@@ -8368,7 +8584,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Tangrowth.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Tangrowth",
     "hp": 130,
     "type": "grass",
@@ -8400,7 +8616,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Tangrowth.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Combee",
     "hp": 50,
     "type": "grass",
@@ -8427,7 +8643,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Combee.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Combee",
     "hp": 50,
     "type": "grass",
@@ -8454,7 +8670,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Combee.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Carnivine",
     "hp": 90,
     "type": "grass",
@@ -8483,7 +8699,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Carnivine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Carnivine",
     "hp": 90,
     "type": "grass",
@@ -8512,7 +8728,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Carnivine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shaymin",
     "hp": 60,
     "type": "grass",
@@ -8546,7 +8762,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shaymin.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shaymin",
     "hp": 60,
     "type": "grass",
@@ -8580,7 +8796,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shaymin.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mamoswine",
     "hp": 160,
     "type": "water",
@@ -8619,7 +8835,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mamoswine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mamoswine",
     "hp": 160,
     "type": "water",
@@ -8658,7 +8874,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mamoswine.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gastrodon",
     "hp": 120,
     "type": "water",
@@ -8689,7 +8905,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gastrodon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Gastrodon",
     "hp": 120,
     "type": "water",
@@ -8720,7 +8936,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Gastrodon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Manaphy",
     "hp": 50,
     "type": "water",
@@ -8747,7 +8963,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Manaphy.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Manaphy",
     "hp": 50,
     "type": "water",
@@ -8774,7 +8990,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Manaphy.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shinx",
     "hp": 60,
     "type": "electric",
@@ -8801,7 +9017,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shinx.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Shinx",
     "hp": 60,
     "type": "electric",
@@ -8828,7 +9044,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Shinx.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rotom",
     "hp": 70,
     "type": "electric",
@@ -8855,7 +9071,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rotom",
     "hp": 70,
     "type": "electric",
@@ -8882,7 +9098,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rotom.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Drifloon",
     "hp": 50,
     "type": "psychic",
@@ -8909,7 +9125,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Drifloon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Drifloon",
     "hp": 50,
     "type": "psychic",
@@ -8936,7 +9152,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Drifloon.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mesprit",
     "hp": 70,
     "type": "psychic",
@@ -8965,7 +9181,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mesprit.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mesprit",
     "hp": 70,
     "type": "psychic",
@@ -8994,7 +9210,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mesprit.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Giratina",
     "hp": 120,
     "type": "psychic",
@@ -9031,7 +9247,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Giratina.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Giratina",
     "hp": 120,
     "type": "psychic",
@@ -9068,7 +9284,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Giratina.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Cresselia",
     "hp": 110,
     "type": "psychic",
@@ -9097,7 +9313,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cresselia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Cresselia",
     "hp": 110,
     "type": "psychic",
@@ -9126,7 +9342,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cresselia.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rhyperior",
     "hp": 160,
     "type": "fighting",
@@ -9159,7 +9375,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rhyperior.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Rhyperior",
     "hp": 160,
     "type": "fighting",
@@ -9192,7 +9408,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Rhyperior.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lucario",
     "hp": 100,
     "type": "fighting",
@@ -9227,7 +9443,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lucario.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lucario",
     "hp": 100,
     "type": "fighting",
@@ -9262,7 +9478,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lucario.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Hippopotas",
     "hp": 80,
     "type": "fighting",
@@ -9293,7 +9509,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Hippopotas.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Hippopotas",
     "hp": 80,
     "type": "fighting",
@@ -9324,7 +9540,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Hippopotas.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Spiritomb",
     "hp": 80,
     "type": "darkness",
@@ -9351,7 +9567,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Spiritomb.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Spiritomb",
     "hp": 80,
     "type": "darkness",
@@ -9378,7 +9594,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Spiritomb.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Croagunk",
     "hp": 60,
     "type": "darkness",
@@ -9406,7 +9622,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Croagunk.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Croagunk",
     "hp": 60,
     "type": "darkness",
@@ -9434,7 +9650,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Croagunk.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Heatran",
     "hp": 120,
     "type": "metal",
@@ -9465,7 +9681,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Heatran.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Heatran",
     "hp": 120,
     "type": "metal",
@@ -9496,7 +9712,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Heatran.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Garchomp",
     "hp": 140,
     "type": "dragon",
@@ -9526,7 +9742,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Garchomp.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Garchomp",
     "hp": 140,
     "type": "dragon",
@@ -9556,7 +9772,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Garchomp.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Staraptor",
     "hp": 140,
     "type": "colorless",
@@ -9585,7 +9801,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Staraptor.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Staraptor",
     "hp": 140,
     "type": "colorless",
@@ -9614,7 +9830,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Staraptor.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bidoof",
     "hp": 60,
     "type": "colorless",
@@ -9643,7 +9859,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bidoof.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Bidoof",
     "hp": 60,
     "type": "colorless",
@@ -9672,7 +9888,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Bidoof.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Glameow",
     "hp": 60,
     "type": "colorless",
@@ -9699,7 +9915,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Glameow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Glameow",
     "hp": 60,
     "type": "colorless",
@@ -9726,7 +9942,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Glameow.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Regigigas",
     "hp": 140,
     "type": "colorless",
@@ -9759,7 +9975,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Regigigas.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Regigigas",
     "hp": 140,
     "type": "colorless",
@@ -9792,7 +10008,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Regigigas.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Yanmegaex",
     "hp": 140,
     "type": "grass",
@@ -9821,7 +10037,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Yanmegaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Yanmegaex",
     "hp": 140,
     "type": "grass",
@@ -9850,7 +10066,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Yanmegaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Infernapeex",
     "hp": 170,
     "type": "fire",
@@ -9876,7 +10092,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Infernapeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Infernapeex",
     "hp": 170,
     "type": "fire",
@@ -9902,7 +10118,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Infernapeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Palkiaex",
     "hp": 150,
     "type": "water",
@@ -9941,7 +10157,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Palkiaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Palkiaex",
     "hp": 150,
     "type": "water",
@@ -9980,7 +10196,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Palkiaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Pachirisuex",
     "hp": 120,
     "type": "electric",
@@ -10008,7 +10224,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Pachirisuex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Pachirisuex",
     "hp": 120,
     "type": "electric",
@@ -10036,7 +10252,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Pachirisuex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mismagiusex",
     "hp": 140,
     "type": "psychic",
@@ -10064,7 +10280,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mismagiusex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mismagiusex",
     "hp": 140,
     "type": "psychic",
@@ -10092,7 +10308,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mismagiusex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Galladeex",
     "hp": 170,
     "type": "fighting",
@@ -10120,7 +10336,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Galladeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Galladeex",
     "hp": 170,
     "type": "fighting",
@@ -10148,7 +10364,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Galladeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Weavileex",
     "hp": 140,
     "type": "darkness",
@@ -10175,7 +10391,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Weavileex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Weavileex",
     "hp": 140,
     "type": "darkness",
@@ -10202,7 +10418,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Weavileex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Darkraiex",
     "hp": 140,
     "type": "darkness",
@@ -10238,7 +10454,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Darkraiex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Darkraiex",
     "hp": 140,
     "type": "darkness",
@@ -10274,7 +10490,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Darkraiex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dialgaex",
     "hp": 150,
     "type": "metal",
@@ -10314,7 +10530,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dialgaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dialgaex",
     "hp": 150,
     "type": "metal",
@@ -10354,7 +10570,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dialgaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lickilickyex",
     "hp": 160,
     "type": "colorless",
@@ -10387,7 +10603,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lickilickyex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lickilickyex",
     "hp": 160,
     "type": "colorless",
@@ -10420,7 +10636,115 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lickilickyex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
+    "name": "Cyrus - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 190/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/190.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cyrus_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Cyrus - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 190/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/190.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cyrus_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Team Galactic Grunt - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 191/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/191.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Team_Galactic_Grunt_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Team Galactic Grunt - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 191/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/191.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Team_Galactic_Grunt_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Cynthia - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 192/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/192.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cynthia_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Cynthia - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 192/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/192.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Cynthia_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Volkner - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 193/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/193.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Volkner_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Volkner - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 193/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/193.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Volkner_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Dawn - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 194/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/194.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dawn_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Dawn - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 194/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/194.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dawn_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Mars - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 195/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/195.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mars_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
+    "name": "Mars - Pok",
+    "moves": [],
+    "set_number": "Space Timesmackdown 195/155",
+    "image_url": "/tcgpocket/th/space-timesmackdown/195.jpg",
+    "available_booster_packs": "Space Timesmackdown",
+    "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mars_-_Pok.jpg"
+  },
+  {
+    "set_name": "space-timesmackdown",
     "name": "Yanmegaex",
     "hp": 140,
     "type": "grass",
@@ -10449,7 +10773,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Yanmegaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Yanmegaex",
     "hp": 140,
     "type": "grass",
@@ -10478,7 +10802,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Yanmegaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Infernapeex",
     "hp": 170,
     "type": "fire",
@@ -10504,7 +10828,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Infernapeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Infernapeex",
     "hp": 170,
     "type": "fire",
@@ -10530,7 +10854,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Infernapeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Pachirisuex",
     "hp": 120,
     "type": "electric",
@@ -10558,7 +10882,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Pachirisuex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Pachirisuex",
     "hp": 120,
     "type": "electric",
@@ -10586,7 +10910,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Pachirisuex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mismagiusex",
     "hp": 140,
     "type": "psychic",
@@ -10614,7 +10938,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mismagiusex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Mismagiusex",
     "hp": 140,
     "type": "psychic",
@@ -10642,7 +10966,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Mismagiusex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Galladeex",
     "hp": 170,
     "type": "fighting",
@@ -10670,7 +10994,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Galladeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Galladeex",
     "hp": 170,
     "type": "fighting",
@@ -10698,7 +11022,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Galladeex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Weavileex",
     "hp": 140,
     "type": "darkness",
@@ -10725,7 +11049,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Weavileex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Weavileex",
     "hp": 140,
     "type": "darkness",
@@ -10752,7 +11076,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Weavileex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Darkraiex",
     "hp": 140,
     "type": "darkness",
@@ -10788,7 +11112,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Darkraiex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Darkraiex",
     "hp": 140,
     "type": "darkness",
@@ -10824,7 +11148,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Darkraiex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lickilickyex",
     "hp": 160,
     "type": "colorless",
@@ -10857,7 +11181,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lickilickyex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Lickilickyex",
     "hp": 160,
     "type": "colorless",
@@ -10890,7 +11214,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Lickilickyex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Palkiaex",
     "hp": 150,
     "type": "water",
@@ -10929,7 +11253,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Palkiaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Palkiaex",
     "hp": 150,
     "type": "water",
@@ -10968,7 +11292,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Palkiaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dialgaex",
     "hp": 150,
     "type": "metal",
@@ -11008,7 +11332,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dialgaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dialgaex",
     "hp": 150,
     "type": "metal",
@@ -11048,7 +11372,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dialgaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Palkiaex",
     "hp": 150,
     "type": "water",
@@ -11087,7 +11411,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Palkiaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Palkiaex",
     "hp": 150,
     "type": "water",
@@ -11126,7 +11450,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Palkiaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dialgaex",
     "hp": 150,
     "type": "metal",
@@ -11166,7 +11490,7 @@
     "local_image_path": "src/db/pokemon_cards/space-timesmackdown/space-timesmackdown_Dialgaex.jpg"
   },
   {
-    "set_name": "Space Timesmackdown",
+    "set_name": "space-timesmackdown",
     "name": "Dialgaex",
     "hp": 150,
     "type": "metal",

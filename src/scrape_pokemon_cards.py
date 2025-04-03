@@ -174,7 +174,7 @@ class PokemonCardScraper:
         card_data = {}
         
         # Set information (from the class's set name)
-        card_data['set_name'] = self.display_set_name
+        card_data['set_name'] = self.set_name
         
         # Find the card info table
         card_info_td = soup.find('td', class_='cardinfo')
@@ -184,50 +184,84 @@ class PokemonCardScraper:
         
         # Extract card name - look for the main title which includes both name and potential "ex" suffix
         try:
-            # Find the card name from the table's title
-            first_row = card_info_td.find('tr')
-            if first_row:
-                card_name_cell = first_row.find('td', class_='main')
-                if card_name_cell:
-                    # Get the full card name text, which might include "ex"
-                    card_name_text = card_name_cell.get_text(strip=True)
-                    card_data['name'] = card_name_text
-                else:
-                    # Fallback to just the Pokémon name in the font tag if we can't get the full text
-                    name_td = card_info_td.find('td', class_='main')
-                    if name_td and name_td.find('font'):
-                        card_data['name'] = name_td.find('font').get_text(strip=True)
+            # Find the card name from the page URL or card number
+            # Serebii cards follow a pattern where the URL is pokemon name, not set name
+            current_url = soup.find('link', rel='canonical')['href'] if soup.find('link', rel='canonical') else ""
+            card_number_match = re.search(r'/(\d+)\.shtml$', current_url)
             
-            # Check the title elements for "ex" suffix if not found in name already
-            card_title_td = soup.find('td', string=lambda text: text and 'ex' in text)
-            if card_title_td and 'ex' not in card_data.get('name', '').lower():
-                # Extract the name including "ex" suffix from the title
-                title_text = card_title_td.get_text(strip=True)
-                if 'ex' in title_text.lower():
-                    card_data['name'] = title_text
+            # Extract Pokémon name from the main heading
+            card_title = None
+            
+            # Try to get the Pokémon name from the title section - this is reliable for most cards
+            h1_title = soup.find('h1')
+            if h1_title:
+                h1_text = h1_title.get_text(strip=True)
+                # Extract pattern like "#172 Zubat" from the heading
+                card_name_match = re.search(r'#\d+\s+([A-Za-z\s\-\']+)', h1_text)
+                if card_name_match:
+                    card_title = card_name_match.group(1).strip()
+            
+            # If we didn't get a name from H1, try the first table row
+            if not card_title:
+                first_row = card_info_td.find('tr')
+                if first_row:
+                    card_name_cell = first_row.find('td', class_='main')
+                    if card_name_cell:
+                        # Check if the text contains the set name - that would be wrong
+                        cell_text = card_name_cell.get_text(strip=True)
+                        if cell_text != self.display_set_name:
+                            card_title = cell_text
+            
+            # If we found a card title, use it
+            if card_title:
+                card_data['name'] = card_title
+            else:
+                # Default to using the text in the card_name_cell, but double-check it's not the set name
+                name_td = card_info_td.find('td', class_='main')
+                if name_td:
+                    potential_name = name_td.get_text(strip=True)
+                    # Only use if it's not the set name
+                    if potential_name != self.display_set_name:
+                        card_data['name'] = potential_name
+                    # If it is the set name, we need to extract the real name from somewhere else
+                    else:
+                        # Try to get the real Pokémon name from the title tag or other parts of the page
+                        title_tag = soup.find('title')
+                        if title_tag:
+                            title_text = title_tag.get_text(strip=True)
+                            # Title format: "Genetic Apex - #172 Zubat | Serebii.net TCG Cards"
+                            name_match = re.search(r'#\d+\s+([A-Za-z\s\-\']+)', title_text)
+                            if name_match:
+                                card_data['name'] = name_match.group(1).strip()
+                
+            # Check if name is missing or is the same as set name (common error)
+            if 'name' not in card_data or card_data['name'] == self.display_set_name:
+                # Look at the URL path to get the card number
+                if card_number_match:
+                    card_number = card_number_match.group(1)
+                    # Try to extract from title or other parts of the page
+                    title_tag = soup.find('title')
+                    if title_tag:
+                        title_text = title_tag.get_text(strip=True)
+                        # Title format: "Genetic Apex - #172 Zubat | Serebii.net TCG Cards"
+                        name_match = re.search(r'#\d+\s+([A-Za-z\s\-\']+)', title_text)
+                        if name_match:
+                            card_data['name'] = name_match.group(1).strip()
+                        else:
+                            # If we can't find it, just mark it as "Unknown Pokémon #X"
+                            card_data['name'] = f"Unknown Pokemon {card_number}"
+            
+            # Check for "ex" suffix which might be found separately
+            if 'name' in card_data and 'ex' not in card_data['name'].lower():
+                ex_text = soup.find(string=lambda text: text and text.strip().lower() == 'ex')
+                if ex_text:
+                    card_data['name'] += " ex"
                     
-            # Also check the first table row which often has the full card name with "ex"
-            if first_row and 'ex' not in card_data.get('name', '').lower():
-                row_text = first_row.get_text(strip=True)
-                name_with_ex_match = re.search(r'([A-Za-z\-\s]+ex)', row_text)
-                if name_with_ex_match:
-                    card_data['name'] = name_with_ex_match.group(1).strip()
         except Exception as e:
             print(f"Error extracting card name: {e}")
-            # Fallback to basic extraction
-            name_td = card_info_td.find('td', class_='main')
-            if name_td and name_td.find('font'):
-                card_data['name'] = name_td.find('font').get_text(strip=True)
-        
-        # Also check the page title or H1 which often has the full card name with suffix
-        if 'ex' not in card_data.get('name', '').lower():
-            # Look for the card name in the page title
-            title_element = soup.find('title')
-            if title_element:
-                title_text = title_element.get_text()
-                name_with_ex_match = re.search(r'([A-Za-z\-\s]+ex)', title_text)
-                if name_with_ex_match:
-                    card_data['name'] = name_with_ex_match.group(1).strip()
+            # In case of error, set a fallback name
+            if 'name' not in card_data:
+                card_data['name'] = "Unknown Card"
         
         # Extract HP and type
         hp_td = card_info_td.find('td', align='right')
