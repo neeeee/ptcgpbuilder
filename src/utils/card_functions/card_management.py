@@ -124,10 +124,7 @@ class CardManagement:
             params = []
             
             # Apply set filter if provided and not empty
-            # Make sure we're not passing a Select.BLANK object
-            if (self.current_filters.get("set") and 
-                self.current_filters["set"] != "" and 
-                str(self.current_filters["set"]) != "Select.BLANK"):
+            if self.current_filters.get("set") and self.current_filters["set"] != "":
                 query += " AND set_name = ?"
                 params.append(self.current_filters["set"])
             
@@ -142,11 +139,8 @@ class CardManagement:
             elif self.current_filters.get("category") == "trainer":
                 query += " AND type LIKE 'Trainer%'"
             
-            # Apply Pokémon type filter (new)
-            # Make sure we're not passing a Select.BLANK object
-            if (self.current_filters.get("pokemon_type") and 
-                self.current_filters["pokemon_type"] != "all" and
-                str(self.current_filters["pokemon_type"]) != "Select.BLANK"):
+            # Apply Pokémon type filter
+            if self.current_filters.get("pokemon_type") and self.current_filters["pokemon_type"] != "all":
                 query += " AND type LIKE ?"
                 params.append(f"%{self.current_filters['pokemon_type']}%")
             
@@ -188,15 +182,15 @@ class CardManagement:
             # Create the options for the dropdown
             options = [(set_name[0], set_name[0]) for set_name in sets]
             
-            # Add a blank option for "All sets"
+            # Add an "All Sets" option as the first option - use empty string instead of None
             all_option = ("", "All Sets")
             options.insert(0, all_option)
             
             # Set the options on the Select widget
+            set_filter.clear()
             set_filter.set_options(options)
             
-            # Try to set the value to the first option after a short delay
-            # In this version, we'll just let the default empty value work
+            # The first option (All Sets) will be selected automatically
             
         except Exception as e:
             self.app.notify(f"Error populating set filter: {str(e)}", severity="error")
@@ -217,14 +211,14 @@ class CardManagement:
             elif self.app.query_one("#category-trainer").value:
                 category_value = "trainer"
             
-            # Handle possible NoSelection cases and Select.BLANK
-            # Convert the actual Select.BLANK object to an empty string
+            # Handle set filter value - empty string means "All Sets"
             set_value = ""
-            if set_filter.value is not None and str(set_filter.value) != "Select.BLANK":
+            if set_filter.value is not None and set_filter.value != "":
                 set_value = set_filter.value
                 
+            # Handle type filter value
             type_value = "all"
-            if type_filter.value is not None and str(type_filter.value) != "Select.BLANK":
+            if type_filter.value is not None:
                 type_value = type_filter.value
             
             # Set the filters
@@ -249,10 +243,21 @@ class CardManagement:
             set_filter = self.app.query_one("#set-filter", Select)
             type_filter = self.app.query_one("#type-filter", Select)
             
-            set_filter.value = ""
+            # Reset name input and category
             self.app.query_one("#name-filter").value = ""
             self.app.query_one("#category-all").value = True
-            type_filter.value = "all"
+            
+            # Reset Pokemon type filter - use try/except since has_option() doesn't exist
+            try:
+                type_filter.value = "all"  # Try setting to "all" directly
+            except Exception:
+                type_filter.clear()  # If that fails, just clear it
+            
+            # Reset set filter - use try/except since has_option() doesn't exist
+            try:
+                set_filter.value = ""  # Try setting to empty string directly
+            except Exception:
+                set_filter.clear()  # If that fails, just clear it
             
             # Reset filters and repopulate
             self.current_filters = {
