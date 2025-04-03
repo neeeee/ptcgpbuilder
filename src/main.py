@@ -8,6 +8,10 @@ from textual.widgets import (
     TabPane,
     ListView,
     Label,
+    Button,
+    Input,
+    Select,
+    RadioSet,
 )
 from textual.binding import Binding
 import sqlite3
@@ -108,6 +112,24 @@ class PokemonTCGApp(App):
     @on(TabbedContent.TabActivated, "#tabs", pane="#builder")
     def update_builder_view_cards_list(self) -> None:
         self.card_management.populate_cards_list()
+        # Populate the set filter dropdown
+        self.card_management.populate_set_filter()
+
+    @on(Button.Pressed, '#apply-filters')
+    def on_apply_filters(self) -> None:
+        """Apply the selected filters to the card list"""
+        self.card_management.apply_filters()
+        
+    @on(Button.Pressed, '#clear-filters')
+    def on_clear_filters(self) -> None:
+        """Clear all filters and reset to default view"""
+        self.card_management.clear_filters()
+        
+    @on(Input.Changed, '#name-filter')
+    def on_name_filter_changed(self, event: Input.Changed) -> None:
+        """Auto-apply filter when name input changes"""
+        # We could apply filters immediately here, but we'll let user press Apply button
+        pass
 
     @on(ListView.Highlighted, '#builder-cards-list')
     def builder_cards_list_highlighted(self, event: ListView.Highlighted) -> None:

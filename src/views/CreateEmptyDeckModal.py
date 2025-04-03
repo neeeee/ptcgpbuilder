@@ -51,7 +51,7 @@ class CreateEmptyDeckModal(ModalScreen):
             ),
             Button(btn_text, id="submit-btn", variant="primary"),
             Button("Cancel", id="cancel-btn"),
-            id="deck-modal",
+            id="modal-container",
         )
     
     def on_button_pressed(self, event) -> None:

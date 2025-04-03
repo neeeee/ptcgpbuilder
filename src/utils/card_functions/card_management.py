@@ -1,6 +1,6 @@
 import sqlite3
 import os
-from textual.widgets import Static, ListView, ListItem, Label
+from textual.widgets import Static, ListView, ListItem, Label, Select
 from time import time_ns
 from views.PokemonCard import *
 import json
@@ -10,6 +10,12 @@ class CardManagement:
         self.db_conn = db
         self.cursor = cursor
         self.app = app
+        self.current_filters = {
+            "set": "",
+            "name": "",
+            "category": "all",
+            "pokemon_type": "all"
+        }
 
     def add_card_to_deck(self, card_id, deck_id, deck_name, card_name) -> None:
         try:
@@ -99,20 +105,57 @@ class CardManagement:
         except Exception:
             raise
 
-    def populate_cards_list(self) -> None:
+    def populate_cards_list(self, filters=None) -> None:
+        """Populate the cards list, with optional filtering"""
         try:
             cards_list = self.app.query_one("#builder-cards-list")
             cards_list.remove_children()
 
+            if filters:
+                self.current_filters = filters
+            
+            # Start building the query
             query = """SELECT
-                        id, name, set_name, image_path
+                        id, name, set_name, image_path, type
                     FROM
                         cards
-                    ORDER BY
-                        set_name, name;
+                    WHERE 1=1
                     """
-            cards = self.cursor.execute(query).fetchall()
-
+            params = []
+            
+            # Apply set filter if provided and not empty
+            # Make sure we're not passing a Select.BLANK object
+            if (self.current_filters.get("set") and 
+                self.current_filters["set"] != "" and 
+                str(self.current_filters["set"]) != "Select.BLANK"):
+                query += " AND set_name = ?"
+                params.append(self.current_filters["set"])
+            
+            # Apply name filter if provided
+            if self.current_filters.get("name"):
+                query += " AND name LIKE ?"
+                params.append(f"%{self.current_filters['name']}%")
+            
+            # Apply category filter (formerly type filter)
+            if self.current_filters.get("category") == "pokemon":
+                query += " AND type NOT LIKE 'Trainer%'"
+            elif self.current_filters.get("category") == "trainer":
+                query += " AND type LIKE 'Trainer%'"
+            
+            # Apply Pokémon type filter (new)
+            # Make sure we're not passing a Select.BLANK object
+            if (self.current_filters.get("pokemon_type") and 
+                self.current_filters["pokemon_type"] != "all" and
+                str(self.current_filters["pokemon_type"]) != "Select.BLANK"):
+                query += " AND type LIKE ?"
+                params.append(f"%{self.current_filters['pokemon_type']}%")
+            
+            # Add sorting
+            query += " ORDER BY set_name, name"
+            
+            # Execute query
+            cards = self.cursor.execute(query, params).fetchall()
+            
             for card in cards:
                 unique_id = f"card-list-{card[0]}-{time_ns()}"
                 # Format the display text with set name
@@ -123,9 +166,105 @@ class CardManagement:
                 )
                 setattr(item, "card_id", card[0])
                 cards_list.mount(item)
+                
+            # Update status message with count of cards found
+            self.app.query_one("#status-message", Label).update(
+                f"Found {len(cards)} cards matching your filters"
+            )
 
         except Exception as e:
             self.app.notify(f"Error populating card list: {str(e)}", severity="error")
+            raise
+            
+    def populate_set_filter(self) -> None:
+        """Populate the set filter dropdown with available sets"""
+        try:
+            set_filter = self.app.query_one("#set-filter", Select)
+            
+            # Get all unique set names from the database
+            query = "SELECT DISTINCT set_name FROM cards ORDER BY set_name"
+            sets = self.cursor.execute(query).fetchall()
+            
+            # Create the options for the dropdown
+            options = [(set_name[0], set_name[0]) for set_name in sets]
+            
+            # Add a blank option for "All sets"
+            all_option = ("", "All Sets")
+            options.insert(0, all_option)
+            
+            # Set the options on the Select widget
+            set_filter.set_options(options)
+            
+            # Try to set the value to the first option after a short delay
+            # In this version, we'll just let the default empty value work
+            
+        except Exception as e:
+            self.app.notify(f"Error populating set filter: {str(e)}", severity="error")
+            raise
+            
+    def apply_filters(self) -> None:
+        """Apply the current filters to the card list"""
+        try:
+            # Get values from filter controls
+            set_filter = self.app.query_one("#set-filter", Select)
+            name_filter = self.app.query_one("#name-filter")
+            type_filter = self.app.query_one("#type-filter", Select)
+            
+            # Determine which category radio button is selected
+            category_value = "all"
+            if self.app.query_one("#category-pokemon").value:
+                category_value = "pokemon"
+            elif self.app.query_one("#category-trainer").value:
+                category_value = "trainer"
+            
+            # Handle possible NoSelection cases and Select.BLANK
+            # Convert the actual Select.BLANK object to an empty string
+            set_value = ""
+            if set_filter.value is not None and str(set_filter.value) != "Select.BLANK":
+                set_value = set_filter.value
+                
+            type_value = "all"
+            if type_filter.value is not None and str(type_filter.value) != "Select.BLANK":
+                type_value = type_filter.value
+            
+            # Set the filters
+            filters = {
+                "set": set_value,
+                "name": name_filter.value,
+                "category": category_value,
+                "pokemon_type": type_value
+            }
+            
+            # Apply the filters
+            self.populate_cards_list(filters)
+            
+        except Exception as e:
+            self.app.notify(f"Error applying filters: {str(e)}", severity="error")
+            raise
+            
+    def clear_filters(self) -> None:
+        """Clear all filters and reset to default view"""
+        try:
+            # Reset filter controls
+            set_filter = self.app.query_one("#set-filter", Select)
+            type_filter = self.app.query_one("#type-filter", Select)
+            
+            set_filter.value = ""
+            self.app.query_one("#name-filter").value = ""
+            self.app.query_one("#category-all").value = True
+            type_filter.value = "all"
+            
+            # Reset filters and repopulate
+            self.current_filters = {
+                "set": "",
+                "name": "",
+                "category": "all",
+                "pokemon_type": "all"
+            }
+            self.populate_cards_list()
+            
+        except Exception as e:
+            self.app.notify(f"Error clearing filters: {str(e)}", severity="error")
             raise
 
     def populate_decks_cards_list(self, event) -> None:

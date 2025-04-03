@@ -18,17 +18,19 @@ Tabs {
 }
 
 #deck-builder-popup {
-  align: center middle;
-  width: 50%;
-  height: 50%;
-  border: thick $background 80%;
-  background: $surface;
+    align: center middle;
+    width: 50%;
+    height: 50%;
+    border: thick $background 80%;
 }
 
 ListView {
     width: 100%;
     height: 1fr;
-    border: solid green;
+}
+
+Button {
+    height: 3;
 }
 
 #card-list {
@@ -40,13 +42,88 @@ ListView {
     dock: bottom;
 }
 
+#builder-container {
+    layout: grid;
+    grid-size: 2 2;
+    grid-columns: 1fr 1fr;
+    grid-rows: 30vh 70vh;
+}
+
+#builder-card-stats-title, #builder-cards-title, #builder-card-image-title {
+    text-align: center;
+    text-style: bold;
+    margin-bottom: 1;
+}
+
+#builder-card-stats {
+    text-align: left;
+    margin-bottom: 1;
+}
+
+#filter-controls {
+    margin-bottom: 1;
+    border: solid red;
+}
+
+#column-1 {
+    row-span: 2;
+}
+
+#column-2 {
+    row-span: 2;
+}
+
+#filter-grid {
+    layout: grid;
+    grid-size: 4 4;
+    grid-columns: auto 1fr 1fr 1fr;
+    align: center middle;
+}
+
+#filter-title {
+    text-align: center;
+    text-style: bold;
+}
+
+#set-filter {
+    margin-right: 1;
+    width: 90%;
+}
+
+#name-filter {
+    margin-right: 1;
+    width: 90%;
+}
+
+#category-filter {
+    margin-right: 1;
+}
+
+#type-filter {
+    margin-right: 1;
+    width: 90%;
+}
+
+#apply-filters {
+    margin-right: 1;
+    margin-left: 1;
+}
+
+#builder-cards-list {
+    width: 1fr;
+    height: 2fr;
+}
+
+#card-image-builder-view {
+    width: 1fr;
+}
+
+/* Modal styling */
 #modal-container {
     width: 60%;
     height: auto;
     padding: 1 2;
-    background: $surface;
     border: thick $primary;
-    color: $text;
 }
 
 #modal-title {
