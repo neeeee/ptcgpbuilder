@@ -1,4 +1,4 @@
-from textual import on
+from textual import on, work
 from textual.app import App, ComposeResult
 from textual.containers import Container
 from textual.widgets import (
@@ -77,7 +77,26 @@ class PokemonTCGApp(App):
         self.push_screen(AddToDeckModal(self.current_card_id, self.current_deck_id, self.db_conn))
 
     def action_delete_deck(self) -> None:
-        self.card_management.delete_deck(self.current_deck_id)
+        """Delete the currently highlighted deck."""
+        deck_selector = self.query_one("#decks-deck-selector")
+        
+        # Use highlighted_child to get the currently highlighted item
+        highlighted_item = deck_selector.highlighted_child
+        
+        if not highlighted_item:
+            self.notify("No deck selected to delete.", severity="warning")
+            return
+        
+        deck_id_to_delete = getattr(highlighted_item, "deck_id", None)
+        
+        if deck_id_to_delete is None:
+            self.notify("Could not find ID for the selected deck.", severity="error")
+            return
+            
+        # Call the delete function with the correct ID
+        self.card_management.delete_deck(deck_id_to_delete)
+        # Refresh the deck list after deletion
+        self.card_management.populate_decks_list()
 
     def action_remove_from_deck(self) -> None:
         self.card_management.remove_from_deck(self.current_deck_id, self.current_card_id)
@@ -108,6 +127,8 @@ class PokemonTCGApp(App):
     @on(TabbedContent.TabActivated, "#tabs", pane="#decks")
     def update_deck_view_decks_list(self) -> None:
         self.card_management.populate_decks_list()
+        # Correctly schedule the focus call
+        self.call_later(lambda: self.query_one("#decks-deck-selector").focus())
 
     @on(TabbedContent.TabActivated, "#tabs", pane="#builder")
     def update_builder_view_cards_list(self) -> None:
@@ -137,11 +158,18 @@ class PokemonTCGApp(App):
  
     @on(ListView.Highlighted, '#decks-deck-selector')
     def decks_deck_selector_highlighted(self, event: ListView.Highlighted) -> None:
-        self.card_management.populate_decks_cards_list(event)
+        try:
+            deck_id = getattr(event.item, "deck_id", None)
+            # Store the current deck ID
+            self.current_deck_id = deck_id
+            # Call the function to populate the cards list for this deck
+            self.card_management.populate_decks_cards_list(event)
+        except Exception as e:
+            self.notify(f"Error in deck highlight handler: {str(e)}", severity="error")
 
     @on(ListView.Highlighted, '#decks-cards-list')
     def decks_cards_list_highlighted(self, event: ListView.Highlighted) -> None:
-        self.card_management.show_decks_cards_list_info(event)
+        self.card_management.display_card_details(event)
 
     @on(AddToDeckModal.DeckSelected)
     def on_deck_selected_from_modal(self, event: AddToDeckModal.DeckSelected) -> None:
@@ -171,11 +199,41 @@ class PokemonTCGApp(App):
 
     def on_mount(self) -> None:
         try:
+            # Ensure initial data is loaded
+            self.card_management.populate_set_filter()
             self.card_management.populate_cards_list()
             self.card_management.populate_decks_list()
-        except Exception:
+            
+            # Explicitly activate the Decks tab
+            tabs = self.get_child_by_type(TabbedContent)
+            tabs.active = "decks"
+            
+            # Schedule focus and selection
+            self.call_later(lambda: self.set_initial_deck_focus())
+            
+        except Exception as e:
+            self.notify(f"Error in on_mount: {str(e)}", severity="error")
             raise
- 
+            
+    def set_initial_deck_focus(self) -> None:
+        """Helper method to set focus and selection for decks list when app starts"""
+        try:
+            decks_list = self.query_one("#decks-deck-selector")
+            decks_list.focus()
+            
+            # Check if there are any decks to select
+            if len(decks_list.children) > 0:
+                # Explicitly set index to 0 and trigger selection
+                decks_list.index = 0
+                # Manually trigger the highlighted event
+                if hasattr(decks_list, "highlighted_child") and decks_list.highlighted_child:
+                    self.notify("Setting initial deck selection")
+                    self.card_management.populate_decks_cards_list(
+                        ListView.Highlighted(decks_list, item=decks_list.highlighted_child)
+                    )
+        except Exception as e:
+            self.notify(f"Error in initial deck focus: {str(e)}", severity="error")
+
     def on_unmount(self) -> None:
         if self.db_conn:
             self.db_conn.close()

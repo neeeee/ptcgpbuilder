@@ -14,7 +14,10 @@ class PokemonCard:
                  image_path = None,
                  moves = None,
                  weakness = None,
-                 retreat_cost = None):
+                 retreat_cost = None,
+                 card_type = None,
+                 description = None,
+                 rule_text = None):
         self.id = id
         self.name = name
         self.set_name = set_name
@@ -24,6 +27,9 @@ class PokemonCard:
         self.moves = moves
         self.weakness = weakness
         self.retreat_cost = retreat_cost
+        self.card_type = card_type
+        self.description = description
+        self.rule_text = rule_text
 
 class CardImage(Static):
     def __init__(self, image_path: str | None = None, *args, **kwargs):

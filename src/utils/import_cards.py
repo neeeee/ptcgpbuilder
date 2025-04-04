@@ -6,66 +6,54 @@ from pathlib import Path
 import sys
 
 def import_cards_from_json(json_file: str, db_path: str, force_recreate: bool = False) -> None:
-    """Import cards from JSON file into the database
-    
-    Args:
-        json_file: Path to the JSON file with card data
-        db_path: Path to the SQLite database
-        force_recreate: If True, recreate the table (only use if necessary)
-    """
+    """Import Pokemon cards from a JSON file to a SQLite database"""
     try:
-        # Read JSON file
+        # Load the cards from the JSON file
         with open(json_file, 'r', encoding='utf-8') as f:
             cards = json.load(f)
-
-        # Connect to database
+        
+        # Connect to the database
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
-
-        # Check if the table exists
-        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='cards'")
-        table_exists = cursor.fetchone() is not None
-
-        if force_recreate:
-            if table_exists:
-                print("Warning: Dropping existing cards table due to --force flag")
-                cursor.execute("DROP TABLE IF EXISTS cards")
-                table_exists = False
         
         # Create the table if it doesn't exist
-        if not table_exists:
-            print("Creating cards table with the required schema")
-            cursor.execute("""
-            CREATE TABLE cards (
-                id INTEGER PRIMARY KEY,
-                name TEXT NOT NULL,
-                set_name TEXT NOT NULL,
-                set_number TEXT,
-                hp INTEGER,
-                type TEXT,
-                image_path TEXT,
-                weakness TEXT,
-                retreat_cost TEXT,
-                weakness_damage TEXT,
-                available_booster_packs TEXT,
-                moves TEXT
-            )
-            """)
+        if force_recreate:
+            print("Dropping existing cards table...")
+            cursor.execute("DROP TABLE IF EXISTS cards")
             
-            # Create a unique index on name + set_name to prevent duplicates
-            cursor.execute("""
-            CREATE UNIQUE INDEX idx_cards_name_set ON cards(name, set_name)
-            """)
-        else:
-            print(f"Using existing cards table")
+        # Create the table with updated schema for Trainer and Tool cards
+        cursor.execute("""
+        CREATE TABLE IF NOT EXISTS cards (
+            id INTEGER PRIMARY KEY,
+            name TEXT NOT NULL,
+            set_name TEXT NOT NULL,
+            set_number TEXT,
+            hp INTEGER,
+            type TEXT,
+            image_path TEXT,
+            weakness TEXT,
+            retreat_cost TEXT,
+            weakness_damage TEXT,
+            available_booster_packs TEXT,
+            moves TEXT,
+            card_type TEXT,
+            description TEXT,
+            rule_text TEXT
+        )
+        """)
+        
+        # Create a unique index on name + set_name to prevent duplicates
+        cursor.execute("""
+        CREATE UNIQUE INDEX IF NOT EXISTS idx_cards_name_set ON cards(name, set_name)
+        """)
 
         # Prepare the insert statement with OR IGNORE to skip duplicates
         insert_stmt = """
         INSERT OR IGNORE INTO cards (
             name, set_name, set_number, hp, type, image_path, 
             weakness, retreat_cost, weakness_damage, 
-            available_booster_packs, moves
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            available_booster_packs, moves, card_type, description, rule_text
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """
 
         # Insert each card
@@ -92,7 +80,10 @@ def import_cards_from_json(json_file: str, db_path: str, force_recreate: bool = 
                     retreat_cost_json,
                     card.get('weakness_damage'),
                     card.get('available_booster_packs', ''),
-                    moves_json
+                    moves_json,
+                    card.get('card_type', ''),
+                    card.get('description', ''),
+                    card.get('rule_text', '')
                 ))
                 if cursor.rowcount > 0:
                     card_count += 1

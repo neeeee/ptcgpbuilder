@@ -19,6 +19,22 @@ class CardManagement:
 
     def add_card_to_deck(self, card_id, deck_id, deck_name, card_name) -> None:
         try:
+            # Check total deck size limit
+            self.cursor.execute("SELECT SUM(count) FROM deck_cards WHERE deck_id = ?", (deck_id,))
+            total_cards = self.cursor.fetchone()[0] or 0
+            if total_cards >= 20:
+                self.app.notify(f"Deck '{deck_name}' is full (20 cards max). Cannot add {card_name}.", severity="warning")
+                return
+
+            # Check specific card count limit
+            self.cursor.execute("SELECT count FROM deck_cards WHERE deck_id = ? AND card_id = ?", (deck_id, card_id))
+            card_count_row = self.cursor.fetchone()
+            card_count = card_count_row[0] if card_count_row else 0
+            if card_count >= 2:
+                self.app.notify(f"Deck '{deck_name}' already has 2 copies of {card_name}. Cannot add more.", severity="warning")
+                return
+
+            # Proceed with adding the card if limits are not exceeded
             self.cursor.execute("""
                 INSERT INTO deck_cards (deck_id, card_id, count)
                 VALUES (?, ?, 1)
@@ -28,7 +44,7 @@ class CardManagement:
             self.app.notify(f"Added {card_name} to {deck_name}")
 
         except sqlite3.Error as e:
-            error_msg = f"Error: {str(e)}"
+            error_msg = f"Error adding card to deck: {str(e)}"
             self.app.query_one("#status-message", Label).update(error_msg)
             self.app.notify(f"Database error: {str(e)}", severity="error")
             self.db_conn.rollback()
@@ -86,37 +102,54 @@ class CardManagement:
         try:
             decks_list = self.app.query_one("#decks-deck-selector")
             deck_cards = self.app.query_one("#decks-cards-list")
-
-            decks_list.remove_children()
-            deck_cards.remove_children()
+            
+            # First clear both lists
+            decks_list.clear()
+            deck_cards.clear()
 
             decks_query = "SELECT decks.id, decks.name FROM decks;"
             decks = self.cursor.execute(decks_query).fetchall()
 
             for deck in decks:
-                unique_id = f"decks-list-{deck[0]}--{time_ns()}"
+                # Use timestamp to ensure ID uniqueness
+                unique_id = f"deck-{deck[0]}-{time_ns()}"
+                deck_name = str(deck[1])
                 item = ListItem(
-                    Static(str(deck[1])),
+                    Static(deck_name),
                     id=unique_id,
                 )
+                # Make sure deck_id is set as an attribute
                 setattr(item, "deck_id", deck[0])
-                decks_list.mount(item)
+                # Use append for ListView
+                decks_list.append(item)
+            
+            # Reset index after repopulating
+            if decks:
+                decks_list.index = 0
+            else:
+                decks_list.index = None
 
-        except Exception:
+        except Exception as e:
+            self.app.notify(f"Error populating decks: {str(e)}", severity="error")
             raise
 
     def populate_cards_list(self, filters=None) -> None:
         """Populate the cards list, with optional filtering"""
         try:
             cards_list = self.app.query_one("#builder-cards-list")
-            cards_list.remove_children()
+            # Use clear() instead of remove_children()
+            cards_list.clear()
 
             if filters:
+                # Safety check - convert any Select.BLANK to empty string
+                for key in filters:
+                    if hasattr(filters[key], "__class__") and filters[key].__class__.__name__ == "NoSelection":
+                        filters[key] = ""  # Convert BLANK to empty string for safe SQL
                 self.current_filters = filters
             
             # Start building the query
             query = """SELECT
-                        id, name, set_name, image_path, type
+                        id, name, set_name, image_path, type, card_type
                     FROM
                         cards
                     WHERE 1=1
@@ -133,14 +166,22 @@ class CardManagement:
                 query += " AND name LIKE ?"
                 params.append(f"%{self.current_filters['name']}%")
             
-            # Apply category filter (formerly type filter)
+            # Apply category filter (using correct card_type values)
             if self.current_filters.get("category") == "pokemon":
-                query += " AND type NOT LIKE 'Trainer%'"
+                # Pokémon cards seem to have NULL or empty card_type
+                query += " AND (card_type IS NULL OR card_type = '')"
+                # Apply Pokémon type filter only when category is pokemon
+                if self.current_filters.get("pokemon_type") and self.current_filters["pokemon_type"] != "all":
+                    query += " AND type LIKE ?"
+                    params.append(f"%{self.current_filters['pokemon_type']}%")
             elif self.current_filters.get("category") == "trainer":
-                query += " AND type LIKE 'Trainer%'"
+                # Trainer cards are labeled 'Trainer' or 'Supporter'
+                query += " AND (card_type = 'Trainer' OR card_type = 'Supporter')"
             
-            # Apply Pokémon type filter
-            if self.current_filters.get("pokemon_type") and self.current_filters["pokemon_type"] != "all":
+            # Apply Pokémon type filter if category is 'all' (implicitly filters for Pokémon)
+            elif self.current_filters.get("category") == "all" and \
+                 self.current_filters.get("pokemon_type") and \
+                 self.current_filters["pokemon_type"] != "all":
                 query += " AND type LIKE ?"
                 params.append(f"%{self.current_filters['pokemon_type']}%")
             
@@ -151,7 +192,8 @@ class CardManagement:
             cards = self.cursor.execute(query, params).fetchall()
             
             for card in cards:
-                unique_id = f"card-list-{card[0]}-{time_ns()}"
+                # Use timestamp to ensure ID uniqueness
+                unique_id = f"card-{card[0]}-{time_ns()}"
                 # Format the display text with set name
                 display_text = f"{card[1]} ({card[2]})"
                 item = ListItem(
@@ -159,8 +201,15 @@ class CardManagement:
                     id=unique_id,
                 )
                 setattr(item, "card_id", card[0])
-                cards_list.mount(item)
+                # Use append for ListView
+                cards_list.append(item)
                 
+            # Explicitly reset index after repopulating to prevent IndexError
+            if cards:
+                cards_list.index = 0
+            else:
+                cards_list.index = None
+            
             # Update status message with count of cards found
             self.app.query_one("#status-message", Label).update(
                 f"Found {len(cards)} cards matching your filters"
@@ -211,14 +260,19 @@ class CardManagement:
             elif self.app.query_one("#category-trainer").value:
                 category_value = "trainer"
             
-            # Handle set filter value - empty string means "All Sets"
+            # Handle set filter value - check for BLANK or empty string
             set_value = ""
-            if set_filter.value is not None and set_filter.value != "":
+            # Check if value is None, BLANK, or empty string (all treated as "All Sets")
+            if hasattr(set_filter.value, "__class__") and set_filter.value.__class__.__name__ == "NoSelection":
+                set_value = ""  # Handle Select.BLANK case
+            elif set_filter.value not in (None, ""):
                 set_value = set_filter.value
                 
             # Handle type filter value
             type_value = "all"
-            if type_filter.value is not None:
+            if hasattr(type_filter.value, "__class__") and type_filter.value.__class__.__name__ == "NoSelection":
+                type_value = "all"  # Handle Select.BLANK case
+            elif type_filter.value not in (None, ""):
                 type_value = type_filter.value
             
             # Set the filters
@@ -277,11 +331,16 @@ class CardManagement:
             decks_cards_list = self.app.query_one("#decks-cards-list", ListView)
             # Clear the list view and reset its state
             decks_cards_list.clear()
+            
+            # Get the deck_id from the highlighted item
             deck_id = getattr(event.item, "deck_id", None)
 
             if deck_id is None:
                 return
 
+            # Store the current deck ID in the app for other operations
+            self.app.current_deck_id = deck_id
+            
             cursor = self.db_conn.cursor()
             query = """SELECT
                         d.name AS deck_name,
@@ -302,7 +361,8 @@ class CardManagement:
             cards = cursor.execute(query, (deck_id,)).fetchall()
 
             for card in cards:
-                unique_id = f"decks-card-list-{card[1]}-{str(card[0]).replace(' ', '-')}"
+                # Use timestamp to ensure ID uniqueness
+                unique_id = f"decks-card-{card[1]}-{time_ns()}"
                 # Include set name in the display
                 card_display = f"{card[2]} ({card[3]}) (x{card[4]})"
                 item = ListItem(
@@ -339,14 +399,15 @@ class CardManagement:
                 
         return image_path  # Return original path even if not found
 
-    def show_decks_cards_list_info(self, event) -> None:
+    def display_card_details(self, event) -> None:
         try:
             card_id = getattr(event.item, "card_id", None)
             if card_id is None:
                 return
 
             query = """SELECT
-                        id, name, set_name, hp, type, image_path, moves, weakness, retreat_cost
+                        id, name, set_name, hp, type, image_path, moves, weakness, retreat_cost,
+                        card_type, description, rule_text
                     FROM
                         cards
                     WHERE
@@ -362,6 +423,7 @@ class CardManagement:
                 # Ensure the image path exists
                 image_path = self.ensure_image_path_exists(card[5])
                 
+                # Use the correct ID for the Deck view's image widget
                 card_image = self.app.query_one("#card-image-decks-view", CardImage)
                 card_image.update_image(image_path)
 
@@ -369,30 +431,53 @@ class CardManagement:
                 moves = json.loads(card[6]) if card[6] else []
                 weakness = json.loads(card[7]) if card[7] else []
                 retreat_cost = json.loads(card[8]) if card[8] else []
+                
+                # Get card type, description, and rule text
+                card_type = card[9] if len(card) > 9 and card[9] else ""
+                description = card[10] if len(card) > 10 and card[10] else ""
+                rule_text = card[11] if len(card) > 11 and card[11] else ""
 
-                # Format moves for display
-                moves_display = ""
-                for move in moves:
-                    energy_cost = ", ".join(move.get("energy_cost", []))
-                    move_name = move.get("name", "")
-                    damage = move.get("damage", "")
-                    description = move.get("description", "")
-                    moves_display += f"{move_name} ({energy_cost}) - {damage} - {description}\n"
-
-                # Format weakness and retreat cost
-                weakness_display = ", ".join(weakness) if weakness else "None"
-                retreat_display = ", ".join(retreat_cost) if retreat_cost else "None"
-
-                stats = self.app.query_one("#decks-card-stats", Static)
+                # Format the display differently based on card type
+                string = ""
+                
+                # Basic info for all cards
                 string = (
                     f"Name: {card[1]}\n"
                     f"Set: {card[2]}\n"
-                    f"HP: {card[3]}\n"
-                    f"Type: {card[4]}\n"
-                    f"Moves:\n{moves_display}\n"
-                    f"Weakness: {weakness_display}\n"
-                    f"Retreat Cost: {retreat_display}\n"
                 )
+                
+                # Add card type if present
+                if card_type:
+                    string += f"Card Type: {card_type}\n"
+                
+                # For Pokémon cards
+                if not card_type or ("Pokémon" in card_type and "Tool" not in card_type):
+                    # Format moves for display
+                    moves_display = ""
+                    for move in moves:
+                        energy_cost = ", ".join(move.get("energy_cost", []))
+                        move_name = move.get("name", "")
+                        damage = move.get("damage", "")
+                        move_description = move.get("description", "")
+                        moves_display += f"{move_name} ({energy_cost}) - {damage} - {move_description}\n"
+                    
+                    # Add Pokémon-specific info
+                    string += (
+                        f"HP: {card[3]}\n"
+                        f"Type: {card[4]}\n"
+                        f"Moves:\n{moves_display}\n"
+                        f"Weakness: {', '.join(weakness) if weakness else 'None'}\n"
+                        f"Retreat Cost: {', '.join(retreat_cost) if retreat_cost else 'None'}\n"
+                    )
+                # For Trainer/Tool/Supporter cards
+                elif "Trainer" in card_type or "Tool" in card_type or "Supporter" in card_type:
+                    # Add Trainer/Tool/Supporter-specific info
+                    if description:
+                        string += f"\nEffect:\n{description}\n"
+                    if rule_text:
+                        string += f"\nRule Text:\n{rule_text}\n"
+
+                stats = self.app.query_one("#decks-card-stats", Static)
                 stats.update(string)
                 self.app.query_one("#status-message", Label).update(f"Selected: {self.app.current_card_name} ({card[2]}) - Press 'o' for actions")
         except Exception as e:
@@ -406,7 +491,8 @@ class CardManagement:
                 return
 
             query = """SELECT
-                        id, name, set_name, hp, type, image_path, moves, weakness, retreat_cost
+                        id, name, set_name, hp, type, image_path, moves, weakness, retreat_cost,
+                        card_type, description, rule_text
                     FROM
                         cards
                     WHERE
@@ -429,30 +515,53 @@ class CardManagement:
                 moves = json.loads(card[6]) if card[6] else []
                 weakness = json.loads(card[7]) if card[7] else []
                 retreat_cost = json.loads(card[8]) if card[8] else []
+                
+                # Get card type, description, and rule text
+                card_type = card[9] if len(card) > 9 and card[9] else ""
+                description = card[10] if len(card) > 10 and card[10] else ""
+                rule_text = card[11] if len(card) > 11 and card[11] else ""
 
-                # Format moves for display
-                moves_display = ""
-                for move in moves:
-                    energy_cost = ", ".join(move.get("energy_cost", []))
-                    move_name = move.get("name", "")
-                    damage = move.get("damage", "")
-                    description = move.get("description", "")
-                    moves_display += f"{move_name} ({energy_cost}) - {damage} - {description}\n"
-
-                # Format weakness and retreat cost
-                weakness_display = ", ".join(weakness) if weakness else "None"
-                retreat_display = ", ".join(retreat_cost) if retreat_cost else "None"
-
-                stats = self.app.query_one("#builder-card-stats", Static)
+                # Format the display differently based on card type
+                string = ""
+                
+                # Basic info for all cards
                 string = (
                     f"Name: {card[1]}\n"
                     f"Set: {card[2]}\n"
-                    f"HP: {card[3]}\n"
-                    f"Type: {card[4]}\n"
-                    f"Moves:\n{moves_display}\n"
-                    f"Weakness: {weakness_display}\n"
-                    f"Retreat Cost: {retreat_display}\n"
                 )
+                
+                # Add card type if present
+                if card_type:
+                    string += f"Card Type: {card_type}\n"
+                
+                # For Pokémon cards
+                if not card_type or "Pokémon" in card_type and not "Tool" in card_type:
+                    # Format moves for display
+                    moves_display = ""
+                    for move in moves:
+                        energy_cost = ", ".join(move.get("energy_cost", []))
+                        move_name = move.get("name", "")
+                        damage = move.get("damage", "")
+                        move_description = move.get("description", "")
+                        moves_display += f"{move_name} ({energy_cost}) - {damage} - {move_description}\n"
+                    
+                    # Add Pokémon-specific info
+                    string += (
+                        f"HP: {card[3]}\n"
+                        f"Type: {card[4]}\n"
+                        f"Moves:\n{moves_display}\n"
+                        f"Weakness: {', '.join(weakness) if weakness else 'None'}\n"
+                        f"Retreat Cost: {', '.join(retreat_cost) if retreat_cost else 'None'}\n"
+                    )
+                # For Trainer/Tool/Supporter cards
+                elif "Trainer" in card_type or "Tool" in card_type or "Supporter" in card_type:
+                    # Add Trainer/Tool/Supporter-specific info
+                    if description:
+                        string += f"\nEffect:\n{description}\n"
+                    if rule_text:
+                        string += f"\nRule Text:\n{rule_text}\n"
+
+                stats = self.app.query_one("#builder-card-stats", Static)
                 stats.update(string)
                 self.app.query_one("#status-message", Label).update(f"Selected: {self.app.current_card_name} ({card[2]}) - Press 'o' for actions")
 

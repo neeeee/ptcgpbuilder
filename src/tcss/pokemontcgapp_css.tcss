@@ -45,7 +45,7 @@ Button {
 #builder-container {
     layout: grid;
     grid-size: 2 2;
-    grid-columns: 1fr 1fr;
+    grid-columns: 60vw 40vw;
     grid-rows: 30vh 70vh;
 }
 
