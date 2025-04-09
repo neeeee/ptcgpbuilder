@@ -4,6 +4,8 @@ from textual.widgets import (
 )
 from rich_pixels import Pixels
 from PIL import Image
+from textual.app import ComposeResult
+from textual.containers import Horizontal
 
 class PokemonCard:
     def __init__(self, id = None,
@@ -30,6 +32,43 @@ class PokemonCard:
         self.card_type = card_type
         self.description = description
         self.rule_text = rule_text
+
+class TypeIcon(Static):
+    """A small widget to display a Pokémon type icon"""
+    
+    def __init__(self, type_name: str, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.type_name = type_name
+        
+    def on_mount(self) -> None:
+        self.load_icon()
+        
+    def load_icon(self) -> None:
+        from utils.card_functions.card_management import CardManagement
+        
+        try:
+            image_path = CardManagement.get_type_image_path(self.type_name)
+            if image_path and os.path.exists(image_path):
+                with Image.open(image_path) as img:
+                    # Make type icons small
+                    img = img.resize((16, 16), Image.Resampling.LANCZOS)
+                    pixels = Pixels.from_image(img)
+                    self.update(pixels)
+            else:
+                self.update(self.type_name)
+        except Exception as e:
+            self.update(self.type_name)
+
+class TypeIconDisplay(Horizontal):
+    """A widget to display multiple type icons in a row"""
+    
+    def __init__(self, type_names: list, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.type_names = type_names
+        
+    def compose(self) -> ComposeResult:
+        for type_name in self.type_names:
+            yield TypeIcon(type_name)
 
 class CardImage(Static):
     def __init__(self, image_path: str | None = None, *args, **kwargs):
