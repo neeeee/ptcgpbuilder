@@ -1,4 +1,4 @@
-from utils.db_management import DBManagement
+from db_management import DBManagement
 
 db_management = DBManagement("src/db/pokemon_tcg.db")
 

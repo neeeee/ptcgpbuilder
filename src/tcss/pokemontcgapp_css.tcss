@@ -45,8 +45,8 @@ Button {
 #builder-container {
     layout: grid;
     grid-size: 2 2;
-    grid-columns: 60vw 40vw;
-    grid-rows: 30vh 70vh;
+    grid-columns: 50vw 50vw;
+    grid-rows: 25vh 75vh;
 }
 
 #builder-card-stats-title, #builder-cards-title, #builder-card-image-title {
