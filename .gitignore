@@ -29,9 +29,6 @@ __pycache__/
 *.html
 
 # Pokemon card images
-*.jpg
-*.jpeg
-*.png
 *.gif
 *.webp
 
