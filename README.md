@@ -30,6 +30,10 @@ pip install -e .
 python src/main.py
 ```
 
+### Building a Deck
+
+In the Builder view, filter by set, type, card category, or search by name. Press "o" (the o key) on a highlighted card to bring up a deck builder popup. Add 1 or 2 copies to an existing deck or create a new deck. If the deck contains 2 copies of that card, another cannot be added.
+
 ### Scraping Card Data
 
 ```bash
@@ -41,7 +45,9 @@ python src/scrape_all_sets.py --sets shiningrevelry geneticapex
 
 # Scrape all supported sets
 python src/scrape_all_sets.py
+
 ```
+Note: Some data may come back malformed in the json. Manual validating is necessary if something is wrong when searching the card DB.
 
 ### Importing Cards to Database
 
@@ -54,12 +60,14 @@ python src/utils/import_cards.py --input pokemon_cards_shiningrevelry.json
 
 - `1`: Show Decks view
 - `2`: Show Builder view
-- `o`: Open card actions menu
+- `o`: Open card actions menu (when card is highlighted)
+- `q`: Quit application
+
+### Deck View
 - `Ctrl+n`: Create a new deck
 - `Ctrl+r`: Rename selected deck
 - `Ctrl+d`: Delete selected deck
 - `Ctrl+y`: Remove card from deck
-- `q`: Quit application
 
 ## Development
 
@@ -70,6 +78,9 @@ pip install -e ".[dev]"
 # Run tests
 pytest
 ```
+Everything Pokemon is owned by The Pokemon Company, Creatures, Nintendo, DeNA and any other related parties.
+
+I do not own any data scraped from any sources used by this project. If Serebii would like scraping to cease, please let me know.
 
 ## License
 
