@@ -154,14 +154,14 @@ class PokemonTCGApp(App):
 
     @on(AddToDeckModal.DeckSelected)
     def on_deck_selected_from_modal(self, event: AddToDeckModal.DeckSelected) -> None:
-        self.card_management.add_card_to_deck(self.current_card_id, event.deck_id, event.deck_name, self.current_card_name)
+        self.card_management.add_card_to_deck(self.current_card_id, event.deck_id, event.deck_name, self.current_card_name, event.quantity)
 
     @on(AddToDeckModal.NewDeckCreated)
     def on_new_deck_created(self, event: AddToDeckModal.NewDeckCreated) -> None:
-        self.card_management.add_card_to_deck(self.current_card_id, event.deck_id, event.deck_name, self.current_card_name)
+        self.card_management.add_card_to_deck(self.current_card_id, event.deck_id, event.deck_name, self.current_card_name, event.quantity)
 
         self.query_one("#status-message", Label).update(
-            f"Added {self.current_card_id} to deck: {event.deck_name}"
+            f"Added {event.quantity} copies of {self.current_card_name} to deck: {event.deck_name}"
         )
 
     @on(CreateEmptyDeckModal.DeckCreated)

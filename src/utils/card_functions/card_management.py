@@ -17,28 +17,28 @@ class CardManagement:
             "pokemon_type": "all"
         }
 
-    def add_card_to_deck(self, card_id, deck_id, deck_name, card_name) -> None:
+    def add_card_to_deck(self, card_id, deck_id, deck_name, card_name, quantity=1) -> None:
         try:
             self.cursor.execute("SELECT SUM(count) FROM deck_cards WHERE deck_id = ?", (deck_id,))
             total_cards = self.cursor.fetchone()[0] or 0
-            if total_cards >= 20:
-                self.app.notify(f"Deck '{deck_name}' is full (20 cards max). Cannot add {card_name}.", severity="warning")
+            if total_cards + quantity > 20:
+                self.app.notify(f"Deck '{deck_name}' would exceed 20 cards. Cannot add {quantity} copies of {card_name}.", severity="warning")
                 return
 
             self.cursor.execute("SELECT count FROM deck_cards WHERE deck_id = ? AND card_id = ?", (deck_id, card_id))
             card_count_row = self.cursor.fetchone()
             card_count = card_count_row[0] if card_count_row else 0
-            if card_count >= 2:
-                self.app.notify(f"Deck '{deck_name}' already has 2 copies of {card_name}. Cannot add more.", severity="warning")
+            if card_count + quantity > 2:
+                self.app.notify(f"Deck '{deck_name}' would exceed 2 copies of {card_name}. Cannot add {quantity} more.", severity="warning")
                 return
 
             self.cursor.execute("""
                 INSERT INTO deck_cards (deck_id, card_id, count)
-                VALUES (?, ?, 1)
-                ON CONFLICT (deck_id, card_id) DO UPDATE SET count = count + 1
-            """, (deck_id, card_id))
+                VALUES (?, ?, ?)
+                ON CONFLICT (deck_id, card_id) DO UPDATE SET count = count + ?
+            """, (deck_id, card_id, quantity, quantity))
             self.db_conn.commit()
-            self.app.notify(f"Added {card_name} to {deck_name}")
+            self.app.notify(f"Added {quantity} copies of {card_name} to {deck_name}")
 
         except sqlite3.Error as e:
             error_msg = f"Error adding card to deck: {str(e)}"

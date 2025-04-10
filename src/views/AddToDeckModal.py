@@ -13,6 +13,7 @@ from textual.widgets import (
     Label,
     Input,
     Button,
+    Select,
 )
 
 from textual.message import Message
@@ -21,17 +22,19 @@ from textual.binding import Binding
 class AddToDeckModal(ModalScreen):
     class DeckSelected(Message):
         """Message sent when a deck is selected."""
-        def __init__(self, deck_id, deck_name) -> None:
+        def __init__(self, deck_id, deck_name, quantity=1) -> None:
             super().__init__()
             self.deck_id = deck_id
             self.deck_name = deck_name
+            self.quantity = quantity
     
     class NewDeckCreated(Message):
         """Message sent when a new deck is created."""
-        def __init__(self, deck_id, deck_name) -> None:
+        def __init__(self, deck_id, deck_name, quantity=1) -> None:
             super().__init__()
             self.deck_id = deck_id
             self.deck_name = deck_name
+            self.quantity = quantity
     
     class Cancelled(Message):
         """Message sent when the operation is cancelled."""
@@ -49,6 +52,7 @@ class AddToDeckModal(ModalScreen):
         self.db_conn = db_conn
         self.cursor = db_conn.cursor()
         self.deck_choice = "existing"  # Default to existing decks
+        self.quantity = 1  # Default quantity
     
     def compose(self) -> ComposeResult:
         with Container(id="modal-container"):
@@ -71,6 +75,18 @@ class AddToDeckModal(ModalScreen):
                 yield Static("Enter new deck name:")
                 yield Input(placeholder="Deck name", id="new-deck-name")
                 yield Button("Create Deck", variant="primary", id="create-deck-btn")
+            
+            # Quantity selector
+            with Container(id="quantity-container"):
+                yield Static("Quantity:")
+                yield Select(
+                    options=[
+                        ("1", "1"),
+                        ("2", "2"),
+                    ],
+                    value="1",
+                    id="quantity-selector"
+                )
             
             with Container(id="modal-buttons"):
                 yield Button("Cancel", variant="error", id="cancel-btn")
@@ -110,7 +126,8 @@ class AddToDeckModal(ModalScreen):
         deck_id = int(event.item.id.split("-")[1])
         label: Label = event.item.query_one(Label)
         deck_name = str(label.renderable)
-        self.post_message(self.DeckSelected(deck_id, deck_name))
+        quantity = int(self.query_one("#quantity-selector", Select).value)
+        self.post_message(self.DeckSelected(deck_id, deck_name, quantity))
         self.dismiss()
     
     @on(Button.Pressed, "#create-deck-btn")
@@ -133,8 +150,9 @@ class AddToDeckModal(ModalScreen):
             
             # Get the ID of the newly created deck
             deck_id = self.cursor.lastrowid
+            quantity = int(self.query_one("#quantity-selector", Select).value)
             
-            self.post_message(self.NewDeckCreated(deck_id, deck_name))
+            self.post_message(self.NewDeckCreated(deck_id, deck_name, quantity))
             self.dismiss()
         except sqlite3.Error as e:
             # Handle error (in a real app, you'd want better error handling)
