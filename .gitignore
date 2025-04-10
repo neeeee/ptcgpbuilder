@@ -1,2 +1,48 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
-*
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Python virtual environment
+venv/
+env/
+.env/
+.venv/
+ENV/
+bin/
+lib/
+include/
+scripts/
+*.cfg
+*.cfg.py
+*.cfg.pyc
+*.cfg.pyo
+*.cfg.pyd
+*.cfg.pyw
+*.cfg.pyz
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.html
+
+# Pokemon card images
+*.gif
+*.webp
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+.DS_Store
