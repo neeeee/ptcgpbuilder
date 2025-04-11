@@ -34,6 +34,7 @@ class PokemonTCGApp(App):
         Binding("ctrl+d", "delete_deck", "Delete Deck"),
         Binding("ctrl+y", "remove_from_deck", "Remove from Deck"),
         Binding("ctrl+n", "create_empty_deck", "Create Deck"),
+        Binding("ctrl+e", "export_deck_cards", "Export Deck Cards"),
     ]
 
     def __init__(self):
@@ -206,6 +207,12 @@ class PokemonTCGApp(App):
     def on_unmount(self) -> None:
         if self.db_conn:
             self.db_conn.close()
+
+    def action_export_deck_cards(self) -> None:
+        if not self.current_deck_id:
+            self.notify("No deck selected", severity="warning")
+            return
+        self.card_management.export_deck_cards(self.current_deck_id)
 
 def main():
     app = PokemonTCGApp()

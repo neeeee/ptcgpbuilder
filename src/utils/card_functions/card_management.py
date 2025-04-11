@@ -542,3 +542,45 @@ class CardManagement:
             self.app.notify(f"Error displaying card: {str(e)}", severity="error")
             raise
 
+    def export_deck_cards(self, deck_id) -> None:
+        try:
+            # Get deck name
+            self.cursor.execute("SELECT name FROM decks WHERE id = ?", (deck_id,))
+            deck_name = self.cursor.fetchone()[0]
+            
+            # Get all cards in the deck
+            self.cursor.execute("""
+                SELECT c.name, c.set_name, dc.count
+                FROM deck_cards dc
+                JOIN cards c ON dc.card_id = c.id
+                WHERE dc.deck_id = ?
+                ORDER BY c.name
+            """, (deck_id,))
+            cards = self.cursor.fetchall()
+            
+            if not cards:
+                self.app.notify("No cards in deck to export", severity="warning")
+                return
+                
+            # Create export directory if it doesn't exist
+            export_dir = "exports"
+            if not os.path.exists(export_dir):
+                os.makedirs(export_dir)
+                
+            # Create filename with timestamp
+            timestamp = time_ns()
+            filename = f"{export_dir}/{deck_name}_{timestamp}.txt"
+            
+            # Write cards to file
+            with open(filename, "w") as f:
+                f.write(f"Deck: {deck_name}\n")
+                f.write("=" * 50 + "\n\n")
+                for card in cards:
+                    f.write(f"{card[2]}x {card[0]} ({card[1]})\n")
+                    
+            self.app.notify(f"Deck exported to {filename}", severity="information")
+            
+        except Exception as e:
+            self.app.notify(f"Error exporting deck: {str(e)}", severity="error")
+            raise
+
