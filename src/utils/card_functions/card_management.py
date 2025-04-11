@@ -126,7 +126,6 @@ class CardManagement:
             raise
 
     def populate_cards_list(self, filters=None) -> None:
-        """Populate the cards list, with optional filtering"""
         try:
             cards_list = self.app.query_one("#builder-cards-list")
             cards_list.clear()
@@ -195,7 +194,6 @@ class CardManagement:
             raise
             
     def populate_set_filter(self) -> None:
-        """Populate the set filter dropdown with available sets"""
         try:
             set_filter = self.app.query_one("#set-filter", Select)
             
@@ -216,7 +214,6 @@ class CardManagement:
             raise
             
     def apply_filters(self) -> None:
-        """Apply the current filters to the card list"""
         try:
             set_filter = self.app.query_one("#set-filter", Select)
             name_filter = self.app.query_one("#name-filter")
@@ -254,7 +251,6 @@ class CardManagement:
             raise
             
     def clear_filters(self) -> None:
-        """Clear all filters and reset to default view"""
         try:
             set_filter = self.app.query_one("#set-filter", Select)
             type_filter = self.app.query_one("#type-filter", Select)
@@ -329,7 +325,6 @@ class CardManagement:
             raise
 
     def ensure_image_path_exists(self, image_path):
-        """Ensure the image path exists and is accessible"""
         if not image_path:
             return None
             
