@@ -68,6 +68,13 @@ python src/utils/import_cards.py --input pokemon_cards_shiningrevelry.json
 - `Ctrl+r`: Rename selected deck
 - `Ctrl+d`: Delete selected deck
 - `Ctrl+y`: Remove card from deck
+- `Ctrl+e`: Export deck as txt file
+
+## Known Issues
+- Creating an empty deck in Deck View with `Ctrl+n` crashes the program after successfully adding the deck to the database
+- In Builder View, card list does not show all cards past the last 4 or so in the list. Highlighting still works with arrow keys
+- In Builder View, if one item is returned by the filter, the item cannot be highlighted without switching between Deck View and Builder View
+- In Deck View, the cards list card image is off center
 
 ## Development
 
