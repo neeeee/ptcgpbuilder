@@ -82,20 +82,31 @@ class CardManagement:
 
     def create_empty_deck(self, deck_name) -> None:
         try:
+            # Start transaction
+            self.db_conn.execute("BEGIN TRANSACTION")
+            
+            # Insert new deck
             self.cursor.execute("""
                 INSERT INTO decks (name)
                 VALUES (?)
             """, (deck_name,))
+            
+            # Get the ID of the newly created deck
+            self.cursor.execute("SELECT last_insert_rowid()")
+            new_deck_id = self.cursor.fetchone()[0]
+            
+            # Commit transaction
             self.db_conn.commit()
-            self.app.notify(f"Created new deck: {deck_name}", severity="information")
-            self.populate_decks_list()
+            
+            return new_deck_id
             
         except sqlite3.Error as e:
             error_msg = f"Error creating deck: {str(e)}"
             self.app.notify(error_msg, severity="error")
             self.db_conn.rollback()
+            return None
 
-    def populate_decks_list(self) -> None:
+    def populate_decks_list(self, search_text: str = "") -> None:
         try:
             decks_list = self.app.query_one("#decks-deck-selector")
             deck_cards = self.app.query_one("#decks-cards-list")
@@ -103,8 +114,15 @@ class CardManagement:
             decks_list.clear()
             deck_cards.clear()
 
-            decks_query = "SELECT decks.id, decks.name FROM decks;"
-            decks = self.cursor.execute(decks_query).fetchall()
+            # Get all decks with optional search filter
+            query = "SELECT decks.id, decks.name FROM decks"
+            params = []
+            if search_text:
+                query += " WHERE name LIKE ?"
+                params.append(f"%{search_text}%")
+            query += " ORDER BY name"
+            
+            decks = self.cursor.execute(query, params).fetchall()
 
             for deck in decks:
                 unique_id = f"deck-{deck[0]}-{time_ns()}"

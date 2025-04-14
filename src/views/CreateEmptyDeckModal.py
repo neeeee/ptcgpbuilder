@@ -76,9 +76,14 @@ class CreateEmptyDeckModal(ModalScreen):
             self.dismiss(self.DeckCreated(self.deck_id, deck_name))
         else:
             # Create new deck
-            self._app.card_management.create_empty_deck(deck_name)
-            # We don't have the deck_id yet, but we'll update the UI through the card_management
-            self.dismiss(self.DeckCreated(None, deck_name))
+            try:
+                new_deck_id = self._app.card_management.create_empty_deck(deck_name)
+                if new_deck_id is None:
+                    self._app.notify("Failed to create deck", severity="error")
+                    return
+                self.dismiss(self.DeckCreated(new_deck_id, deck_name))
+            except Exception as e:
+                self._app.notify(f"Error creating deck: {str(e)}", severity="error")
     
     def action_cancel(self) -> None:
         """Cancel the operation."""

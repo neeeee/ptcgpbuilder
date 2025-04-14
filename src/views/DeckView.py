@@ -3,6 +3,7 @@ from textual.containers import Horizontal, Vertical
 from textual.widgets import (
     Static,
     ListView,
+    Input,
 )
 from views.PokemonCard import CardImage
 
@@ -11,6 +12,7 @@ class DeckView(Static):
         with Horizontal(id="decks-view"):
             yield Vertical(
                 Static("Decks"),
+                Input(placeholder="Search decks...", id="deck-view-search"),
                 ListView(id="decks-deck-selector"),
                 classes="column",
                 id="decks-column-1")

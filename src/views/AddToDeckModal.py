@@ -18,6 +18,7 @@ from textual.widgets import (
 
 from textual.message import Message
 from textual.binding import Binding
+from time import time_ns
 
 class AddToDeckModal(ModalScreen):
     class DeckSelected(Message):
@@ -53,6 +54,8 @@ class AddToDeckModal(ModalScreen):
         self.cursor = db_conn.cursor()
         self.deck_choice = "existing"  # Default to existing decks
         self.quantity = 1  # Default quantity
+        self.decks_data = self._get_decks_from_db()  # Store deck data for filtering
+        self.all_decks = self._create_deck_list_items()  # Create list items from data
     
     def compose(self) -> ComposeResult:
         with Container(id="modal-container"):
@@ -67,8 +70,9 @@ class AddToDeckModal(ModalScreen):
             # Container for existing decks (initially visible)
             with Container(id="existing-decks-container"):
                 yield Static("Select a deck:")
+                yield Input(placeholder="Search decks...", id="deck-search")
                 with ScrollableContainer(id="decks-scroll"):
-                    yield ListView(*self._get_decks_from_db(), id="decks-list")
+                    yield ListView(*self.all_decks, id="decks-list")
             
             # Container for new deck (initially hidden)
             with Container(id="new-deck-container", classes="hidden"):
@@ -91,17 +95,20 @@ class AddToDeckModal(ModalScreen):
             with Container(id="modal-buttons"):
                 yield Button("Cancel", variant="error", id="cancel-btn")
 
-    def _get_decks_from_db(self) -> list[ListItem]:
+    def _get_decks_from_db(self) -> list[tuple]:
         """Get all decks from the database"""
         decks = self.cursor.execute("SELECT id, name FROM decks ORDER BY name").fetchall()
+        return decks
 
-        if not decks:
-            return [ListItem(Label("No decks available. Create a new one."))] 
-
-        return [ListItem(Label(f"{deck[1]}"), 
-                id=f"deck-{deck[0]}") 
-                for deck in decks]
-
+    def _create_deck_list_items(self) -> list[ListItem]:
+        """Create list items from deck data"""
+        if not self.decks_data:
+            return [ListItem(Label("No decks available. Create a new one."))]
+        
+        return [
+            ListItem(Label(f"{deck[1]}"), id=f"deck-{deck[0]}")
+            for deck in self.decks_data
+        ]
 
     @on(RadioSet.Changed)
     def on_radio_changed(self, event: RadioSet.Changed) -> None:
@@ -168,4 +175,31 @@ class AddToDeckModal(ModalScreen):
         """Handle escape key press"""
         self.post_message(self.Cancelled())
         self.dismiss()
+
+    @on(Input.Changed, "#deck-search")
+    def on_search_changed(self, event: Input.Changed) -> None:
+        """Handle search input changes"""
+        search_text = event.value.lower()
+        decks_list = self.query_one("#decks-list")
+        decks_list.clear()
+        
+        if not search_text:
+            # If search is empty, show all decks
+            decks_list.append(*self.all_decks)
+        else:
+            # Filter decks based on search text
+            filtered_decks = []
+            for deck_data in self.decks_data:
+                deck_name = deck_data[1].lower()
+                if search_text in deck_name:
+                    # Create a unique ID for each ListItem
+                    unique_id = f"deck-{deck_data[0]}-{time_ns()}"
+                    filtered_decks.append(
+                        ListItem(Label(f"{deck_data[1]}"), id=unique_id)
+                    )
+            decks_list.append(*filtered_decks)
+            
+        # If no decks match the search, show a message
+        if not decks_list.children:
+            decks_list.append(ListItem(Label("No decks found matching search.")))
 

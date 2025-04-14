@@ -96,6 +96,7 @@ class PokemonTCGApp(App):
         self.card_management.remove_from_deck(self.current_deck_id, self.current_card_id)
 
     def action_create_empty_deck(self) -> None:
+        """Create a new empty deck."""
         self.push_screen(CreateEmptyDeckModal(self))
 
     def action_rename_deck(self) -> None:
@@ -167,9 +168,26 @@ class PokemonTCGApp(App):
 
     @on(CreateEmptyDeckModal.DeckCreated)
     def on_deck_created(self, event: CreateEmptyDeckModal.DeckCreated) -> None:
+        # Update the UI
         self.card_management.populate_decks_list()
         
-        action = "renamed" if event.deck_id else "created"
+        # Focus on the deck selector
+        decks_list = self.query_one("#decks-deck-selector")
+        decks_list.focus()
+        
+        # Find and select the deck
+        if event.deck_id is not None:
+            for i, item in enumerate(decks_list.children):
+                if getattr(item, "deck_id", None) == event.deck_id:
+                    decks_list.index = i
+                    # Update the cards list for the new deck
+                    self.card_management.populate_decks_cards_list(
+                        ListView.Highlighted(decks_list, item=item)
+                    )
+                    break
+        
+        # Update status message
+        action = "renamed" if self.is_rename_mode else "created"
         self.query_one("#status-message", Label).update(
             f"Deck {action}: {event.deck_name}"
         )
@@ -213,6 +231,12 @@ class PokemonTCGApp(App):
             self.notify("No deck selected", severity="warning")
             return
         self.card_management.export_deck_cards(self.current_deck_id)
+
+    @on(Input.Changed, "#deck-view-search")
+    def on_deck_view_search_changed(self, event: Input.Changed) -> None:
+        """Handle deck view search input changes"""
+        search_text = event.value
+        self.card_management.populate_decks_list(search_text)
 
 def main():
     app = PokemonTCGApp()
