@@ -68,6 +68,14 @@ python src/utils/import_cards.py --input pokemon_cards_shiningrevelry.json
 - `Ctrl+r`: Rename selected deck
 - `Ctrl+d`: Delete selected deck
 - `Ctrl+y`: Remove card from deck
+- `Ctrl+e`: Export deck list
+
+### Known Issues
+- Creating a new deck doesn't refresh the deck list. Switch tabs to refresh
+- Scrollable items continue after the last visible item in Builder View
+- Status bar shows name of highlighted item even when not in view
+- New deck creation has no notification popup
+- Navigation is all keyboard except a few buttons
 
 ## Development
 
