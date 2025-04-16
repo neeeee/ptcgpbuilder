@@ -140,7 +140,11 @@ class PokemonTCGApp(App):
     @on(ListView.Highlighted, '#builder-cards-list')
     def builder_cards_list_highlighted(self, event: ListView.Highlighted) -> None:
         self.card_management.show_builder_cards_list_info(event)
- 
+
+    @on(ListView.Selected, '#builder-cards-list')
+    def builder_cards_list_selected(self, event: ListView.Selected) -> None:
+        self.card_management.show_builder_cards_list_info(event)
+
     @on(ListView.Highlighted, '#decks-deck-selector')
     def decks_deck_selector_highlighted(self, event: ListView.Highlighted) -> None:
         try:
@@ -150,8 +154,21 @@ class PokemonTCGApp(App):
         except Exception as e:
             self.notify(f"Error in deck highlight handler: {str(e)}", severity="error")
 
+    @on(ListView.Selected, '#decks-deck-selector')
+    def decks_deck_selector_selected(self, event: ListView.Selected) -> None:
+        try:
+            deck_id = getattr(event.item, "deck_id", None)
+            self.current_deck_id = deck_id
+            self.card_management.populate_decks_cards_list(event)
+        except Exception as e:
+            self.notify(f"Error in deck highlight handler: {str(e)}", severity="error")
+
     @on(ListView.Highlighted, '#decks-cards-list')
     def decks_cards_list_highlighted(self, event: ListView.Highlighted) -> None:
+        self.card_management.display_card_details(event)
+
+    @on(ListView.Selected, '#decks-cards-list')
+    def decks_cards_list_selected(self, event: ListView.Selected) -> None:
         self.card_management.display_card_details(event)
 
     @on(AddToDeckModal.DeckSelected)
